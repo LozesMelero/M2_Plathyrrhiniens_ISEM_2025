@@ -1,0 +1,77 @@
+LOCUS       KR528428                1238 bp    DNA     linear   PRI 19-DEC-2015
+DEFINITION  Callimico sp. isolate Z74 cytochrome b (cytb) gene, complete cds;
+            mitochondrial.
+ACCESSION   KR528428
+VERSION     KR528428.1
+KEYWORDS    .
+SOURCE      mitochondrion Callimico sp
+  ORGANISM  Callimico sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callimico.
+REFERENCE   1  (bases 1 to 1238)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     An expanded search for simian foamy viruses (SFV) in Brazilian New
+            World primates identifies novel SFV lineages and host age-related
+            infections
+  JOURNAL   Retrovirology 12 (1), 94 (2015)
+   PUBMED   26576961
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1238)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2015) Departamento de Genetica, Universidade
+            Federal do Rio de Janeiro, Rua Professor Rodolpho Paulo Rocco, s/No.
+            Predio do Centro de Ciencias da Saude (CCS), Bloco A, Sala A2-120.
+            Bairro Ilha do Fundao, Rio de Janeiro, Rio de Janeiro 21.941-617,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..1238
+                     /organism="Callimico sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Z74"
+                     /db_xref="taxon:1758239"
+                     /geo_loc_name="Brazil"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ALS54795.1"
+                     /translation="MTSPRKTHPLAKIINESFIDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTSTAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHIGRGLYY
+                     GSFLFLKTWNIGTILLLTTMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALAAIHLLFLHETGSSNPSGMTSEPDKISFHP
+                     YYTTKDILGLIFLILFLMNLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALMLSILILTIIPTMHLSKQQSMTFRPITQILFWALVADLLTLTWIGG
+                     QPVEYPFITIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgtaaaac tcacccgcta gcaaaaatta tcaacgaatc attcattgat
+       61 ctccctacac catcaaatat ctcctcctga tgaaattttg gctcactcct aggaacctgt
+      121 ctaattatcc aaatcaccac aggcctattc ctagcaatac attacacacc agatacctct
+      181 actgcctttt cctcagttgc ccatattact cgagatgtta attacggatg aataatccgt
+      241 tacttacatg ctaatggtgc atccatattt ttcatctgcc tctttctcca cattgggcga
+      301 ggcctatact acggatcatt tctttttctg aagacttgaa atatcggtac tatcctacta
+      361 cttacaacca tagccacagc attcataggc tatgtgcttc catgaggaca aatatcattc
+      421 tggggagcca cagtaattac taacctccta tcagccattc cctacattgg gtccgactta
+      481 gtccaatgga tttgaggcgg attctcagta gacaaagcca ccctaacacg attctttact
+      541 ttccacttta tcttgccttt catcatcgct gccttagcag ctattcacct actatttctg
+      601 catgaaacag gctcaagtaa cccatcagga ataacttcag aacccgacaa aatctcattt
+      661 catccctact atacaactaa agatattctc ggattgatct tccttattct attcttaata
+      721 aacttaactc tattcacccc cgatttatta acagacccgg acaattatac actagctaat
+      781 cccctaaaca ccccacccca catcaagcca gaatgatact tcctattcgc atatgcaatc
+      841 ctacgatcta tccccaacaa actaggaggc gttttagccc taatactctc tatcctaatt
+      901 ctaacaatta ttcccacaat acatctatcc aaacagcaaa gtataacatt tcgaccaatc
+      961 actcaaatcc tattctgagc cctggtggcc gatttattaa cactaacctg aatcggaggc
+     1021 caaccagttg aatacccatt tatcacaatt ggtcaaacag catctattat atacttttta
+     1081 atcatcatca ctcttatccc cctttctgct ctaatcgaaa ataaacttct taaatgataa
+     1141 agcccttgta gtatataagt caatactctg gtcttgtaaa ccaaaaatgg agaatactta
+     1201 ctccctaggg caatcaggga aagaatacct aattctac
+//

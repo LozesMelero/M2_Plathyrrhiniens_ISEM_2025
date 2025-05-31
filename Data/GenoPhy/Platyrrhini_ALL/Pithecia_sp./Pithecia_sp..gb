@@ -1,0 +1,150 @@
+LOCUS       KR528425                1093 bp    DNA     linear   PRI 19-DEC-2015
+DEFINITION  Pithecia sp. isolate Z61 cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   KR528425
+VERSION     KR528425.1
+KEYWORDS    .
+SOURCE      mitochondrion Pithecia sp
+  ORGANISM  Pithecia sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Pitheciinae; Pithecia.
+REFERENCE   1  (bases 1 to 1093)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     An expanded search for simian foamy viruses (SFV) in Brazilian New
+            World primates identifies novel SFV lineages and host age-related
+            infections
+  JOURNAL   Retrovirology 12 (1), 94 (2015)
+   PUBMED   26576961
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1093)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2015) Departamento de Genetica, Universidade
+            Federal do Rio de Janeiro, Rua Professor Rodolpho Paulo Rocco, s/No.
+            Predio do Centro de Ciencias da Saude (CCS), Bloco A, Sala A2-120.
+            Bairro Ilha do Fundao, Rio de Janeiro, Rio de Janeiro 21.941-617,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..1093
+                     /organism="Pithecia sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Z61"
+                     /db_xref="taxon:1758237"
+                     /geo_loc_name="Brazil"
+     gene            <1..1077
+                     /gene="cytb"
+     CDS             <1..1077
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ALS54792.1"
+                     /translation="LPTPPNISSWWNFGSLLGMCLIIQITTGLFLAMHYTSDSSTAFSS
+                     VAHITRDVNYGWMVRYLHANGASLFFMCLFLHIGRGLYYGSFLFLSTWNIGIILLLTTM
+                     ATAFMGYVLPWGQMSFWGATVITNLLSAVPYIGPDLVQWIWGGFSVDKATLTRFFTFHF
+                     ILPFIIAALATIHLLFLHDTGSNNPSGLTSDPDKITFHPYYTIKDILGLVFLLLLLMSL
+                     TLFTPDLLTDPDNYTPANPLNTPPHIKPEWYFLFAYAILRSIPNKLGGVLALLLSILIL
+                     ATIPATHLSKQQSMVFRPVSQILFWALVADLFTLTWIGGQPVEHPFIIIGQTASTLYFS
+                     IITLIPLFALIENKLLKW"
+ORIGIN
+        1 ctacctacac cacccaatat ctcatcctga tgaaacttcg gctcgctact aggcatatgc
+       61 ctaatcatcc aaatcactac gggcctattc ctagctatac actacacatc agactcttca
+      121 accgccttct cttcagttgc ccacatcacc cgagacgtta attacggctg aatagtacgc
+      181 tatttgcatg ctaacggcgc ctcactattc tttatatgct tattcctcca catcggacgg
+      241 ggcctatact atgggtcctt tctcttctta agcacatgaa acattggcat tatcttactg
+      301 cttacaacca tagccacagc ctttatagga tacgtgctcc catgaggcca aatatctttc
+      361 tgaggggcta cagtaatcac aaatctacta tcagctgtcc cctacattgg accagaccta
+      421 gtacaatgaa tttgaggtgg cttttccgtt gacaaggcaa ctcttacccg attctttacc
+      481 tttcacttta ttctaccctt tattatcgca gccctagcaa ccatccacct tctgtttctg
+      541 catgacacag gttcaaataa cccatcagga ctgacatctg acccagacaa aatcacattc
+      601 cacccatact acacaattaa agatatccta ggcctagtat ttctacttct actcctaata
+      661 agcctaaccc tatttacacc cgacctccta actgacccag acaactacac tcctgctaac
+      721 cctctaaaca ccccgcccca cattaaacca gaatgatatt ttctatttgc atacgcaatt
+      781 ctacgatcca tccccaataa actaggaggc gtactagccc tacttctctc cattctaatc
+      841 ctagcaacca tccccgcaac acacctatcc aaacaacaaa gcatagtatt ccggccagtc
+      901 agccaaattc tattctgagc cctagtagct gacttattca cactaacatg aattggaggc
+      961 caaccagtcg aacacccctt tattatcatt ggtcaaaccg catctaccct atacttctcc
+     1021 attattaccc ttatccccct attcgctcta attgaaaaca aactactcaa atgatagaag
+     1081 tctttgtagt ata
+//
+LOCUS       KR528424                1125 bp    DNA     linear   PRI 19-DEC-2015
+DEFINITION  Pithecia sp. isolate Z60 cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   KR528424
+VERSION     KR528424.1
+KEYWORDS    .
+SOURCE      mitochondrion Pithecia sp
+  ORGANISM  Pithecia sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Pitheciinae; Pithecia.
+REFERENCE   1  (bases 1 to 1125)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     An expanded search for simian foamy viruses (SFV) in Brazilian New
+            World primates identifies novel SFV lineages and host age-related
+            infections
+  JOURNAL   Retrovirology 12 (1), 94 (2015)
+   PUBMED   26576961
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1125)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2015) Departamento de Genetica, Universidade
+            Federal do Rio de Janeiro, Rua Professor Rodolpho Paulo Rocco, s/No.
+            Predio do Centro de Ciencias da Saude (CCS), Bloco A, Sala A2-120.
+            Bairro Ilha do Fundao, Rio de Janeiro, Rio de Janeiro 21.941-617,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..1125
+                     /organism="Pithecia sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Z60"
+                     /db_xref="taxon:1758237"
+                     /geo_loc_name="Brazil"
+     gene            <1..1072
+                     /gene="cytb"
+     CDS             <1..1072
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ALS54791.1"
+                     /translation="TPPNISSWWNFGSLLGMCLIIQITTGLFLAMHYTSDSSTAFSSVA
+                     HITRDVNYGWMVRYLHANGASLFFMCLFLHIGRGLYYGSFLFLSTWNIGIILLLTTMAT
+                     AFMGYVLPWGQMSFWGATVITNLLSAVPYIGPDLVQWIWGGFSVDKATLTRFFTFHFIL
+                     PFIIAALATIHLLFLHDTGSNNPSGLTSDPDKITFHPYYTIKDILGLVFLLLLLMSLTL
+                     FTPDLLTDPDNYTPANPLNTPPHIKPEWYFLFAYAILRSIPNKLGGVLALLLSILILAT
+                     IPATHLSKQQSMVFRPVSQILFWALVADLFTLTWIGGQPVEHPFIIIGQTASTLYFSII
+                     TLIPLFALIENKLLKW"
+ORIGIN
+        1 tacaccaccc aatatctcat cctgatgaaa cttcggctcg ctactaggca tatgcctaat
+       61 catccaaatc actacgggcc tattcctagc tatacactac acatcagact cttcaaccgc
+      121 cttctcttca gttgcccaca tcacccgaga cgttaattac ggctgaatag tacgctattt
+      181 gcatgctaac ggcgcctcac tattctttat atgcttattc ctccacatcg gacggggcct
+      241 atactatggg tcctttctct tcttaagcac atgaaacatt ggcattatct tactgcttac
+      301 aaccatagcc acagccttta taggatacgt gctcccatga ggccaaatat ctttctgagg
+      361 ggctacagta atcacaaatc tactatcagc tgtcccctac attggaccag acctagtaca
+      421 atgaatttga ggtggctttt ccgttgacaa ggcaactctt acccgattct ttacctttca
+      481 ctttattcta ccctttatta tcgcagccct agcaaccatc caccttctgt ttctgcatga
+      541 cacaggttca aataacccat caggactgac atctgaccca gacaaaatca cattccaccc
+      601 atactacaca attaaagata tcctaggcct agtatttcta cttctactcc taataagcct
+      661 aaccctattt acacccgacc tcctaactga cccagacaac tacactcctg ctaaccctct
+      721 aaacaccccg ccccacatta aaccagaatg atattttcta tttgcatacg caattctacg
+      781 atccatccct aataaactag gaggcgtact agccctactt ctctccattc taatcctagc
+      841 aaccattccc gcaacacacc tatccaaaca acaaagcata gtattccggc cagtcagcca
+      901 aattctattc tgagccctag tagctgactt attcacacta acatgaattg gaggccaacc
+      961 agtcgaacac ccctttatta tcattggtca aaccgcatct accctatact tctccattat
+     1021 tacccttatc cccctattcg ctctaattga aaacaaacta ctcaaatgat agaagtcttt
+     1081 gtagtataat ttaataccct ggtcttgtaa accagaactg gagaa
+//

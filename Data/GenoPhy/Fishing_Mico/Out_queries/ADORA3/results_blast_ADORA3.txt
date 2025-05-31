@@ -1,0 +1,20 @@
+# BLASTN 2.12.0+
+# Query: ADORA3 from HM765161
+# Database: ./Mico_database/Mico_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 14 hits found
+ADORA3	Mico_munduruku_RCA37	94.118	17	1	0	109	125	105572	105588	9.2	27.4
+ADORA3	Mico_munduruku_RCA37	94.118	17	1	0	239	255	278274	278258	9.2	27.4
+ADORA3	Mico_munduruku_RCA37	100.000	14	0	0	5	18	92162	92175	9.2	26.5
+ADORA3	Mico_munduruku_RCA23	94.118	17	1	0	239	255	339920	339904	9.2	27.4
+ADORA3	Mico_munduruku_RCA23	100.000	14	0	0	5	18	109335	109348	9.2	26.5
+ADORA3	Mico_leucippe_RCA55	94.118	17	1	0	239	255	323852	323836	9.2	27.4
+ADORA3	Mico_leucippe_RCA55	100.000	14	0	0	5	18	104320	104333	9.2	26.5
+ADORA3	Mico_leucippe_RCA45	94.118	17	1	0	109	125	96111	96127	9.2	27.4
+ADORA3	Mico_leucippe_RCA45	94.118	17	1	0	239	255	264029	264013	9.2	27.4
+ADORA3	Mico_leucippe_RCA38	94.118	17	1	0	109	125	126415	126431	9.2	27.4
+ADORA3	Mico_leucippe_RCA38	94.118	17	1	0	239	255	345907	345891	9.2	27.4
+ADORA3	Mico_leucippe_RCA38	100.000	14	0	0	5	18	110176	110189	9.2	26.5
+ADORA3	Mico_intermedius_FES26	94.118	17	1	0	239	255	263892	263876	9.2	27.4
+ADORA3	Mico_rondoni_UFRO-MAM000556	100.000	14	0	0	5	18	41842	41855	9.2	26.5
+# BLAST processed 1 queries

@@ -1,0 +1,13 @@
+# BLASTN 2.12.0+
+# Query: ERC2 from HM762189
+# Database: ./Mico_database/Mico_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+ERC2	Mico_munduruku_RCA35	100.000	17	0	0	360	376	51703	51687	0.39	31.9
+ERC2	Mico_munduruku_RCA23	100.000	17	0	0	360	376	148681	148665	0.39	31.9
+ERC2	Mico_leucippe_RCA55	100.000	17	0	0	360	376	141797	141781	0.39	31.9
+ERC2	Mico_leucippe_RCA55	100.000	16	0	0	150	165	316208	316193	1.4	30.1
+ERC2	Mico_intermedius_MOA08	100.000	17	0	0	360	376	30596	30580	0.39	31.9
+ERC2	Mico_leucippe_RCA38	100.000	16	0	0	698	713	329720	329735	1.4	30.1
+ERC2	Mico_intermedius_FES26	100.000	16	0	0	698	713	253123	253138	1.4	30.1
+# BLAST processed 1 queries

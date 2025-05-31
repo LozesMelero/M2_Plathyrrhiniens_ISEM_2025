@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Feb 24 14:51:12 2025
+
+Aim: convert .phy Mico sequences released by Costa-Araújo et al. (2019) in .fasta (revert alignment)
+
+@author: lucas.buffan
+"""
+
+import os
+import re
+
+
+os.chdir("/home/lucas.buffan/Documents/GitHub/PhD/Chapter_3/Platy_TED/Data/Molecular_sequences/Platyrrhini_ALL/Platyrrhini_ALL/Mico_munduruku/")
+
+
+## Useful functions -----------------------------------------------------------
+    # revert alignment
+def revert_al(seq):
+    unaligned = re.sub(r'N', '', seq) # Remove "NNNNN"
+    unaligned = re.sub(r'-', '', unaligned) # Remove "----"
+    return(unaligned)
+
+    # collapse a vector of strings
+def collapse(string_vect, sep = ''):
+    final_str = string_vect[0] + sep
+    for el in string_vect[1:len(string_vect)]:
+        final_str += (el + sep)
+    return(final_str)
+
+
+## Extract sequences and write FASTA ------------------------------------------
+target_sp = ["intermedius", "leucippe", "munduruku", "rondoni"] # species we are targeting
+with open("./Mico_database/Mico_db.fasta", 'w') as out_file:
+    with open("munduruku.phy") as in_file:
+        for line in in_file:
+            spl = line.split(" ")
+            if len(spl) > 2: # skip the header
+                # Name
+                name = spl[0]
+                # Are we interested in that species ?
+                species_name = name.split("_")[1]
+                if(species_name in target_sp):
+                    out_file.write('>'+name+'\n')
+                    # Sequence
+                    seq = collapse(spl[1:])
+                    ua_seq = revert_al(seq)
+                    out_file.write(ua_seq + '\n')
+
+

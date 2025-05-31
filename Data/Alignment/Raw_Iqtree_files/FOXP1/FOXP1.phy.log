@@ -1,0 +1,304 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Mac OS X 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    MBPdeSR2Ilocal2.isem.intra (AVX2, FMA3, 16 GB RAM)
+Command: iqtree -s FOXP1.phy -B 1000
+Seed:    559118 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Mar 14 13:50:53 2025
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file FOXP1.phy ... Phylip format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 1 sites contain only gaps or ambiguous characters.
+Alignment has 102 sequences with 563 columns, 286 distinct patterns
+146 parsimony-informative, 77 singleton sites, 340 constant sites
+                              Gap/Ambiguity  Composition  p-value
+   1  Alouatta_belzebul               3.20%    passed     91.47%
+   2  Alouatta_caraya                 3.20%    passed     89.60%
+   3  Alouatta_palliata               6.22%    passed     90.09%
+   4  Alouatta_sara                   3.20%    passed     91.47%
+   5  Aotus_azarae                    2.84%    passed     92.83%
+   6  Aotus_griseimembra             12.97%    passed     87.85%
+   7  Aotus_nancymaae                13.50%    passed     88.17%
+   8  Aotus_trivirgatus               2.84%    passed     92.83%
+   9  Ateles_belzebuth                3.37%    passed     98.23%
+  10  Ateles_chamek                   3.37%    passed     98.39%
+  11  Ateles_fusciceps                3.37%    passed     98.23%
+  12  Ateles_geoffroyi                3.37%    passed     98.23%
+  13  Ateles_paniscus                 3.37%    passed     98.39%
+  14  Brachyteles_arachnoides         3.02%    passed     99.79%
+  15  Brachyteles_hypoxanthus         3.20%    passed     99.48%
+  16  Cacajao_calvus                  3.02%    passed     94.66%
+  17  Callicebus_coimbrai             2.66%    passed     99.95%
+  18  Callicebus_nigrifrons           3.02%    passed     99.96%
+  19  Callicebus_personatus           2.66%    passed     99.95%
+  20  Callimico_goeldii               2.84%    passed     99.23%
+  21  Callithrix_aurita               3.20%    passed     93.67%
+  22  Callithrix_geoffroyi            2.84%    passed     95.80%
+  23  Callithrix_jacchus              2.84%    passed     95.63%
+  24  Callithrix_kuhlii               2.84%    passed     95.80%
+  25  Callithrix_penicillata          3.02%    passed     95.66%
+  26  Cebuella_pygmaea                2.84%    passed     95.80%
+  27  Cebus_albifrons                 2.84%    passed     98.69%
+  28  Cebus_capucinus                 2.66%    passed     98.03%
+  29  Cebus_olivaceus                 2.84%    passed     99.55%
+  30  Cheracebus_lugens               2.49%    passed     99.98%
+  31  Cheracebus_torquatus            2.49%    passed     97.94%
+  32  Chiropotes_chiropotes           2.84%    passed     97.38%
+  33  Lagothrix_lagotricha            3.20%    passed     98.84%
+  34  Leontocebus_fuscicollis         2.66%    passed     99.68%
+  35  Leontocebus_weddelli           12.43%    passed     99.67%
+  36  Leontopithecus_chrysomelas     14.74%    passed     99.01%
+  37  Mico_argentatus                 5.86%    passed     88.49%
+  38  Mico_humeralifer                3.02%    passed     91.59%
+  39  Pithecia_irrorata               2.84%    passed     99.12%
+  40  Pithecia_pithecia               2.84%    passed     98.23%
+  41  Plecturocebus_bernhardi         3.02%    passed     99.95%
+  42  Plecturocebus_brunneus          2.66%    passed     99.64%
+  43  Plecturocebus_caligatus         3.02%    passed     99.94%
+  44  Plecturocebus_cinerascens       3.02%    passed     99.95%
+  45  Plecturocebus_cupreus           2.66%    passed     99.82%
+  46  Plecturocebus_donacophilus      2.66%    passed     99.82%
+  47  Plecturocebus_hoffmannsi        2.66%    passed     99.82%
+  48  Plecturocebus_miltoni           2.84%    passed     99.73%
+  49  Plecturocebus_moloch            2.66%    passed     99.82%
+  50  Saguinus_bicolor                2.66%    passed     99.38%
+  51  Oedipomidas_geoffroyi           2.66%    passed     99.38%
+  52  Tamarinus_imperator             2.66%    passed     99.95%
+  53  Tamarinus_labiatus             13.85%    passed     99.57%
+  54  Oedipomidas_leucopus           12.43%    passed     99.46%
+  55  Saguinus_martinsi               2.66%    passed     99.38%
+  56  Saguinus_midas                  2.66%    passed     99.38%
+  57  Tamarinus_mystax                2.66%    passed     99.68%
+  58  Saguinus_niger                 12.43%    passed     99.49%
+  59  Oedipomidas_oedipus             2.66%    passed     99.71%
+  60  Saguinus_ursulus               12.43%    passed     99.49%
+  61  Saimiri_boliviensis             2.84%    passed     98.94%
+  62  Saimiri_oerstedii               2.84%    passed     98.94%
+  63  Saimiri_sciureus                2.84%    passed     98.94%
+  64  Saimiri_ustus                   2.84%    passed     98.94%
+  65  Sapajus_robustus                2.66%    passed     99.71%
+  66  Sapajus_xanthosternos           7.10%    passed     98.54%
+  67  Xenothrix_mcgregori            43.69%    passed     19.65%
+  68  Allenopithecus_nigroviridis     2.13%    passed     99.53%
+  69  Allochrocebus_lhoesti           2.66%    passed     97.93%
+  70  Carlito_syrichta                2.66%    passed     85.72%
+  71  Cephalopachus_bancanus          2.66%    passed     86.47%
+  72  Cercocebus_chrysogaster         2.84%    passed     99.12%
+  73  Cercopithecus                   2.84%    passed     99.72%
+  74  Chlorocebus_aethiops            2.84%    passed     98.30%
+  75  Colobus_guereza                 3.02%    passed     95.23%
+  76  Daubentonia_madagascariensis    2.84%    passed     68.69%
+  77  Erythrocebus_patas              2.84%    passed     99.39%
+  78  Eulemur                         2.84%    passed     68.69%
+  79  Gorilla_gorilla                 2.84%    passed     93.42%
+  80  Homo_sapiens                    2.84%    passed     92.23%
+  81  Hylobates_lar                   8.53%    passed     94.43%
+  82  Lepilemur                       2.49%    passed     61.35%
+  83  Lophocebus_aterrimus            2.84%    passed     99.73%
+  84  Loris_tardigradus               2.66%    passed     68.07%
+  85  Macaca_mulatta                  2.84%    passed     99.08%
+  86  Mandrillus_leucophaeus          2.84%    passed     99.12%
+  87  Microcebus_murinus              2.66%    passed     77.60%
+  88  Nasalis_larvatus               13.50%    passed     96.46%
+  89  Nomascus                        2.84%    passed     95.13%
+  90  Otolemur                       18.12%    passed     72.15%
+  91  Pan_troglodytes                 2.84%    passed     92.01%
+  92  Papio_anubis                    2.84%    passed     99.48%
+  93  Piliocolobus_badius             2.84%    passed     98.84%
+  94  Pongo_pygmaeus                  2.49%    passed     97.86%
+  95  Propithecus_tattersalli         2.84%    passed     70.76%
+  96  Pygathrix_nemaeus              30.73%    passed     95.18%
+  97  Rhinopithecus_brelichi          4.80%    passed     84.87%
+  98  Semnopithecus_entellus          2.84%    passed     98.64%
+  99  Symphalangus_syndactylus        2.84%    passed     98.35%
+ 100  Theropithecus_gelada            9.59%    passed     96.70%
+ 101  Trachypithecus                  7.10%    passed     96.23%
+ 102  Varecia_variegata               2.84%    passed     71.84%
+****  TOTAL                           4.87%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: Alouatta_sara is identical to Alouatta_belzebul but kept for subsequent analysis
+NOTE: Ateles_fusciceps is identical to Ateles_belzebuth but kept for subsequent analysis
+NOTE: Ateles_paniscus is identical to Ateles_chamek but kept for subsequent analysis
+NOTE: Callicebus_personatus is identical to Callicebus_coimbrai but kept for subsequent analysis
+NOTE: Callithrix_kuhlii is identical to Callithrix_geoffroyi but kept for subsequent analysis
+NOTE: Plecturocebus_cinerascens is identical to Plecturocebus_bernhardi but kept for subsequent analysis
+NOTE: Plecturocebus_donacophilus is identical to Plecturocebus_cupreus but kept for subsequent analysis
+NOTE: Oedipomidas_geoffroyi is identical to Saguinus_bicolor but kept for subsequent analysis
+NOTE: Saguinus_ursulus is identical to Saguinus_niger but kept for subsequent analysis
+NOTE: Saimiri_oerstedii is identical to Saimiri_boliviensis but kept for subsequent analysis
+NOTE: Mandrillus_leucophaeus is identical to Cercocebus_chrysogaster but kept for subsequent analysis
+NOTE: 6 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Ateles_geoffroyi (identical to Ateles_belzebuth) is ignored but added at the end
+NOTE: Plecturocebus_moloch (identical to Plecturocebus_cupreus) is ignored but added at the end
+NOTE: Saguinus_martinsi (identical to Saguinus_bicolor) is ignored but added at the end
+NOTE: Saguinus_midas (identical to Saguinus_bicolor) is ignored but added at the end
+NOTE: Saimiri_sciureus (identical to Saimiri_boliviensis) is ignored but added at the end
+NOTE: Saimiri_ustus (identical to Saimiri_boliviensis) is ignored but added at the end
+Alignment was printed to FOXP1.phy.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to FOXP1.phy.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -2992.110
+Optimal log-likelihood: -2991.865
+Rate parameters:  A-C: 0.78474  A-G: 4.32987  A-T: 0.33797  C-G: 2.49026  C-T: 4.97914  G-T: 1.00000
+Base frequencies:  A: 0.319  C: 0.170  G: 0.190  T: 0.320
+Proportion of invariable sites: 0.264
+Gamma shape alpha: 1.898
+Parameters optimization took 1 rounds (0.051 sec)
+Time for fast ML tree search: 0.390 seconds
+
+NOTE: ModelFinder requires 10 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 563) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         3023.180     197 6440.361     6654.092     7294.017
+  2  GTR+F+I       3001.189     198 6398.378     6614.873     7256.368
+  3  GTR+F+G4      2989.222     198 6374.443     6590.938     7232.432
+  4  GTR+F+I+G4    2991.094     199 6380.189     6599.473     7242.512
+  5  GTR+F+R2      2983.679     199 6365.358     6584.642     7227.681
+  6  GTR+F+R3      2983.657     201 6369.314     6594.256     7240.304
+ 16  SYM+G4        3009.369     195 6408.738     6617.021     7253.727
+ 18  SYM+R2        3003.583     196 6399.167     6610.161     7248.489
+ 29  TVM+F+G4      2989.725     197 6373.449     6587.181     7227.105
+ 31  TVM+F+R2      2984.064     198 6364.127     6580.622     7222.117
+ 42  TVMe+G4       3009.455     194 6406.909     6612.507     7247.565
+ 44  TVMe+R2       3003.611     195 6397.222     6605.506     7242.212
+ 55  TIM3+F+G4     3003.883     196 6399.767     6610.761     7249.090
+ 57  TIM3+F+R2     2998.386     197 6390.771     6604.503     7244.427
+ 68  TIM3e+G4      3016.385     193 6418.771     6621.708     7255.094
+ 70  TIM3e+R2      3010.531     194 6409.063     6614.660     7249.719
+ 81  TIM2+F+G4     2998.084     196 6388.168     6599.163     7237.491
+ 83  TIM2+F+R2     2992.408     197 6378.816     6592.548     7232.473
+ 94  TIM2e+G4      3011.922     193 6409.845     6612.782     7246.168
+ 96  TIM2e+R2      3006.019     194 6400.039     6605.637     7240.695
+107  TIM+F+G4      3012.494     196 6416.988     6627.983     7266.311
+109  TIM+F+R2      3006.865     197 6407.731     6621.462     7261.387
+120  TIMe+G4       3018.730     193 6423.460     6626.398     7259.783
+122  TIMe+R2       3012.817     194 6413.635     6619.233     7254.291
+133  TPM3u+F+G4    3004.482     195 6398.963     6607.246     7243.953
+135  TPM3u+F+R2    2998.825     196 6389.650     6600.645     7238.973
+146  TPM3+F+G4     3004.482     195 6398.963     6607.246     7243.953
+148  TPM3+F+R2     2998.825     196 6389.650     6600.645     7238.973
+159  TPM2u+F+G4    2998.525     195 6387.050     6595.333     7232.039
+161  TPM2u+F+R2    2992.845     196 6377.691     6588.685     7227.013
+172  TPM2+F+G4     2998.525     195 6387.050     6595.333     7232.039
+174  TPM2+F+R2     2992.845     196 6377.691     6588.685     7227.013
+185  K3Pu+F+G4     3013.007     195 6416.014     6624.298     7261.004
+187  K3Pu+F+R2     3007.295     196 6406.589     6617.584     7255.912
+198  K3P+G4        3018.793     192 6421.586     6621.889     7253.576
+200  K3P+R2        3012.868     193 6411.736     6614.674     7248.059
+211  TN+F+G4       3012.758     195 6415.516     6623.799     7260.505
+213  TN+F+R2       3007.124     196 6406.247     6617.242     7255.570
+224  TNe+G4        3018.752     192 6421.505     6621.808     7253.495
+226  TNe+R2        3012.838     193 6411.675     6614.613     7247.998
+237  HKY+F+G4      3013.273     194 6414.547     6620.145     7255.203
+239  HKY+F+R2      3007.555     195 6405.110     6613.394     7250.100
+250  K2P+G4        3018.815     191 6419.631     6617.324     7247.287
+252  K2P+R2        3012.888     192 6409.776     6610.079     7241.766
+263  F81+F+G4      3128.748     193 6643.496     6846.434     7479.819
+265  F81+F+R2      3123.066     194 6634.132     6839.729     7474.788
+276  JC+G4         3121.641     190 6623.283     6818.391     7446.606
+278  JC+R2         3115.787     191 6613.575     6811.268     7441.231
+Akaike Information Criterion:           TVM+F+R2
+Corrected Akaike Information Criterion: TVM+F+R2
+Bayesian Information Criterion:         TVM+F+R2
+Best-fit model: TVM+F+R2 chosen according to BIC
+
+All model information printed to FOXP1.phy.model.gz
+CPU time for ModelFinder: 4.772 seconds (0h:0m:4s)
+Wall-clock time for ModelFinder: 4.871 seconds (0h:0m:4s)
+Generating 1000 samples for ultrafast bootstrap (seed: 559118)...
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2984.064
+Optimal log-likelihood: -2984.033
+Rate parameters:  A-C: 0.76630  A-G: 4.60691  A-T: 0.32672  C-G: 2.49433  C-T: 4.60691  G-T: 1.00000
+Base frequencies:  A: 0.319  C: 0.170  G: 0.190  T: 0.320
+Site proportion and rates:  (0.835,0.510) (0.165,3.472)
+Parameters optimization took 1 rounds (0.026 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.082838 sec (of wall-clock time) 0.082478 sec(of CPU time)
+Computing RapidNJ tree took 0.000594 sec (of wall-clock time) 0.000582 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3004.742
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.454 second
+Computing log-likelihood of 98 initial trees ... 0.413 seconds
+Current best score: -2983.390
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2981.010
+Iteration 10 / LogL: -2981.211 / Time: 0h:0m:2s
+Iteration 20 / LogL: -2982.082 / Time: 0h:0m:3s
+Finish initializing candidate tree set (20)
+Current best tree score: -2981.010 / CPU time: 3.620
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2983.898 / Time: 0h:0m:5s (0h:0m:13s left)
+Iteration 40 / LogL: -2981.018 / Time: 0h:0m:7s (0h:0m:11s left)
+Iteration 50 / LogL: -2989.035 / Time: 0h:0m:9s (0h:0m:10s left)
+Log-likelihood cutoff on original alignment: -3039.403
+Iteration 60 / LogL: -2981.023 / Time: 0h:0m:11s (0h:0m:8s left)
+Iteration 70 / LogL: -2989.044 / Time: 0h:0m:13s (0h:0m:6s left)
+Iteration 80 / LogL: -2981.026 / Time: 0h:0m:15s (0h:0m:4s left)
+Iteration 90 / LogL: -2983.906 / Time: 0h:0m:17s (0h:0m:2s left)
+Iteration 100 / LogL: -2981.028 / Time: 0h:0m:19s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3039.403
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:20s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2981.010
+2. Current log-likelihood: -2980.997
+Optimal log-likelihood: -2980.986
+Rate parameters:  A-C: 0.76802  A-G: 4.60826  A-T: 0.32847  C-G: 2.49210  C-T: 4.60826  G-T: 1.00000
+Base frequencies:  A: 0.319  C: 0.170  G: 0.190  T: 0.320
+Site proportion and rates:  (0.842,0.520) (0.158,3.560)
+Parameters optimization took 2 rounds (0.058 sec)
+BEST SCORE FOUND : -2980.986
+Creating bootstrap support values...
+Split supports printed to NEXUS file FOXP1.phy.splits.nex
+Total tree length: 0.727
+
+Total number of iterations: 102
+CPU time used for tree search: 20.323 sec (0h:0m:20s)
+Wall-clock time used for tree search: 20.328 sec (0h:0m:20s)
+Total CPU time used: 20.818 sec (0h:0m:20s)
+Total wall-clock time used: 20.830 sec (0h:0m:20s)
+
+Computing bootstrap consensus tree...
+Reading input file FOXP1.phy.splits.nex...
+96 taxa and 869 splits.
+Consensus tree written to FOXP1.phy.contree
+Reading input trees file FOXP1.phy.contree
+Log-likelihood of consensus tree: -2981.056
+
+Analysis results written to: 
+  IQ-TREE report:                FOXP1.phy.iqtree
+  Maximum-likelihood tree:       FOXP1.phy.treefile
+  Likelihood distances:          FOXP1.phy.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          FOXP1.phy.splits.nex
+  Consensus tree:                FOXP1.phy.contree
+  Screen log file:               FOXP1.phy.log
+
+Date and Time: Fri Mar 14 13:51:19 2025

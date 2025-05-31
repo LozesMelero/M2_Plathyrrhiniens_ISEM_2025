@@ -1,0 +1,8 @@
+A	B	C	D	E	F	G	H	I	J	K
+Haplorrhini	0	0	0	0	0	0	0.98	0	0	1	0
+Catarrhini/Platyrrhini	0	0	0	0.35	0	0	1	0	0	0.01	0
+Catarrhini	0	0	0	0	0	0	1	0	0	0.01	0
+Platyrrhini	0	0	0	1	0	0	0	0	0	0	0
+Ashaninkacebus/spp	0	0	0	0.08	0	0	0.45	0	0	0.96	0
+Perupithecus/spp	0	0	0	0.18	0	0	0.99	0	0	0	0
+Ucayalipithecus/spp	0	0	0	0.08	0	0	0.99	0	0	0	0

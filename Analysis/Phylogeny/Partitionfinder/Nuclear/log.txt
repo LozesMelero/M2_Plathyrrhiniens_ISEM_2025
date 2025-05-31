@@ -1,0 +1,154 @@
+INFO     | 2025-03-18 18:37:16,928 | config     | Loading configuration at './partition_finder.cfg'
+INFO     | 2025-03-18 18:37:16,932 | config     | Setting 'alignment' to 'nuclear.phy'
+INFO     | 2025-03-18 18:37:16,932 | config     | Setting 'branchlengths' to 'linked'
+INFO     | 2025-03-18 18:37:16,932 | parser     | You set 'models' to: mrbayes
+INFO     | 2025-03-18 18:37:16,947 | model_load | This analysis will use the following 24 models of molecular evolution
+INFO     | 2025-03-18 18:37:16,947 | model_load | JC, K80, SYM, F81, HKY, GTR, JC+G, K80+G, SYM+G, F81+G, HKY+G, GTR+G, JC+I, K80+I, SYM+I, F81+I, HKY+I, GTR+I, JC+I+G, K80+I+G, SYM+I+G, F81+I+G, HKY+I+G, GTR+I+G
+INFO     | 2025-03-18 18:37:16,947 | config     | Setting 'model_selection' to 'bic'
+INFO     | 2025-03-18 18:37:16,951 | config     | Setting 'search' to 'greedy'
+INFO     | 2025-03-18 18:37:16,951 | config     | ------------------------ BEGINNING NEW RUN -------------------------------
+INFO     | 2025-03-18 18:37:16,951 | config     | Looking for alignment file './nuclear.phy'...
+INFO     | 2025-03-18 18:37:16,951 | analysis   | Beginning Analysis
+INFO     | 2025-03-18 18:37:16,961 | alignment  | Reading alignment file './nuclear.phy'
+INFO     | 2025-03-18 18:37:16,989 | analysis   | Starting tree will be estimated from the data.
+INFO     | 2025-03-18 18:37:16,990 | raxml      | Estimating Maximum Likelihood tree with RAxML fast experimental tree search for ./analysis/start_tree/filtered_source.phy
+INFO     | 2025-03-18 18:37:16,990 | raxml      | Using a separate GTR+G model for each data block
+INFO     | 2025-03-18 18:37:26,299 | raxml      | Estimating GTR+G branch lengths on ML tree using all partitions
+INFO     | 2025-03-18 18:37:30,761 | raxml      | ML topology estimation finished
+INFO     | 2025-03-18 18:37:30,762 | analysis_m | Performing Greedy Analysis
+INFO     | 2025-03-18 18:37:30,762 | analysis_m |    *** Analysing starting scheme ***
+INFO     | 2025-03-18 18:38:03,469 | progress   |       Finished subset 1/10, 10.00 percent done
+INFO     | 2025-03-18 18:38:36,300 | progress   |       Finished subset 2/10, 20.00 percent done
+INFO     | 2025-03-18 18:38:47,507 | progress   |       Finished subset 3/10, 30.00 percent done
+INFO     | 2025-03-18 18:38:51,265 | progress   |       Finished subset 4/10, 40.00 percent done
+INFO     | 2025-03-18 18:38:59,350 | progress   |       Finished subset 5/10, 50.00 percent done
+INFO     | 2025-03-18 18:39:01,458 | progress   |       Finished subset 6/10, 60.00 percent done
+INFO     | 2025-03-18 18:39:11,792 | progress   |       Finished subset 7/10, 70.00 percent done
+INFO     | 2025-03-18 18:39:34,283 | progress   |       Finished subset 8/10, 80.00 percent done
+INFO     | 2025-03-18 18:39:36,526 | progress   |       Finished subset 9/10, 90.00 percent done
+INFO     | 2025-03-18 18:39:57,789 | progress   |       Finished subset 10/10, 100.00 percent done
+INFO     | 2025-03-18 18:39:57,793 | analysis_m |    ***Greedy algorithm step 1***
+INFO     | 2025-03-18 18:39:57,794 | analysis_m |       Analysing 45 new subset pairs
+INFO     | 2025-03-18 18:41:05,303 | progress   |       Finished subset 1/45, 2.22 percent done
+INFO     | 2025-03-18 18:41:17,046 | progress   |       Finished subset 2/45, 4.44 percent done
+INFO     | 2025-03-18 18:42:03,764 | progress   |       Finished subset 3/45, 6.67 percent done
+INFO     | 2025-03-18 18:42:08,596 | progress   |       Finished subset 4/45, 8.89 percent done
+INFO     | 2025-03-18 18:42:56,538 | progress   |       Finished subset 5/45, 11.11 percent done
+INFO     | 2025-03-18 18:43:40,411 | progress   |       Finished subset 6/45, 13.33 percent done
+INFO     | 2025-03-18 18:43:45,219 | progress   |       Finished subset 7/45, 15.56 percent done
+INFO     | 2025-03-18 18:44:34,297 | progress   |       Finished subset 8/45, 17.78 percent done
+INFO     | 2025-03-18 18:45:43,669 | progress   |       Finished subset 9/45, 20.00 percent done
+INFO     | 2025-03-18 18:46:13,205 | progress   |       Finished subset 10/45, 22.22 percent done
+INFO     | 2025-03-18 18:46:26,289 | progress   |       Finished subset 11/45, 24.44 percent done
+INFO     | 2025-03-18 18:46:39,270 | progress   |       Finished subset 12/45, 26.67 percent done
+INFO     | 2025-03-18 18:46:39,293 | progress   |       Finished subset 13/45, 28.89 percent done
+INFO     | 2025-03-18 18:47:46,410 | progress   |       Finished subset 14/45, 31.11 percent done
+INFO     | 2025-03-18 18:47:54,826 | progress   |       Finished subset 15/45, 33.33 percent done
+INFO     | 2025-03-18 18:48:10,474 | progress   |       Finished subset 16/45, 35.56 percent done
+INFO     | 2025-03-18 18:48:23,929 | progress   |       Finished subset 17/45, 37.78 percent done
+INFO     | 2025-03-18 18:48:53,000 | progress   |       Finished subset 18/45, 40.00 percent done
+INFO     | 2025-03-18 18:50:15,761 | progress   |       Finished subset 19/45, 42.22 percent done
+INFO     | 2025-03-18 18:50:18,345 | progress   |       Finished subset 20/45, 44.44 percent done
+INFO     | 2025-03-18 18:50:39,275 | progress   |       Finished subset 21/45, 46.67 percent done
+INFO     | 2025-03-18 18:51:04,321 | progress   |       Finished subset 22/45, 48.89 percent done
+INFO     | 2025-03-18 18:51:08,470 | progress   |       Finished subset 23/45, 51.11 percent done
+INFO     | 2025-03-18 18:51:27,121 | progress   |       Finished subset 24/45, 53.33 percent done
+INFO     | 2025-03-18 18:52:16,571 | progress   |       Finished subset 25/45, 55.56 percent done
+INFO     | 2025-03-18 18:52:29,592 | progress   |       Finished subset 26/45, 57.78 percent done
+INFO     | 2025-03-18 18:52:41,977 | progress   |       Finished subset 27/45, 60.00 percent done
+INFO     | 2025-03-18 18:53:31,544 | progress   |       Finished subset 28/45, 62.22 percent done
+INFO     | 2025-03-18 18:53:48,179 | progress   |       Finished subset 29/45, 64.44 percent done
+INFO     | 2025-03-18 18:54:12,947 | progress   |       Finished subset 30/45, 66.67 percent done
+INFO     | 2025-03-18 18:54:21,236 | progress   |       Finished subset 31/45, 68.89 percent done
+INFO     | 2025-03-18 18:54:28,194 | progress   |       Finished subset 32/45, 71.11 percent done
+INFO     | 2025-03-18 18:55:28,995 | progress   |       Finished subset 33/45, 73.33 percent done
+INFO     | 2025-03-18 18:55:29,412 | progress   |       Finished subset 34/45, 75.56 percent done
+INFO     | 2025-03-18 18:55:30,183 | progress   |       Finished subset 35/45, 77.78 percent done
+INFO     | 2025-03-18 18:55:47,729 | progress   |       Finished subset 36/45, 80.00 percent done
+INFO     | 2025-03-18 18:56:09,798 | progress   |       Finished subset 37/45, 82.22 percent done
+INFO     | 2025-03-18 18:56:12,491 | progress   |       Finished subset 38/45, 84.44 percent done
+INFO     | 2025-03-18 18:57:00,223 | progress   |       Finished subset 39/45, 86.67 percent done
+INFO     | 2025-03-18 18:57:03,757 | progress   |       Finished subset 40/45, 88.89 percent done
+INFO     | 2025-03-18 18:57:36,498 | progress   |       Finished subset 41/45, 91.11 percent done
+INFO     | 2025-03-18 18:58:06,298 | progress   |       Finished subset 42/45, 93.33 percent done
+INFO     | 2025-03-18 18:58:25,024 | progress   |       Finished subset 43/45, 95.56 percent done
+INFO     | 2025-03-18 18:59:05,503 | progress   |       Finished subset 44/45, 97.78 percent done
+INFO     | 2025-03-18 18:59:28,280 | progress   |       Finished subset 45/45, 100.00 percent done
+INFO     | 2025-03-18 18:59:28,283 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 18:59:28,311 | analysis_m |       Best scheme combines subsets: 'ZFX' and 'ERC2'
+INFO     | 2025-03-18 18:59:28,311 | analysis_m |       The best scheme improves the bic score by 66.71 to 88098.9
+INFO     | 2025-03-18 18:59:28,312 | analysis_m |    ***Greedy algorithm step 2***
+INFO     | 2025-03-18 18:59:28,313 | analysis_m |       Analysing 8 new subset pairs
+INFO     | 2025-03-18 19:00:46,219 | progress   |       Finished subset 1/8, 12.50 percent done
+INFO     | 2025-03-18 19:02:36,151 | progress   |       Finished subset 2/8, 25.00 percent done
+INFO     | 2025-03-18 19:02:56,433 | progress   |       Finished subset 3/8, 37.50 percent done
+INFO     | 2025-03-18 19:04:24,155 | progress   |       Finished subset 4/8, 50.00 percent done
+INFO     | 2025-03-18 19:05:25,011 | progress   |       Finished subset 5/8, 62.50 percent done
+INFO     | 2025-03-18 19:05:29,632 | progress   |       Finished subset 6/8, 75.00 percent done
+INFO     | 2025-03-18 19:07:13,492 | progress   |       Finished subset 7/8, 87.50 percent done
+INFO     | 2025-03-18 19:09:56,287 | progress   |       Finished subset 8/8, 100.00 percent done
+INFO     | 2025-03-18 19:09:56,288 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 19:09:56,303 | analysis_m |       Best scheme combines subsets: 'MAPKAP1' and 'SIM1'
+INFO     | 2025-03-18 19:09:56,304 | analysis_m |       The best scheme improves the bic score by 31.51 to 88067.4
+INFO     | 2025-03-18 19:09:56,306 | analysis_m |    ***Greedy algorithm step 3***
+INFO     | 2025-03-18 19:09:56,307 | analysis_m |       Analysing 7 new subset pairs
+INFO     | 2025-03-18 19:11:12,782 | progress   |       Finished subset 1/7, 14.29 percent done
+INFO     | 2025-03-18 19:11:32,051 | progress   |       Finished subset 2/7, 28.57 percent done
+INFO     | 2025-03-18 19:11:34,127 | progress   |       Finished subset 3/7, 42.86 percent done
+INFO     | 2025-03-18 19:12:10,232 | progress   |       Finished subset 4/7, 57.14 percent done
+INFO     | 2025-03-18 19:12:37,212 | progress   |       Finished subset 5/7, 71.43 percent done
+INFO     | 2025-03-18 19:12:45,207 | progress   |       Finished subset 6/7, 85.71 percent done
+INFO     | 2025-03-18 19:12:54,634 | progress   |       Finished subset 7/7, 100.00 percent done
+INFO     | 2025-03-18 19:12:54,635 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 19:12:54,645 | analysis_m |       Best scheme combines subsets: 'FES' and 'ABCA1'
+INFO     | 2025-03-18 19:12:54,645 | analysis_m |       The best scheme improves the bic score by 31.13 to 88036.3
+INFO     | 2025-03-18 19:12:54,647 | analysis_m |    ***Greedy algorithm step 4***
+INFO     | 2025-03-18 19:12:54,648 | analysis_m |       Analysing 6 new subset pairs
+INFO     | 2025-03-18 19:14:27,290 | progress   |       Finished subset 1/6, 16.67 percent done
+INFO     | 2025-03-18 19:15:38,939 | progress   |       Finished subset 2/6, 33.33 percent done
+INFO     | 2025-03-18 19:16:51,323 | progress   |       Finished subset 3/6, 50.00 percent done
+INFO     | 2025-03-18 19:17:02,030 | progress   |       Finished subset 4/6, 66.67 percent done
+INFO     | 2025-03-18 19:18:25,243 | progress   |       Finished subset 5/6, 83.33 percent done
+INFO     | 2025-03-18 19:20:04,795 | progress   |       Finished subset 6/6, 100.00 percent done
+INFO     | 2025-03-18 19:20:04,796 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 19:20:04,808 | analysis_m |       Best scheme combines subsets: 'FOXP1' and 'ZFX, ERC2'
+INFO     | 2025-03-18 19:20:04,808 | analysis_m |       The best scheme improves the bic score by 30.26 to 88006.0
+INFO     | 2025-03-18 19:20:04,810 | analysis_m |    ***Greedy algorithm step 5***
+INFO     | 2025-03-18 19:20:04,811 | analysis_m |       Analysing 5 new subset pairs
+INFO     | 2025-03-18 19:22:26,409 | progress   |       Finished subset 1/5, 20.00 percent done
+INFO     | 2025-03-18 19:23:36,619 | progress   |       Finished subset 2/5, 40.00 percent done
+INFO     | 2025-03-18 19:24:41,376 | progress   |       Finished subset 3/5, 60.00 percent done
+INFO     | 2025-03-18 19:25:25,324 | progress   |       Finished subset 4/5, 80.00 percent done
+INFO     | 2025-03-18 19:27:36,154 | progress   |       Finished subset 5/5, 100.00 percent done
+INFO     | 2025-03-18 19:27:36,155 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 19:27:36,165 | analysis_m |       Best scheme combines subsets: 'ADORA3' and 'FOXP1, ZFX, ERC2'
+INFO     | 2025-03-18 19:27:36,165 | analysis_m |       The best scheme improves the bic score by 19.53 to 87986.5
+INFO     | 2025-03-18 19:27:36,167 | analysis_m |    ***Greedy algorithm step 6***
+INFO     | 2025-03-18 19:27:36,168 | analysis_m |       Analysing 4 new subset pairs
+INFO     | 2025-03-18 19:30:22,508 | progress   |       Finished subset 1/4, 25.00 percent done
+INFO     | 2025-03-18 19:31:55,938 | progress   |       Finished subset 2/4, 50.00 percent done
+INFO     | 2025-03-18 19:32:45,919 | progress   |       Finished subset 3/4, 75.00 percent done
+INFO     | 2025-03-18 19:33:48,293 | progress   |       Finished subset 4/4, 100.00 percent done
+INFO     | 2025-03-18 19:33:48,294 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 19:33:48,299 | analysis_m |       Found no schemes that improve the score, stopping
+INFO     | 2025-03-18 19:33:48,299 | analysis_m |    Greedy algorithm finished after 6 steps
+INFO     | 2025-03-18 19:33:48,299 | analysis_m |    Best scoring scheme is scheme step_5, with bic score of 87986.515
+INFO     | 2025-03-18 19:33:48,300 | model_util |    Information on best scheme is here: ./analysis/best_scheme.txt
+INFO     | 2025-03-18 19:33:48,304 | model_util |    
+INFO     | 2025-03-18 19:33:48,304 | model_util |    
+INFO     | 2025-03-18 19:33:48,305 | model_util |    *Citations for this analysis*
+INFO     | 2025-03-18 19:33:48,305 | model_util |    -----------------------------
+INFO     | 2025-03-18 19:33:48,305 | model_util |    
+INFO     | 2025-03-18 19:33:48,305 | model_util |    If you use this analysis in your published work, please cite the following papers on which your analysis relied.
+INFO     | 2025-03-18 19:33:48,305 | model_util |    
+INFO     | 2025-03-18 19:33:48,305 | model_util |    For the version of PartitionFinder you used, please cite:
+INFO     | 2025-03-18 19:33:48,305 | model_util |    Lanfear, R., Frandsen, P. B., Wright, A. M., Senfeld, T., Calcott, B. (2016) PartitionFinder 2: new methods for selecting partitioned models of evolution formolecular and morphological phylogenetic analyses. Molecular biology and evolution. DOI: dx.doi.org/10.1093/molbev/msw260
+INFO     | 2025-03-18 19:33:48,306 | model_util |    
+INFO     | 2025-03-18 19:33:48,306 | model_util |    For the greedy algorithm you used, please cite:
+INFO     | 2025-03-18 19:33:48,306 | model_util |    Lanfear, R., Calcott, B., Ho, S. Y., & Guindon, S. (2012). PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses. Molecular biology and evolution, 29(6), 1695-1701.
+INFO     | 2025-03-18 19:33:48,306 | model_util |    
+INFO     | 2025-03-18 19:33:48,306 | model_util |    Your analysis also used PhyML, so please cite:
+INFO     | 2025-03-18 19:33:48,306 | model_util |    Guindon, S., Dufayard, J. F., Lefort, V., Anisimova, M., Hordijk, W., & Gascuel, O. (2010). New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Systematic biology, 59(3), 307-321.
+INFO     | 2025-03-18 19:33:48,307 | model_util |    
+INFO     | 2025-03-18 19:33:48,316 | main       | Total processing time: 0:56:32 (h:m:s)
+INFO     | 2025-03-18 19:33:48,317 | main       | Processing complete.

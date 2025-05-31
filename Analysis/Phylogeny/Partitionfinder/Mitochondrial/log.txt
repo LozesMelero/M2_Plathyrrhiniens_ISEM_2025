@@ -1,0 +1,74 @@
+INFO     | 2025-03-18 18:37:13,852 | config     | Loading configuration at './partition_finder.cfg'
+INFO     | 2025-03-18 18:37:13,855 | config     | Setting 'alignment' to 'mito.phy'
+INFO     | 2025-03-18 18:37:13,855 | config     | Setting 'branchlengths' to 'linked'
+INFO     | 2025-03-18 18:37:13,856 | parser     | You set 'models' to: mrbayes
+INFO     | 2025-03-18 18:37:13,868 | model_load | This analysis will use the following 24 models of molecular evolution
+INFO     | 2025-03-18 18:37:13,868 | model_load | JC, K80, SYM, F81, HKY, GTR, JC+G, K80+G, SYM+G, F81+G, HKY+G, GTR+G, JC+I, K80+I, SYM+I, F81+I, HKY+I, GTR+I, JC+I+G, K80+I+G, SYM+I+G, F81+I+G, HKY+I+G, GTR+I+G
+INFO     | 2025-03-18 18:37:13,869 | config     | Setting 'model_selection' to 'bic'
+INFO     | 2025-03-18 18:37:13,870 | config     | Setting 'search' to 'greedy'
+INFO     | 2025-03-18 18:37:13,871 | config     | ------------------------ BEGINNING NEW RUN -------------------------------
+INFO     | 2025-03-18 18:37:13,871 | config     | Looking for alignment file './mito.phy'...
+INFO     | 2025-03-18 18:37:13,871 | analysis   | Beginning Analysis
+INFO     | 2025-03-18 18:37:13,880 | alignment  | Reading alignment file './mito.phy'
+INFO     | 2025-03-18 18:37:13,899 | analysis   | Starting tree will be estimated from the data.
+INFO     | 2025-03-18 18:37:13,900 | raxml      | Estimating Maximum Likelihood tree with RAxML fast experimental tree search for ./analysis/start_tree/filtered_source.phy
+INFO     | 2025-03-18 18:37:13,900 | raxml      | Using a separate GTR+G model for each data block
+INFO     | 2025-03-18 18:37:25,553 | raxml      | Estimating GTR+G branch lengths on ML tree using all partitions
+INFO     | 2025-03-18 18:37:35,445 | raxml      | ML topology estimation finished
+INFO     | 2025-03-18 18:37:35,446 | analysis_m | Performing Greedy Analysis
+INFO     | 2025-03-18 18:37:35,447 | analysis_m |    *** Analysing starting scheme ***
+INFO     | 2025-03-18 18:38:54,456 | progress   |       Finished subset 1/5, 20.00 percent done
+INFO     | 2025-03-18 18:39:01,891 | progress   |       Finished subset 2/5, 40.00 percent done
+INFO     | 2025-03-18 18:39:26,439 | progress   |       Finished subset 3/5, 60.00 percent done
+INFO     | 2025-03-18 18:39:34,642 | progress   |       Finished subset 4/5, 80.00 percent done
+INFO     | 2025-03-18 18:39:46,138 | progress   |       Finished subset 5/5, 100.00 percent done
+INFO     | 2025-03-18 18:39:46,141 | analysis_m |    ***Greedy algorithm step 1***
+INFO     | 2025-03-18 18:39:46,143 | analysis_m |       Analysing 10 new subset pairs
+INFO     | 2025-03-18 18:41:53,969 | progress   |       Finished subset 1/10, 10.00 percent done
+INFO     | 2025-03-18 18:42:29,838 | progress   |       Finished subset 2/10, 20.00 percent done
+INFO     | 2025-03-18 18:43:24,358 | progress   |       Finished subset 3/10, 30.00 percent done
+INFO     | 2025-03-18 18:44:52,345 | progress   |       Finished subset 4/10, 40.00 percent done
+INFO     | 2025-03-18 18:45:36,107 | progress   |       Finished subset 5/10, 50.00 percent done
+INFO     | 2025-03-18 18:46:13,199 | progress   |       Finished subset 6/10, 60.00 percent done
+INFO     | 2025-03-18 18:47:19,435 | progress   |       Finished subset 7/10, 70.00 percent done
+INFO     | 2025-03-18 18:47:20,436 | progress   |       Finished subset 8/10, 80.00 percent done
+INFO     | 2025-03-18 18:47:33,593 | progress   |       Finished subset 9/10, 90.00 percent done
+INFO     | 2025-03-18 18:47:57,912 | progress   |       Finished subset 10/10, 100.00 percent done
+INFO     | 2025-03-18 18:47:57,914 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 18:47:57,925 | analysis_m |       Best scheme combines subsets: 'COIII' and 'COII'
+INFO     | 2025-03-18 18:47:57,925 | analysis_m |       The best scheme improves the bic score by 54.82 to 319860.2
+INFO     | 2025-03-18 18:47:57,927 | analysis_m |    ***Greedy algorithm step 2***
+INFO     | 2025-03-18 18:47:57,928 | analysis_m |       Analysing 3 new subset pairs
+INFO     | 2025-03-18 18:51:20,783 | progress   |       Finished subset 1/3, 33.33 percent done
+INFO     | 2025-03-18 18:52:37,703 | progress   |       Finished subset 2/3, 66.67 percent done
+INFO     | 2025-03-18 18:54:16,519 | progress   |       Finished subset 3/3, 100.00 percent done
+INFO     | 2025-03-18 18:54:16,519 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 18:54:16,526 | analysis_m |       Best scheme combines subsets: 'CYTB' and 'COIII, COII'
+INFO     | 2025-03-18 18:54:16,526 | analysis_m |       The best scheme improves the bic score by 33.45 to 319826.7
+INFO     | 2025-03-18 18:54:16,528 | analysis_m |    ***Greedy algorithm step 3***
+INFO     | 2025-03-18 18:54:16,529 | analysis_m |       Analysing 2 new subset pairs
+INFO     | 2025-03-18 18:57:54,143 | progress   |       Finished subset 1/2, 50.00 percent done
+INFO     | 2025-03-18 18:59:04,821 | progress   |       Finished subset 2/2, 100.00 percent done
+INFO     | 2025-03-18 18:59:04,822 | analysis_m |       Finding the best partitioning scheme
+INFO     | 2025-03-18 18:59:04,824 | analysis_m |       Found no schemes that improve the score, stopping
+INFO     | 2025-03-18 18:59:04,825 | analysis_m |    Greedy algorithm finished after 3 steps
+INFO     | 2025-03-18 18:59:04,825 | analysis_m |    Best scoring scheme is scheme step_2, with bic score of 319826.719
+INFO     | 2025-03-18 18:59:04,826 | model_util |    Information on best scheme is here: ./analysis/best_scheme.txt
+INFO     | 2025-03-18 18:59:04,829 | model_util |    
+INFO     | 2025-03-18 18:59:04,829 | model_util |    
+INFO     | 2025-03-18 18:59:04,829 | model_util |    *Citations for this analysis*
+INFO     | 2025-03-18 18:59:04,829 | model_util |    -----------------------------
+INFO     | 2025-03-18 18:59:04,829 | model_util |    
+INFO     | 2025-03-18 18:59:04,830 | model_util |    If you use this analysis in your published work, please cite the following papers on which your analysis relied.
+INFO     | 2025-03-18 18:59:04,830 | model_util |    
+INFO     | 2025-03-18 18:59:04,830 | model_util |    For the version of PartitionFinder you used, please cite:
+INFO     | 2025-03-18 18:59:04,830 | model_util |    Lanfear, R., Frandsen, P. B., Wright, A. M., Senfeld, T., Calcott, B. (2016) PartitionFinder 2: new methods for selecting partitioned models of evolution formolecular and morphological phylogenetic analyses. Molecular biology and evolution. DOI: dx.doi.org/10.1093/molbev/msw260
+INFO     | 2025-03-18 18:59:04,830 | model_util |    
+INFO     | 2025-03-18 18:59:04,831 | model_util |    For the greedy algorithm you used, please cite:
+INFO     | 2025-03-18 18:59:04,831 | model_util |    Lanfear, R., Calcott, B., Ho, S. Y., & Guindon, S. (2012). PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses. Molecular biology and evolution, 29(6), 1695-1701.
+INFO     | 2025-03-18 18:59:04,831 | model_util |    
+INFO     | 2025-03-18 18:59:04,831 | model_util |    Your analysis also used PhyML, so please cite:
+INFO     | 2025-03-18 18:59:04,831 | model_util |    Guindon, S., Dufayard, J. F., Lefort, V., Anisimova, M., Hordijk, W., & Gascuel, O. (2010). New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Systematic biology, 59(3), 307-321.
+INFO     | 2025-03-18 18:59:04,831 | model_util |    
+INFO     | 2025-03-18 18:59:04,838 | main       | Total processing time: 0:21:51 (h:m:s)
+INFO     | 2025-03-18 18:59:04,839 | main       | Processing complete.

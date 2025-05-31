@@ -1,0 +1,29 @@
+[This block sets up several different partitions that could have been used in the analyses of this dataset]
+
+	charset morpho = 1-456;
+	charset COI = 457-1995;
+	charset COII = 1996-2669;
+	charset COIII = 2670-3453;
+	charset CYTB = 3454-4589;
+	charset NADH2 = 4590-5640;
+	charset ABCA1 = 5641-6532;
+	charset ADORA3 = 6533-6925;
+	charset ERC2 = 6926-7693;
+	charset FES = 7694-8222;
+	charset FOXP1 = 8223-8785;
+	charset MAPKAP1 = 8786-9434;
+	charset RAG1 = 9435-10511;
+	charset RPGRIP1 = 10512-11190;
+	charset SIM1 = 11191-11825;
+	charset ZFX = 11826-12674;
+
+[PartitionFinder, only DNA]
+
+	charset SubCOI = 457-1995;
+	charset SubCOII_COIII_CYTB = 1996-2669 2670-3453 3454-4589;
+	charset SubNADH2 = 4590-5640;
+	charset SubABCA1_FES = 5641-6532 7694-8222;
+	charset SubADORA3_ERC2_FOXP1_ZFX = 6533-6925 6926-7693 8223-8785 11826-12674;
+	charset SubMAPKAP1_SIM1 = 8786-9434 11191-11825;
+	charset SubRAG1 = 9435-10511;
+	charset SubRPGRIP1 = 10512-11190;

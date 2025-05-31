@@ -1,0 +1,18 @@
+# BLASTN 2.12.0+
+# Query: FOXP1 from HM761522
+# Database: ./Mico_database/Mico_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+FOXP1	Mico_munduruku_RCA37	94.737	19	1	0	269	287	31254	31236	1.0	31.0
+FOXP1	Mico_intermedius_FES26	94.737	19	1	0	269	287	30419	30401	1.0	31.0
+FOXP1	Mico_intermedius_FES26	100.000	16	0	0	338	353	285593	285578	1.0	30.1
+FOXP1	Mico_intermedius_FES26	100.000	15	0	0	517	531	256415	256401	3.5	28.3
+FOXP1	Mico_munduruku_RCA23	100.000	16	0	0	338	353	364886	364871	1.0	30.1
+FOXP1	Mico_munduruku_RCA23	100.000	15	0	0	273	287	201709	201723	3.5	28.3
+FOXP1	Mico_munduruku_RCA23	100.000	15	0	0	517	531	332079	332065	3.5	28.3
+FOXP1	Mico_leucippe_RCA45	100.000	16	0	0	338	353	284763	284748	1.0	30.1
+FOXP1	Mico_leucippe_RCA45	100.000	15	0	0	517	531	259727	259713	3.5	28.3
+FOXP1	Mico_leucippe_RCA38	100.000	16	0	0	338	353	370806	370791	1.0	30.1
+FOXP1	Mico_leucippe_RCA38	100.000	15	0	0	273	287	204529	204543	3.5	28.3
+FOXP1	Mico_rondoni_UFRO-MAM000556	100.000	15	0	0	273	287	81414	81428	3.5	28.3
+# BLAST processed 1 queries

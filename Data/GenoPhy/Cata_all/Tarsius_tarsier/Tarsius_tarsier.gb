@@ -1,0 +1,936 @@
+LOCUS       HM470226                 339 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Ttar0102 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470226
+VERSION     HM470226.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 339)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 339)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..339
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ttar0102"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>339
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tgataaacct taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct
+       61 aaaaaggcct caaagtaagc ataagtatat acataaaaac gttaggtcaa ggtgtaacct
+      121 atggggtgga aagcaatggg ctacattttc taccctagaa taycacggac attcctatga
+      181 aaacaagaat taaaggagga tttagcagta aaccaagart agagagctta gttgaaaaag
+      241 gccatgaagc acgcacacac cgcccgtcac cctcctcaaa tgcaactcaa caacatgtat
+      301 tcataaacaa gattaacatg aatgcataag acgagacaa
+//
+LOCUS       HM470225                 341 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Ttar0104 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470225
+VERSION     HM470225.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 341)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 341)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..341
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ttar0104"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>341
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tgtgataaac cttaccaccc cttgctaatc cagtctatat accgccatct tcagcaaacc
+       61 ctaaaaaggc ctcaaagtaa gcataagtac atacataaaa acgttaggtc aaggtgtaac
+      121 ctatgggatg gaaagcaatg ggctacattt tctaccttag aatattacgg acattcctat
+      181 gaaaacaaga attaaaggag gatttagcag taaaccaaga atagagagct tagttgaaaa
+      241 aggccatgaa gcacgcacac accgcccgtc accctcctca aatgcaactc aacaacatat
+      301 attcataaac aagattaaca tgaatgcata agacgagaca a
+//
+LOCUS       HM470224                 772 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470224
+VERSION     HM470224.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 772)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 772)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..772
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec1"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>772
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 agaacactga atagtagctc acaacgtctt gctcaaccgc gcccccacag gacacagcag
+       61 taataaaact ttagcaataa acgaaagttt gactaagtta tactagacta ttagggttgg
+      121 taaatttcgt gccagccacc gcggtcatac gattaaccca aactaataaa gcacggcgta
+      181 aagcatgttt aagattccac taaactaaag ttaaacccta gctaagctgt aaaaagctac
+      241 agctaatctt aaaataaacc acgaaagtga ctttaatgtt ctgaagacac gacaactaag
+      301 atccaaactg ggattagata ccccactatg cttagccata aacacaaata actataaaca
+      361 aatttattcg ccagagtact acaagcaaca gcttaaaact caaaggactt ggcggtgctt
+      421 cacatccctc tagaggagcc tgttctataa ccgataaacc ccgataaacc tcaccatccc
+      481 ttgctaatcc agtctatata ccgccatctt cagcaaaccc taaaaaggcc tcaaagtaag
+      541 cataagtaca tacataaaaa cgttaggtca aggtgtaacc tatgggatgg aaagcaatgg
+      601 gctacatttt ctaccttaga atattacgga cattcctatg aaaacaagaa ttaaaggagg
+      661 atttagcagt aaaccaagaa tagagagctt agttgaaaaa ggccatgaag cacgcacaca
+      721 ccgcccgtca ccctcctcaa atgcaactca acaacatata ttcataaaca ag
+//
+LOCUS       HM470223                 819 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec109 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470223
+VERSION     HM470223.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec109"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>819
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gtatccactc cccagtgaga atgccctcta ggtccaacag accaaaagga gcagacatca
+       61 agaacactaa atagtagctc acaacgtctt gctcaaccac acccccacgg gacacagcag
+      121 taataaaact ttagcaataa acgaaagttt gactaagtta tactagacta ttagggttgg
+      181 taaatttcgt gccagccacc gcggtcatac gattaaccca aactaataaa gcacggcgta
+      241 aagcgtgttt aagattccac taaactaaag ttaaacccta gctaagctgt aaaaagctac
+      301 agctaatctt aaaataaacc acgaaagtga ctttaatgct ctgaagacac gacaactaag
+      361 atccaaactg ggattagata ccccactatg cttagctata aacacaaata actataaaca
+      421 aatttattcg ccagagtact acaagcaaca gcttaaaact caaaggactt ggcggtgctt
+      481 cacatccctc tagaggagcc tgttctataa ccgataaacc ccgataaacc tcaccatccc
+      541 ttgctaatcc agtctatata ccgccatctt cagcaaaccc taaaaaggcc tcaaagtaag
+      601 cataagtata tacataaaaa cgttaggtca aggtgtaacc tatgggatgg aaagcaatgg
+      661 gctacatttt ctaccctaga atattacgga cattcctatg aaaacaagaa ttaaaggagg
+      721 atttagcagt aaaccaagaa tagagagctt agttgaaaaa ggccatgaag cacgcacaca
+      781 ccgcccgtca ccctcctcaa atgcaactca acaacatat
+//
+LOCUS       HM470222                 833 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec108 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470222
+VERSION     HM470222.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 833)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 833)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..833
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec108"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>833
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gtatccactc cccagtgaga atgccctctg ggtccaacag accaaaagga gcagacatca
+       61 agaacactaa atagtagctc acaacgtctt gctcaaccac acccccacgg gacacagcag
+      121 taataaaact ttagcaataa acgaaagttt gactaagtta tactagacta ttagggttgg
+      181 taaatttcgt gccagccacc gcggtcatac gattaaccca aactaataaa gcacggcgta
+      241 aagcgtgttt aagattccac taaactaaag ttaaacccta gctaagctgt aaaaagctac
+      301 agctaatctt aaaataaacc acgaaagtga ctttaatgct ctgaagacac gacaactaag
+      361 atccaaactg ggattagata ccccactatg cttagccata aacacaaata actataaaca
+      421 aatttattcg ccagagtact acaagcaaca gcttaaaact caaaggactt ggcggtgctt
+      481 cacatccctc tagaggagcc tgttctataa ccgataaacc ccgataaacc tcaccatccc
+      541 ttgctaatcc agtctatata ccgccatctt cagcaaaccc taaaaaggcc tcaaagtaag
+      601 cataagtata tacataaaaa cgttaggtca aggtgtaacc tatgggatgg aaagcaatgg
+      661 gctacatttt ctaccctaga atattacgga cattcctatg aaaacaagaa ttaaaggagg
+      721 atttagcagt aaaccaagaa tagagagctt agttgaaaaa ggccatgaag cacgcacaca
+      781 ccgcccgtca ccctcctcaa atgcaactca acaacatata ttcataaaca aga
+//
+LOCUS       HM470221                 867 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec058 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470221
+VERSION     HM470221.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 867)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 867)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..867
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec058"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>867
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaaa tagtagctca caacgccttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt cagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaacctta aaataaacca cgaaagtgac tttaatgctc tgaaaacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct
+      601 taaagtaagc ataagtatat acataaaaac gttaggtcaa ggtgtaacct atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa taccacggat attcctatga aaataagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctkctcaaa kgcaacttaa caacacatcc ataaacaaaa
+      841 ctaacatgaa cgcatgagat gagataa
+//
+LOCUS       HM470220                 867 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec057 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470220
+VERSION     HM470220.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 867)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 867)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..867
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec057"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>867
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccy ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaaa tagtagctca caacgccttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt cagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaacctta aaataaacca cgaaagtgac tttaatgctc tgaaaacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct
+      601 taaagtaagc ataagtatat acataaaaac gttaggtcaa ggtgtaacct atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa taccacggat attcctatga aaataagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctyctyaaa tgcaacttaa caacacatcc ataaacaaaa
+      841 ctaacatgaa cgcatgagat gagataa
+//
+LOCUS       HM470219                 865 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec052 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470219
+VERSION     HM470219.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 865)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 865)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..865
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec052"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>865
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaaa tagtagctca caacgccttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt cagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaacctta aaataaacca cgaaagtgac tttaatgctc tgaaaacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc catccctcta gaggagcctg ttctatatcc gataaacccc gataaacctt
+      541 accacccctt gctaatccag tctatatacc gccatcttca gcaaacccta aaaaggcctt
+      601 aaagtaagca taagtatata cataaaaacg ttaggtcaag gtgtaaccta tggggtggaa
+      661 agtaatgggc tacattttct actttagaat accacggata ttcctatgaa aataagaatt
+      721 aaaggaggat ttagcagtaa actaagaata gagagcttag ttgaaaaagg ccatgaagca
+      781 cgcacacacc gcccgtcacc ctctcaaatg caacttaaca acacatccat aaacaaaact
+      841 aacatgaacg catgagatga gataa
+//
+LOCUS       HM470218                 869 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec100 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470218
+VERSION     HM470218.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec100"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>869
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 cagacatcaa gaacactaag tagtagctca caacgtcttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agatttcacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaatctta aaataaacca cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttaggcataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggtct
+      601 taaagtaagc ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa cactacgaat attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gctgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaacttaa caacatatac ccataaacaa
+      841 aattaacatg aacgcatgag acgagacaa
+//
+LOCUS       HM470217                 868 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec096 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470217
+VERSION     HM470217.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 868)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 868)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..868
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec096"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>868
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 cagacatcaa gaacactaag tagtagctca caacgtcttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actatactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatcga ttaacccaaa ctaataaagc
+      241 acggcgtaaa gcgtgtttaa gattccacca aactaaagtt aaaccctagc taagctgtaa
+      301 aaagctgcag ctaatcttaa aataaaccac gaaagtgact ttaatgctct gaagacacga
+      361 cagctaagat ccaaactggg attagatacc ccactatgct tagccataaa cacaaataac
+      421 tataaacaaa tttattcgcc agagtactac aagcaacagc ttaaaactca aaggacttgg
+      481 cggtgcttca catccctcta gaggagcctg ttctataacc gataaacccc gataaacctt
+      541 accacccctt gctaatccag tctatatacc gccatcttca gcaaaccctg aaaaggtctt
+      601 aaagtaagca taagtatgta cataaaaacg ttaggtcaag gtgtaaccca tggggtggaa
+      661 agtaatgggc tacattttct actttagaac actacgaata ttcctatgaa aacaagaatt
+      721 aaaggaggat ttagcagtaa actaagaata gagagcttag ctgaaaaagg ccatgaagca
+      781 cgcacacacc gcccgtcacc ctcctcaaat gcmacttacc accttatccc cataaacaaa
+      841 attaacatga acgcatgaga cgagacaa
+//
+LOCUS       HM470216                 812 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec075 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470216
+VERSION     HM470216.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 812)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 812)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..812
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec075"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>812
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccaccty ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaag tagtagctca caacgtcttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt tagcawtaaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgta gctaatctta aaataatcca cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga cccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcgggcttca catccctcta gaggagcctg ttctataacc gataaacccc gataaacctt
+      541 accacccctt gctaatccag tctatatacc gccatcttca gcaaacccta aaaaggcctt
+      601 aaagtaagca taagtatgta cataaaaacg ttaggtcaag gtgtaaccca tggggtggaa
+      661 agtaatgggc tacattttct actttagaac actacgrata ttcctatgaa aacaagaatt
+      721 aaaggaggat ttagcagtaa actaagaata gagagcttag ttgaaaaagg ccatgaagca
+      781 cgcacacacc gcccgtcacc cttcttaaat gc
+//
+LOCUS       HM470215                 868 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec074 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470215
+VERSION     HM470215.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 868)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 868)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..868
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec074"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>868
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacctt ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaag tagtagctca caacgtcttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgta gctaatctta aaataatcca cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga cccaaactgg gattagatac cccactatgc ttrgccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc aaatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct
+      601 caaagtaagc ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa tactacggat attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaatttaa caacatacat tcataaacaa
+      841 aattaatata acgcatgaga cgagacaa
+//
+LOCUS       HM470214                 845 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec038 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470214
+VERSION     HM470214.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec038"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>845
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tgagaatgcc ctctaggtgc aacagaccaa aaggagcaga catcaagaac actaagtagt
+       61 agctcacaac gtcttgctca accacacccc cacgggacac agcagtaata aaattttagc
+      121 aataaacgaa agtttgacta agttatacta gactattagg gttggtaaat ttcgtgccag
+      181 ccaccgcggt catacgatta acccaaacta ataaagcacg gcgtaaagcg tgtttaagat
+      241 tccaccaaac taaagttaaa ccctagctaa gctgtaaaaa gctgcagcta atcttaaaat
+      301 aaaccacgaa agtgacttta atgctctgaa gacacgacag ctaagatcca aactgggatt
+      361 agatacccca ctatgcttrg ccataaacac aaataactat aaacaaattt attcgccaga
+      421 gtactacaag caacagctta aaactcaaag gacttggcgg tgcttcacat ccctctagag
+      481 gagcctgttc tataaccgat aaaccccgat aaaccttacc accccttgct aatccagtct
+      541 atataccgcc atcttcagca aaccctaaaa aggtcttaaa gtaagcataa gtatgtacat
+      601 aaaaacgtta ggtcaaggtg taacccatgg ggtggaaagt aatgggctac attttctact
+      661 ttagaacact acgaatattc ctatgaaaac aagaattaaa ggaggattta gcagtaaact
+      721 aagaatagag agcttagctg aaaaaggcca tgaagcacgc acacaccgcc cgtcaccctc
+      781 ctcaaatgca acttaacaac atatacccat aaacaaaatt aacatgaacg catgagacga
+      841 gacaa
+//
+LOCUS       HM470213                 815 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec090 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470213
+VERSION     HM470213.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 815)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 815)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..815
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec090"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>815
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tgcaagtatc caccccccag tgagaatgcc ctctaggtcc aacagaccaa aaggagcaga
+       61 catcaagaac actaagtagt agctcacaac gtcttgctca accacgcccc cacgggacac
+      121 agcagtaata aaattttagc aataaacgaa agtttgacta agttatacta gactattagg
+      181 gttggtaaat ttcgtgccag ccaccgcggt catacgatta acccaaacta ataaagcacg
+      241 gcgtaaagcg tgtttaagat tccaccaaac taaagttaaa ccctagctaa gctgtaaaaa
+      301 gctgcagcta atcttaaaat aaactacgaa agtgacttta atgctctgaa gacacgacag
+      361 ctaagatcca aactgggatt agatacccca ctatgcttag ccataaacac aaataactat
+      421 aaacaaattt attcgccaga gtactacaag caacagctta aaactcaaag gacttggcgg
+      481 tgcttcacat ccctctagag gagcctgttc tataaccgat aaaccccgat aaaccttacc
+      541 accccttgct aatccagtct atataccgcc atcttcagca aaccctaaaa aggtcttaaa
+      601 gtaagcataa gtatgtacat aaaaacgtta ggtcaaggtg taacccatgg ggtggaaagt
+      661 aatgggctac attttctact ttagaacact acgaatattc ctatgaaaac aagaattaaa
+      721 ggaggattta gcagtaaact aagaatagag agcttagctg aaaaaggcca tgaagcacgc
+      781 acacaccgcc cgtcaccctc ctcaaatgca actta
+//
+LOCUS       HM470212                 869 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec19 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470212
+VERSION     HM470212.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec19"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>869
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 cagacatcaa gaacactaag tagtagctca caacgtcttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agatttcatc aaactaaagt taaaccctaa ctaagctgta
+      301 aaaagctgca gctaatctta aaataaacta cgaaagtgac tttaataccc tgaagacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggtct
+      601 taaagtaagc ataagtatac acataaaaac gttaggtcaa ggtgtaaccc atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa cactacgaac attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gctgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaacttaa caacatatac caataaacaa
+      841 aattaacatg aacgcatgag acgagacaa
+//
+LOCUS       HM470211                 869 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec18 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470211
+VERSION     HM470211.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec18"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>869
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccy ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 cagacatcaa gaacactaag tagtagctca caacgtcttg ctcaaccacg cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaatctta aaataaacta cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttrgccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggtct
+      601 taaagtaagc ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atggggtgga
+      661 aagtaatggg ctacattttc tactttagaa cactacgaat attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gctgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaacttaa caacatatac ccataaacaa
+      841 aattaacatg aacgcatgag acgagacaa
+//
+LOCUS       HM470210                 869 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec085 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470210
+VERSION     HM470210.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec085"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>869
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 cagacatcaa gaacactaag tagtagctca caacgtcttg ctcaaccacg cccccacggg
+      121 acacagcagt aataaaattt tagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaatctta aaataaacta cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttrgccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct
+      601 taaagtaagc ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atgggatgga
+      661 aagtaatggg ctacattttc tactttagaa cactacgaat attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaacttaa caatacacat ccataaacaa
+      841 aattaacatg aacgcatgag acgagacaa
+//
+LOCUS       HM470209                 863 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec084 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470209
+VERSION     HM470209.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 863)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 863)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..863
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec084"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>863
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 caagtataca ccccccagtg agaatgccct ctaggtccaa cagaccaaaa ggagcagaca
+       61 tcaagaacac taagtagtag ctcacaacgt cttgctcaac cacgccccca cgggacacag
+      121 cagtaataaa attttagcaa taaacgaaag tttgactaag ttatactaga ctattagggt
+      181 tggtaaattt cgtgccagcc accgcggtca tacgattaac ccaaactaat aaagcacggc
+      241 gtaaagcgtg tttaagattc caccaatcta aagttaaacc ctagctaagc tgtaaaaagc
+      301 tgcagctaat cttaaaataa actacgaaag tgactttaat gctctgaaga cacgacagct
+      361 aagatccaaa ctgggattag ataccccact atgcttrgcc ataaacacaa ataactataa
+      421 acaaatttat tcgccagagt actacaagca acagcttaaa actcaaagga cttggcggtg
+      481 cttcacatcc ctctagagga gcctgttcta taaccgataa accccgataa accttaccac
+      541 cccttgctaa tccagtctat ataccgccat cttcagcaaa ccctaaaaag gtcttaaagt
+      601 aagcataagt atgtacataa aaacgttagg tcaaggtgta acccatgggg tggaaagtaa
+      661 tgggctacat tttctacttt agaacactac gaatattcct atgaaaacaa gaattaaagg
+      721 aggatttagc agtaaactaa gaatagagag cttagctgaa aaaggccatg aagcacgcac
+      781 acaccgcccg tcaccctcct caaatgcaac ttaacaacat atacccataa acaaaattaa
+      841 catgaacgca tgagacgaga caa
+//
+LOCUS       HM470208                 859 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec083 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470208
+VERSION     HM470208.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 859)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 859)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..859
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec083"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>859
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tatacacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag caggcatcaa
+       61 gaacactaag tagtagctca caacgccttg ctcaaccaca cccccacggg tcacagcagt
+      121 aataaaattt cagcaataaa cgaaagtttg actaagttat actagactat tagggttggt
+      181 aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag cacggcgtaa
+      241 agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta aaaagctgca
+      301 gctaatctta aaataaacca cgaaagtgac tttaatgctc tgaagacacg acagctaaga
+      361 tccaaactgg gattagatac cccactatgc ttrgccataa acacaaataa ctataaacaa
+      421 atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg gcggtgcttc
+      481 acatccctct agaggagcct gttctataac cgataaaccc cgataaacct taccacccct
+      541 tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct taaagtaagc
+      601 ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atgggatgga aagtaatggg
+      661 ctacattttc tactttagaa cactacgaat attcctatga aaacaagaat taaaggagga
+      721 tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc acgcacacac
+      781 cgcccgtcac cctcctcaaa tgcaacttaa caatacacat ccataaacaa aattaacatg
+      841 aacgcatgag acgagacaa
+//
+LOCUS       HM470207                 869 bp    DNA     linear   PRI 30-OCT-2010
+DEFINITION  Tarsius tarsier isolate Tspec082 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM470207
+VERSION     HM470207.1
+KEYWORDS    .
+SOURCE      mitochondrion Tarsius tarsier (Spectral tarsier)
+  ORGANISM  Tarsius tarsier
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Tarsiiformes; Tarsiidae; Tarsius.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Shekelle,M., Meier,R., Wahyu,I., Teti,W. and Ting,N.
+  TITLE     Molecular Phylogenetics and Chronometrics of Tarsidae based on 12S
+            mtDNA Haplytypes: Evidence for Miocene Origins of Crown Tarsiers
+            and Numerous Species within the Sulawesian Clade
+  JOURNAL   Int. J. Primatol. (2010) In press
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Ting,N., Shekelle,M., Meier,R. and Wahyu,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2010) Anthropology, University of Iowa, 114
+            MacBride Hall, Iowa City, IA 52242, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Tarsius tarsier"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tspec082"
+                     /db_xref="taxon:662464"
+     rRNA            <1..>869
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tacatgcaag tatccacccc ccagtgagaa tgccctctag gtccaacaga ccaaaaggag
+       61 caggcatcaa gaacactaag tagtagctca caacgccttg ctcaaccaca cccccacggg
+      121 acacagcagt aataaaattt cagcaataaa cgaaagtttg actaagttat actagactat
+      181 tagggttggt aaatttcgtg ccagccaccg cggtcatacg attaacccaa actaataaag
+      241 cacggcgtaa agcgtgttta agattccacc aaactaaagt taaaccctag ctaagctgta
+      301 aaaagctgca gctaatctta aaataaacca cgaaagtgac tttaatgctc tgaagacacg
+      361 acagctaaga tccaaactgg gattagatac cccactatgc ttagccataa acacaaataa
+      421 ctataaacaa atttattcgc cagagtacta caagcaacag cttaaaactc aaaggacttg
+      481 gcggtgcttc acatccctct agaggagcct gttctataac cgataaaccc cgataaacct
+      541 taccacccct tgctaatcca gtctatatac cgccatcttc agcaaaccct aaaaaggcct
+      601 taaagtaagc ataagtatgt acataaaaac gttaggtcaa ggtgtaaccc atgggatgga
+      661 aagtaatggg ctacattttc tactttagaa cactacgaat attcctatga aaacaagaat
+      721 taaaggagga tttagcagta aactaagaat agagagctta gttgaaaaag gccatgaagc
+      781 acgcacacac cgcccgtcac cctcctcaaa tgcaacttaa caatacacat ccataaacaa
+      841 aattaacatg aacgcatgag acgagacaa
+//

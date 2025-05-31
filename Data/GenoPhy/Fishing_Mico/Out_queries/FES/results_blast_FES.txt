@@ -1,0 +1,8 @@
+# BLASTN 2.12.0+
+# Query: FES from HM761755
+# Database: ./Mico_database/Mico_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+FES	Mico_leucippe_RCA55	100.000	15	0	0	281	295	128481	128495	3.0	28.3
+FES	Mico_leucippe_RCA45	100.000	15	0	0	281	295	103907	103921	3.0	28.3
+# BLAST processed 1 queries

@@ -1,0 +1,904 @@
+LOCUS       EU580079                4090 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Procolobus badius tephrosceles isolate PtepG9 NADH dehydrogenase
+            subunit 3 (NADH3) gene, complete cds; tRNA-Arg gene, complete
+            sequence; NADH dehydrogenase subunit 4L (NADH4L) and NADH
+            dehydrogenase subunit 4L (NADH4) genes, complete cds; tRNA-His,
+            tRNA-Ser, and tRNA-Leu genes, complete sequence; and NADH
+            dehydrogenase subunit 5 (NADH5) gene, complete cds; mitochondrial.
+ACCESSION   EU580079
+VERSION     EU580079.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 4090)
+  AUTHORS   Ting,N.
+  TITLE     Mitochondrial relationships and divergence dates of the African
+            colobines: evidence of Miocene origins for the living colobus
+            monkeys
+  JOURNAL   J. Hum. Evol. 55 (2), 312-325 (2008)
+   PUBMED   18423802
+REFERENCE   2  (bases 1 to 4090)
+  AUTHORS   Ting,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2008) Anthropology, City University of New York
+            (CUNY) Graduate Center, 365 Fifth Ave., New York, NY 10016, USA
+FEATURES             Location/Qualifiers
+     source          1..4090
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PtepG9"
+                     /db_xref="taxon:591936"
+     gene            1..346
+                     /gene="NADH3"
+     CDS             1..346
+                     /gene="NADH3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:346,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="ACB73147.1"
+                     /translation="MNLALTLMINTLLTTALMIIMFWLPQLNSYTEKANPYECGFDPL
+                     NPARIPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPMMIKSSIMLIIILTLSL
+                     AYEWTQKGLEWTE"
+     tRNA            347..411
+                     /product="tRNA-Arg"
+     gene            412..708
+                     /gene="NADH4L"
+     CDS             412..708
+                     /gene="NADH4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="ACB73148.1"
+                     /translation="MPIIYMNITLAFTISLLGMLVYRSHLMASLLCLEGMMLSLFIMA
+                     TLMALNMHFPLANILPIALLVFAACEAAVGLALLASISNMYGLDHIHNLSLLQC"
+     gene            702..2079
+                     /gene="NADH4"
+     CDS             702..2079
+                     /gene="NADH4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:2079,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACB73149.1"
+                     /translation="MLKMIFPTIMLLPTTWFSKNNMIWINLTVHSLIISLIPLLFFNQ
+                     TNNNLINYSTLLSSDPLTTPLLMLTAWLLPLMIMASQYHLHNESPSRKKLYLSMMVFL
+                     QISLIMTFMATELILFYILFEITLIPTLIIITRWGNQAERLNAGTYFLFYTLAGSLPL
+                     LIMLMYIYNSLGSLNIILLTITAQKLTTTWSHSLTWLACMMAFMVKMPLYGLHLWLPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGLLRLSLILDPLTEYMAYPFLMLSLWGMVMTSSIC
+                     LRQTDLKSLIAYSSVSHMALVIVASLIQTPWSFTGAIVLMIAHGLTSSMLFCLANSNY
+                     ERTHSRIMMLTRGLQTLLPLMAFWWLMANLTNLALPPTINLVGELLVMTTSFSWSHIT
+                     IMLMGLNMLITALYSLHMFIMTQRGVFTHHIINMKPSFTRENMLMFMHLSPIILLSLN
+                     PNIIMGFTP"
+     tRNA            2080..2148
+                     /product="tRNA-His"
+     tRNA            2149..2207
+                     /product="tRNA-Ser"
+     tRNA            2208..2278
+                     /product="tRNA-Leu"
+     gene            2285..4090
+                     /gene="NADH5"
+     CDS             2285..4090
+                     /gene="NADH5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="ACB73150.1"
+                     /translation="MHTSIVMLTLTSLTFPVIMAFITPNKKYLYPNYVKTTMMLAFIL
+                     SLLPTILYIFMDQDMIISNWHWTTIQSLELTLSFKLDYFSMLFMPIALFITWCIMEFS
+                     LWYMSSDPNISQFFKYLLIFLTTMLILITANNLFQLFIGWEGVGIMSFLLIGWWHART
+                     DANTAAIQAVLYNRIGDIGFVLAMAWFLLHYNSWDLQQMLMLDPNPSVLPLMGLLLAA
+                     TGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLLIRFHPLMENNMLIQNLTL
+                     CLGAITTLFMAICALTQNDIKKIVAFSTSSQLGLMVVTIGINQPHLAFLHICTHAFFK
+                     AMLFICSGSIIHNLNNEQDIRKMGGLFKTMPLTSTSLTVGSLALTGMPFLTGFYSKDL
+                     IIETANTSYTNAWALSATLIATSLTSAYSTRTIILTLTGQPRFPASIIINENNSALLN
+                     PLKRLTLGSIIAGFLITNNISPTMTPQTTMPHYLKYLALCVTILGFLMALDLTLMTNN
+                     LKMNKPSYVFNFSNMLGYFPTTMHRMIPYQNLIMSQNVASLLLDLIWLEKSMPKMIMQ
+                     THITTSINTTTQKGMIKLYFLSFLIPLILIPLLMT"
+ORIGIN      
+        1 ataaacctag cattaactct aataattaat acccttctaa ccacagcatt aataatcatt
+       61 atgttctgat tacctcaact caattcctac acagaaaaag ctaatcccta tgaatgcggc
+      121 tttgatccac taaatcccgc tcgtattcct ttctccataa aatttttctt agttgccatt
+      181 acctttctac tatttgactt agaaattgcc ctactactac ccctgccatg agctctccaa
+      241 acaacaaatc ttcccataat aatcaagtca tcaattatat taattattat tctaacccta
+      301 agcctagcct acgaatgaac tcaaaaggga ttagaatgaa ctgaattggt aagtagttta
+      361 aataaaataa atgatttcga ctcattagat tatgataatc atactaacca aatgcctatt
+      421 atttatataa atatcaccct agcattcacc atttcactcc taggcatatt agtatatcgc
+      481 tcacacctaa tagcatcatt actgtgtcta gaaggaataa tactctcact gtttatcata
+      541 gccaccctta tagccttaaa tatgcatttc cccttagcta atatcctacc tattgccctg
+      601 ctagtatttg ccgcctgcga agcagcagta ggcctcgcct tactagcctc aatctcaaat
+      661 atatatggcc tagatcacat ccataattta agcttactcc aatgctaaaa ataatttttc
+      721 caacaattat actattacca acaacatgat tttccaaaaa taatataatc tgaattaatt
+      781 taactgtgca cagcttaatt attagtctta ttccccttct attcttcaat caaaccaaca
+      841 acaatcttat caattattca accctcctat cttctgaccc attaacaaca cccctcctaa
+      901 tattaaccgc ctgacttcta cccctcataa ttatagcaag tcaatatcac cttcacaacg
+      961 aaagcccctc acgaaaaaaa ctctatctct ccataatagt gtttttacag atctccctaa
+     1021 ttataacatt tatagccaca gaactaattt tattttatat tctatttgaa atcactctta
+     1081 ttcccactct aattattatt acccgatggg gcaaccaagc agaacgcctc aacgcaggta
+     1141 catactttct attttataca ttagccggct ctctccctct actaattata ttaatatata
+     1201 tctataacag cctgggctca ctaaatatta ttctcctaac aattacagct caaaaactaa
+     1261 caaccacctg atcacacagc ctaacttggc tagcttgcat aatagccttc atggtaaaaa
+     1321 tacccttata cggcctacac ctatgattac ccaaagccca tgttgaagcc cctatcgccg
+     1381 gatcaatagt tctcgctgca gtactcctaa aactaggggg ctatggtttg ctacgacttt
+     1441 ccctaatcct tgaccctctt acggaatata tagcctaccc ctttctcata ttatccctgt
+     1501 ggggcatagt cataacaagc tcaatctgcc ttcgacaaac agacctaaaa tcactcattg
+     1561 catattcctc cgtaagccac atggccctag taattgtagc atccctcatt caaacccctt
+     1621 gaagctttac tggcgcaatt gtccttataa tcgctcatgg actcacttca tctatattat
+     1681 tctgcctagc aaactcaaat tacgaacgaa cccacagccg cattataata ttaacccgag
+     1741 gacttcaaac tctacttcca ttaatagcct tttgatgact tatagcaaac ctcaccaacc
+     1801 tagctctacc tccaactatc aacttagtag gagaactact ggtaataaca acttcatttt
+     1861 cttgatcaca tattactatt atacttatag gattaaacat attaatcact gccctctatt
+     1921 cactacatat atttattata acccaacgag gagtatttac acatcacatc attaatataa
+     1981 aaccctcctt cacacgagaa aatatattaa tatttataca cctctccccc attatcctac
+     2041 tatcccttaa ccctaatatc attataggct ttactccttg taaatatagt ttaaataaaa
+     2101 cattagattg tgaatctaat tatagaaaat tatcacttct tatttaccga gaaagcttgc
+     2161 aaggactgct aacccatgct tccgtacata acaaaacggc tctctcaact tttaaaggat
+     2221 aacagctatc cattggtctt aggaaccaaa aatattggtg caactccaaa taaaagtaac
+     2281 aactatgcac acctccatcg ttatattaac cttaacttct ttaaccttcc cagttattat
+     2341 agcctttatt actcctaaca aaaaatatct ttatcccaat tatgtaaaaa caactataat
+     2401 acttgccttt attctcagcc tccttcccac aatcctatat atttttatag atcaagacat
+     2461 aattatctca aactgacatt gaacaaccat tcaatcatta gaactaacac taagcttcaa
+     2521 actagattat ttttccatat tatttatacc aattgcacta tttatcactt gatgtatcat
+     2581 ggagttttca ctatgatata taagctcaga cccaaatatt agtcaattct ttaaatatct
+     2641 ccttattttc cttaccacta tactaatttt aattaccgct aataatctct ttcaactatt
+     2701 catcggatgg gaaggcgtag gcatcatatc tttcctacta atcggctgat ggcatgctcg
+     2761 aacagatgcc aacacagcag ccattcaggc agttctatat aaccgcattg gcgatatcgg
+     2821 ctttgtccta gctatggcat ggttcctcct gcactacaac tcatgggacc ttcaacagat
+     2881 acttatgcta gaccccaatc caagcgtact accactaata ggcctcctcc tagcagcaac
+     2941 gggtaaatca gctcaacttg gtctacaccc ttgactacct tccgctatag aaggcccaac
+     3001 tccagtatca gctctactcc actccagcac catagtagta gccggagtgt ttctgctcat
+     3061 ccgtttccac cccctgatag aaaataatat attaattcaa aatctgacat tatgtctagg
+     3121 ggctattact actctattta tagcaatctg tgccctaaca caaaatgaca tcaaaaaaat
+     3181 tgtagccttc tccacctcaa gccaactggg cttaatagta gttactatcg gtatcaacca
+     3241 gccacaccta gcatttttac atatctgcac ccacgccttt ttcaaggcta tattatttat
+     3301 ttgctctggg tctatcattc ataacttaaa taatgaacaa gacattcgaa aaataggagg
+     3361 tttatttaaa acaatacctc ttacctcaac ttccctaact gtaggcagcc tagcacttac
+     3421 aggtatacca ttccttacag gtttctattc caaagatctt atcatcgaaa ccgcaaacac
+     3481 gtcatatacc aacgcctgag ccctatccgc caccctaatc gccacttctc taacaagcgc
+     3541 ttacagcact cgaactatta ttcttacatt aacaggacaa ccccgctttc cagcctcaat
+     3601 tattattaat gaaaacaact cagccctgct aaatccacta aaacgtctaa cacttggcag
+     3661 tatcatcgca ggcttcctta ttaccaacaa tatttccccc actataacac ctcaaacaac
+     3721 aatacctcat tatctaaaat atttagccct atgcgtaact atcctaggct tcctaatagc
+     3781 cctagaccta actctcataa caaataatct caaaataaat aaaccctcat acgtatttaa
+     3841 cttttctaat atgctaggat atttccccac tacaatacac cgaataattc cctatcaaaa
+     3901 cctaatcata agccaaaatg tagcctccct cctattagac ttaatctgat tggaaaaatc
+     3961 aatacccaaa ataattatgc aaacccacat taccacctct attaacacaa ccacccaaaa
+     4021 aggtataatt aaactttatt ttctctcttt ccttattcct cttattctaa ttccactcct
+     4081 aatgacataa
+//
+LOCUS       EU580078                4090 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Procolobus badius tephrosceles isolate PtepB NADH dehydrogenase
+            subunit 3 (NADH3) gene, complete cds; tRNA-Arg gene, complete
+            sequence; NADH dehydrogenase subunit 4L (NADH4L) and NADH
+            dehydrogenase subunit 4L (NADH4) genes, complete cds; tRNA-His,
+            tRNA-Ser, and tRNA-Leu genes, complete sequence; and NADH
+            dehydrogenase subunit 5 (NADH5) gene, complete cds; mitochondrial.
+ACCESSION   EU580078
+VERSION     EU580078.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 4090)
+  AUTHORS   Ting,N.
+  TITLE     Mitochondrial relationships and divergence dates of the African
+            colobines: evidence of Miocene origins for the living colobus
+            monkeys
+  JOURNAL   J. Hum. Evol. 55 (2), 312-325 (2008)
+   PUBMED   18423802
+REFERENCE   2  (bases 1 to 4090)
+  AUTHORS   Ting,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2008) Anthropology, City University of New York
+            (CUNY) Graduate Center, 365 Fifth Ave., New York, NY 10016, USA
+FEATURES             Location/Qualifiers
+     source          1..4090
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PtepB"
+                     /db_xref="taxon:591936"
+     gene            1..346
+                     /gene="NADH3"
+     CDS             1..346
+                     /gene="NADH3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:346,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="ACB73143.1"
+                     /translation="MNLALTLMINTLLTTALMIIMFWLPQLNSYTEKANPYECGFDPL
+                     NPARIPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPMMIKSSIMLIIILTLSL
+                     AYEWTQKGLEWTE"
+     tRNA            347..411
+                     /product="tRNA-Arg"
+     gene            412..708
+                     /gene="NADH4L"
+     CDS             412..708
+                     /gene="NADH4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="ACB73144.1"
+                     /translation="MPIIYMNITLAFTISLLGMLVYRSHLMSSLLCLEGMMLSLFIMT
+                     TLMALNMHFPLANILPIALLVFAACEAAVGLALLVSISNMYGLDHIHNLSLLQC"
+     gene            702..2079
+                     /gene="NADH4"
+     CDS             702..2079
+                     /gene="NADH4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:2079,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACB73145.1"
+                     /translation="MLKMIFPTIMLLPTTWFSKNNMVWINLTVHSLIISLIPLLFFNQ
+                     TNNNLINYSTLLSSDPLTTPLLMLTAWLLPLMIMASQYHLHNESPSRKKLYLSMMVFL
+                     QISLIMTFMATELILFYILFETTLIPTLIIITRWGNQAERLNAGTYFLFYTLAGSLPL
+                     LIMLMYIYNSLGSLNIILLTITAQKLTTTWSHSLTWLACMMAFMVKMPLYGLHLWLPK
+                     AHVEAPIAGSMVLAAVLLKLGGYGLLRLTLILDPLTEYMAYPFLMLSLWGMVMTSSIC
+                     LRQTDLKSLIAYSSVSHMALVIVASLIQTPWSFTGAIVLMIAHGLTSSMLFCLANSNY
+                     ERTHSRIMMLTRGLQTLLPLMAFWWLMANLTNLALPPTINLVGELLVVTTSFSWSHIT
+                     IMLMGLNMLITALYSLHMFIMTQRGVFTHHIINMKPSFTRENMLMFMHLSPIILLSLN
+                     PNIIMGFTP"
+     tRNA            2080..2148
+                     /product="tRNA-His"
+     tRNA            2149..2207
+                     /product="tRNA-Ser"
+     tRNA            2208..2278
+                     /product="tRNA-Leu"
+     gene            2285..4090
+                     /gene="NADH5"
+     CDS             2285..4090
+                     /gene="NADH5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="ACB73146.1"
+                     /translation="MHTSIVMLTLTSLTFPVIMAFISPNKKYLYPNYVKTTMMLAFIL
+                     SLLPTILYIFMDQDMIISNWHWTTIQSLELTLSFKLDYFSMLFMPIALFITWCIMEFS
+                     LWYMSSDPNINQFFKYLLIFLTTMLILITANNLFQLFIGWEGVGIMSFLLIGWWHART
+                     DANTAAIQAVLYNRIGDIGFVLAMAWFLLHYNSWDLQQMLMLDPNPSVLPLMGLLLAA
+                     TGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLLIRFHPLMENNMLIQNLTL
+                     CLGAITTLFMAICALTQNDIKKIVAFSTSSQLGLMVVTIGINQPHLAFLHICTHAFFK
+                     AMLFICSGSIIHNLNNEQDIRKMGGLFKTMPLTSTSLTVGSLALTGMPFLTGFYSKDL
+                     IIETANTSYTNAWALSATLIATSLTSAYSTRTIILTLTGQPRFPASIIINENNSALLN
+                     PLKRLTLGSIIAGFLITNNISPTMTPQTTMPHHLKYLALCVTILGFLMALDLTLMTNN
+                     LKMNKPSHVFNFSNMLGYFPTTMHRMIPYQNLIMSQNVASLLLDSIWLEKSMPKMIMQ
+                     THITTSINTTTQKGMIKLYFLSFLIPLILIPLLMT"
+ORIGIN      
+        1 ataaacctag cattaactct aataattaat acccttctaa ccacagcatt aataattatt
+       61 atgttttgat tacctcaact caattcctac acagaaaaag ctaatcccta tgaatgcggc
+      121 tttgatccac taaatcccgc tcgtattcct ttctccataa aatttttctt agttgccatt
+      181 acctttctac tatttgactt agaaattgcc ctactactac ccctgccatg agctctccaa
+      241 acaacaaatc ttcccataat aatcaagtca tcaattatat taattattat tctaacccta
+      301 agcctagcct acgaatgaac tcaaaaggga ttagaatgaa ctgaattggt aagtagttta
+      361 aataaaataa atgatttcga ctcattagat tatgataatc atactaacca aatgcccatt
+      421 atttatataa atatcaccct agcattcacc atttcactcc taggcatatt agtatatcgc
+      481 tcacacctaa tatcatcatt actgtgtcta gaaggaataa tactctcact gtttatcata
+      541 accaccctta tagccttaaa tatgcacttc cccttagcta atatcctacc tattgccctg
+      601 ctagtatttg ccgcctgcga agcagcagta ggcctcgcct tactagtctc aatctcgaat
+      661 atatatggcc tagaccacat tcataattta agcttactcc aatgctaaaa ataatttttc
+      721 caacaattat actactacca acaacatgat tttccaaaaa taatatagtc tgaattaatt
+      781 taactgtgca cagcttaatc attagtctta ttccccttct attcttcaat caaaccaaca
+      841 acaatctcat caattactca accctcctat cttctgaccc attaacaacg cccctcctaa
+      901 tattaaccgc ctgacttcta cccctcataa tcatagcaag tcaatatcat cttcacaacg
+      961 aaagcccctc acgaaaaaaa ctctatctct ccataatagt gtttttacag atctccctaa
+     1021 ttataacatt tatagccaca gaactaattt tattttatat tctatttgaa accactctta
+     1081 ttcccactct aattattatt acccgatggg gtaatcaagc agaacgcctc aacgcaggta
+     1141 catactttct attttataca ttagccggct ctctccctct actaattata ttaatgtata
+     1201 tctataacag cctgggctca ctaaatatta ttctcctaac aattacagct caaaaactaa
+     1261 caaccacctg atcacacagc ctaacttggc tagcttgcat aatagccttc atggtaaaaa
+     1321 tacccttata cggcctacac ctatgattac ccaaagccca tgttgaagcc cctatcgccg
+     1381 gatcaatggt tctcgctgca gtactcctaa aactaggggg ctatggtttg ctacgactta
+     1441 ccctaatcct tgaccctctt acggaatata tagcctaccc ctttctcata ttatccctat
+     1501 ggggcatagt cataacaagc tcaatctgcc ttcgacaaac agacctaaaa tcactcattg
+     1561 catattcctc cgtaagccac atggccctag taattgtagc atccctcatt caaacccctt
+     1621 gaagctttac tggcgcaatt gtccttataa tcgcccatgg actcacttca tctatattat
+     1681 tctgcctagc aaactcaaat tacgaacgaa cccacagccg cattataata ttaacccgag
+     1741 gacttcaaac tctacttcca ctaatagcct tttgatgact tatggcaaac ctcaccaacc
+     1801 tggctctacc tccaactatc aacttagtag gagaactact ggtagtaaca acttcatttt
+     1861 cttgatcaca tattactatt atactcatag gattaaacat attaatcact gccctctatt
+     1921 cactacatat atttattata acccaacgag gagtatttac acaccacatc attaatataa
+     1981 aaccctcctt cacacgagaa aatatattaa tatttataca cctctccccc attatcctac
+     2041 tatcccttaa ccctaatatc attataggct ttactccttg taaatatagt ttaaataaaa
+     2101 cattagattg tgaatctaat tatagaaaat tatcacttct tatttaccga gaaagcttgc
+     2161 aaggactgct aacccatgct tccgtacata acaaaacggc tctctcaact tttaaaggat
+     2221 aacagctatc cattggtctt aggaaccaaa aatattggtg caactccaaa taaaagtaac
+     2281 aactatgcat acctccatcg ttatattaac cttaacttct ttaaccttcc cagttattat
+     2341 agcctttatt agtcctaata aaaaatatct ttatcccaat tatgtaaaaa caactataat
+     2401 acttgccttt attctcagcc tccttcccac aatcctatat atttttatag atcaagacat
+     2461 aattatctca aactgacatt gaacaaccat tcaatcatta gaactaacac taagcttcaa
+     2521 actagattat ttttccatat tatttatacc aattgcacta tttatcactt gatgtatcat
+     2581 ggagttttca ctatgatata taagctcaga cccaaatatt aatcaattct ttaaatatct
+     2641 ccttattttc cttaccacta tactaatttt aattaccgct aacaatctct ttcaactatt
+     2701 catcggatgg gaaggcgtag gcatcatatc tttcctacta atcggctgat gacatgctcg
+     2761 aacagatgcc aacacagcag ccattcaggc agttctatat aaccgcattg gcgatatcgg
+     2821 ctttgtccta gctatggcat ggttcctcct gcactacaac tcatgggacc ttcaacaaat
+     2881 acttatgcta gatcccaatc caagcgtact accactaata ggcctcctcc tagcagcaac
+     2941 gggtaaatca gctcaacttg gtctacaccc ttgactacct tccgctatag aaggcccaac
+     3001 tccagtatca gctctactcc actccagcac catagtagta gccggagtat ttctgctcat
+     3061 ccgtttccat cccctgatag aaaacaatat gttaattcaa aatctgacat tatgtctagg
+     3121 ggctattact actctattta tagcaatctg tgccctaaca caaaatgaca tcaaaaaaat
+     3181 tgtagccttc tccacctcaa gccaactggg cttaatagta gttactatcg gtatcaacca
+     3241 gccacaccta gcatttttac atatctgcac ccacgccttt ttcaaggcta tattatttat
+     3301 ttgctctggg tctattattc acaacttaaa taatgaacaa gatattcgaa aaataggggg
+     3361 tttatttaaa acaatgcctc ttacctcaac ttccctaact gtaggcagcc tagcacttac
+     3421 aggtatacca ttccttacag gtttctattc caaagatctc atcatcgaaa ccgcaaacac
+     3481 gtcatatacc aacgcctgag ccctatccgc caccctaatc gccacttctc taacaagcgc
+     3541 ttacagcact cgaactatta ttcttacatt aacaggacaa ccccgctttc cagcctcaat
+     3601 tattattaat gaaaacaact cagccctgct aaatccacta aaacgtctaa cacttggcag
+     3661 tattatcgca ggcttcctta ttaccaacaa tatttctccc actataacgc ctcaaacaac
+     3721 aatacctcat catctaaaat atttagccct atgcgtaact atcctaggct tcctaatagc
+     3781 cctagaccta actctcataa cgaataatct caaaataaat aaaccctcac acgtatttaa
+     3841 cttttctaat atgctaggat attttcccac tacaatacac cgaataattc cctatcaaaa
+     3901 cctaatcata agccaaaatg tagcctccct cctattagac tcaatctgat tggaaaaatc
+     3961 aatacccaaa ataattatgc aaacccacat tactacctct attaacacaa ccacccaaaa
+     4021 aggtataatt aaactttatt ttctctcttt ccttattcct cttattctaa ttccactcct
+     4081 aatgacataa
+//
+LOCUS       FJ881924                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1F_F02 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881924
+VERSION     FJ881924.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1F_F02"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76634.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881923                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2R_H05 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881923
+VERSION     FJ881923.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2R_H05"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76633.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881916                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1F_G02 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881916
+VERSION     FJ881916.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1F_G02"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76626.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881910                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1F_E02 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881910
+VERSION     FJ881910.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1F_E02"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76620.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881909                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1R_E05 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881909
+VERSION     FJ881909.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1R_E05"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76619.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881908                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1R_F05 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881908
+VERSION     FJ881908.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1R_F05"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76618.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881907                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-1R_G05 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881907
+VERSION     FJ881907.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-1R_G05"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76617.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881906                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2F_A03 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881906
+VERSION     FJ881906.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2F_A03"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76616.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881905                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2F_B03 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881905
+VERSION     FJ881905.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2F_B03"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76615.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881904                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2F_H02 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881904
+VERSION     FJ881904.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2F_H02"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76614.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881903                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2R_A06 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881903
+VERSION     FJ881903.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2R_A06"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76613.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//
+LOCUS       FJ881902                 203 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Piliocolobus tephrosceles isolate Pt-2R_B06 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   FJ881902
+VERSION     FJ881902.1
+KEYWORDS    .
+SOURCE      mitochondrion Piliocolobus tephrosceles (Ugandan red Colobus)
+  ORGANISM  Piliocolobus tephrosceles
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Colobinae; Piliocolobus.
+REFERENCE   1  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Endangered species in small habitat patches can possess high
+            genetic diversity: the case of the Tana River red colobus and
+            mangabey
+  JOURNAL   Conserv. Genet. 11 (5), 1725-1735 (2010)
+REFERENCE   2  (bases 1 to 203)
+  AUTHORS   Mbora,D.N.M. and McPeek,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2009) Department of Biological Sciences,
+            Dartmouth College, 103 Gilman Science Laboratories, Hanover, NH
+            03755, USA
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Piliocolobus tephrosceles"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pt-2R_B06"
+                     /db_xref="taxon:591936"
+     gene            <1..>203
+                     /gene="ND4"
+     CDS             <1..>203
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACQ76612.1"
+                     /translation="LPLMVMASQYHLHNESPSRKKLYLSMMVLLQISLIMTFMATELI
+                     LFYILFETTLIPTLIIITRWGNQ"
+ORIGIN      
+        1 tctacccctc atagtaatag caagccaata tcaccttcac aacgaaagcc cttcacgaaa
+       61 aaaactctat ctatctataa tagtactcct acaaatttcc ttaatcataa cattcatagc
+      121 cacagaacta attttattct atattctgtt tgaaactact cttatcccca ccctaattat
+      181 tatcactcgg tgaggcaatc aag
+//

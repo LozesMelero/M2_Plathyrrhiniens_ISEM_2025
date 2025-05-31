@@ -1,0 +1,97 @@
+LOCUS       OR077151                 635 bp    DNA     linear   PRI 12-SEP-2023
+DEFINITION  Sapajus sp. isolate RIO13 cytochrome c oxidase subunit II (COX2)
+            gene, partial cds; and tRNA-Lys gene, partial sequence;
+            mitochondrial.
+ACCESSION   OR077151
+VERSION     OR077151.1
+KEYWORDS    .
+SOURCE      mitochondrion Sapajus sp
+  ORGANISM  Sapajus sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Sapajus.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Szynwelski,B.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2023) Department of Genetics, Federal University
+            of Rio Grande do Sul, Avenida Bento Goncalves, Porto Alegre, RS
+            91509-900, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /organism="Sapajus sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RIO13"
+                     /db_xref="taxon:1874197"
+     gene            <1..598
+                     /gene="COX2"
+     CDS             <1..598
+                     /gene="COX2"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA; COXII"
+                     /codon_start=1
+                     /transl_except=(pos:598,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="WKA13794.1"
+                     /translation="IFLISSLVLYIISLMLTTKLTHTSTMNAQEIEMIWTILPAIILIM
+                     IALPSLRILYMTDEFNKPYLTLKAIGHQWYWSYEYSDYEDLFFDSYIMPTYYLQPGEFR
+                     LLEVDNRTTLPMEADIRMLISSQDVLHSWAVPSLGVKADAIPGRLNQAMLASMRPGLFY
+                     GQCSEICGSNHSFMPIVLEFIYFQDFEVWASYLYIV"
+     tRNA            599..>635
+                     /product="tRNA-Lys"
+ORIGIN
+        1 attttcctaa ttagttcatt agtcctatac attatctctt taatgcttac tacaaaacta
+       61 acccacacca gcactataaa tgcccaagaa atcgaaataa tctgaactat tctacccgca
+      121 attattctta ttataattgc ccttccatcc ctgcgcattt tatatataac agatgaattc
+      181 aataaaccct acttaaccct aaaagcaatt ggccaccaat gatattgaag ctatgaatac
+      241 tcggactatg aagacctatt ctttgactct tacattatac caacctacta tctccaacca
+      301 ggcgaattcc gacttcttga agtagataat cgaacaacct taccaataga agcagacatc
+      361 cgtatactaa tctcatcaca agatgtacta cactcatgag ccgtcccatc attaggcgtt
+      421 aaagcagatg caatcccagg ccgattaaac caagccatac tagcctcaat acgaccaggg
+      481 ttattttacg gacaatgctc ggaaatttgc gggtcaaacc atagctttat acccattgtt
+      541 ctagagttta tctacttcca agattttgaa gtatgggctt catacttata cattgtatca
+      601 ctgtaaagct acttggcatt aaccttttaa gttaa
+//
+LOCUS       OR063820                 576 bp    DNA     linear   PRI 12-SEP-2023
+DEFINITION  Sapajus sp. isolate RIO13 D-loop, partial sequence; mitochondrial.
+ACCESSION   OR063820
+VERSION     OR063820.1
+KEYWORDS    .
+SOURCE      mitochondrion Sapajus sp
+  ORGANISM  Sapajus sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Sapajus.
+REFERENCE   1  (bases 1 to 576)
+  AUTHORS   Szynwelski,B.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2023) Department of Genetics, Federal University
+            of Rio Grande do Sul, Avenida Bento Goncalves, Porto Alegre, RS
+            91509-900, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Sapajus sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RIO13"
+                     /db_xref="taxon:1874197"
+     D-loop          <1..>576
+ORIGIN
+        1 cttaactata catagcacat aaaaccaaga cgtgcatatt atatcagcaa gcatgcttac
+       61 aagcaggaac tgtgatccca cattggacta tagcacatta aacccgcact tcacatacca
+      121 aatatggcca ccatggatat tgcccagtac atagaaccat taatagtaca tttgtacatc
+      181 agatgattga ttggacatag cgcattctat ttcttcagtc cttctaacca tggatatccc
+      241 ctcgtgtatt tggtctctta atctaccaac ctccgtgaaa ccaccaaccc gcccacatct
+      301 gcggctcttc tcgctccggg cccatataga cagggcttgg ttatactgaa actatatctg
+      361 gcatttggtt cctacctcag ggccatctca ccagggtcgt gtccacgttc ctcttaaata
+      421 agacatcacg atggtgtggc gctatcaccc tcttaaccgc gccccttgga aggaaaaggc
+      481 gaaaggagaa ggacgaatat ccagctctgg tgatactgta gttcatccct actaataaag
+      541 taagtaaaat tctgcgacta ttctctctga gcctac
+//

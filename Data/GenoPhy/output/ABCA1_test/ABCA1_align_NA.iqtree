@@ -1,0 +1,312 @@
+IQ-TREE 2.1.4-beta COVID-edition built Jun 24 2021
+
+Input file name: ABCA1_align_NA
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 824026
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 75 sequences with 1722 nucleotide sites
+Number of constant sites: 1311 (= 76.1324% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1311 (= 76.1324% of all sites)
+Number of parsimony informative sites: 254
+Number of distinct site patterns: 545
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: HKY+F+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+HKY+F+G4          -6163.967   12627.933 -  0.00477   12656.769 -  0.00788   13445.620 +    0.385
+TN+F+G4           -6160.519   12623.038 +   0.0552   12652.276 +   0.0744   13446.175 +    0.291
+HKY+F+R2          -6161.557   12625.114 -   0.0195   12654.352 -   0.0264   13448.252 +    0.103
+TN+F+R2           -6158.064   12620.127 +    0.237   12649.772 +     0.26   13448.716 +   0.0818
+TPM3+F+G4         -6163.270   12628.541 -  0.00352   12657.779 -  0.00475   13451.678 -   0.0186
+TPM3u+F+G4        -6163.271   12628.541 -  0.00352   12657.780 -  0.00475   13451.679 -   0.0186
+K3Pu+F+G4         -6163.302   12628.604 -  0.00341   12657.843 -   0.0046   13451.742 -    0.018
+TIM3+F+G4         -6159.820   12623.640 -   0.0408   12653.284 -    0.045   13452.228 -   0.0141
+TIM+F+G4          -6159.844   12623.687 -   0.0399   12653.331 -   0.0439   13452.276 -   0.0138
+TPM2+F+G4         -6163.953   12629.906 -  0.00178   12659.144 -   0.0024   13453.044 -  0.00939
+TPM2u+F+G4        -6163.953   12629.906 -  0.00178   12659.144 -   0.0024   13453.044 -  0.00939
+TIM2+F+G4         -6160.493   12624.986 -   0.0208   12654.630 -   0.0229   13453.575 -   0.0072
+TPM3+F+R2         -6160.836   12625.672 -   0.0148   12655.316 -   0.0163   13454.261 -  0.00511
+TPM3u+F+R2        -6160.836   12625.673 -   0.0148   12655.317 -   0.0163   13454.261 -  0.00511
+K3Pu+F+R2         -6160.902   12625.804 -   0.0138   12655.448 -   0.0152   13454.392 -  0.00479
+TIM3+F+R2         -6157.331   12620.662 +    0.181   12650.716 +    0.162   13454.702 -   0.0041
+TIM+F+R2          -6157.390   12620.781 +    0.171   12650.834 +    0.153   13454.821 -  0.00386
+TPM2u+F+R2        -6161.542   12627.084 -   0.0073   12656.728 -  0.00804   13455.672 -  0.00252
+TPM2+F+R2         -6161.542   12627.084 -   0.0073   12656.728 -  0.00804   13455.672 -  0.00252
+TIM2+F+R2         -6158.028   12622.057 +   0.0901   12652.110 +   0.0809   13456.097 -  0.00204
+TVM+F+G4          -6162.768   12631.537 - 0.000788   12661.590 - 0.000707   13465.577 - 1.78e-05
+GTR+F+G4          -6159.322   12626.645 -  0.00909   12657.110 -  0.00664   13466.136 - 1.35e-05
+TVM+F+R2          -6160.337   12628.675 -  0.00329   12659.141 -  0.00241   13468.166 - 4.89e-06
+GTR+F+R2          -6156.800   12623.599 -   0.0417   12654.481 -   0.0247   13468.542 - 4.05e-06
+GTR+F+I+G4        -6161.723   12633.446 - 0.000303   12664.327 -  0.00018   13478.388 - 2.95e-08
+GTR+F+R3          -6155.925   12625.850 -   0.0135   12657.571 -  0.00527   13481.695 - 5.64e-09
+GTR+F+I           -6173.145   12654.290 - 9.02e-09   12684.756 - 6.59e-09   13493.782 - 1.34e-11
+K2P+G4            -6204.978   12703.957 - 1.48e-19   12731.601 - 4.43e-19   13505.289 - 4.25e-14
+K2P+R2            -6202.228   12700.456 - 8.53e-19   12728.494 -  2.1e-18   13507.239 -  1.6e-14
+K3P+G4            -6204.191   12704.383 -  1.2e-19   12732.421 - 2.94e-19   13511.167 - 2.25e-15
+TNe+G4            -6204.909   12705.818 - 5.84e-20   12733.856 - 1.44e-19   13512.602 -  1.1e-15
+K3P+R2            -6201.549   12701.098 - 6.18e-19   12729.534 - 1.25e-18   13513.333 - 7.61e-16
+TNe+R2            -6202.174   12702.348 - 3.31e-19   12730.783 - 6.67e-19   13514.583 - 4.07e-16
+TIM2e+G4          -6203.390   12704.781 - 9.81e-20   12733.216 - 1.98e-19   13517.016 - 1.21e-16
+TIM3e+G4          -6203.830   12705.660 - 6.32e-20   12734.096 - 1.27e-19   13517.895 - 7.77e-17
+TIMe+G4           -6204.121   12706.243 - 4.72e-20   12734.678 - 9.52e-20   13518.478 - 5.81e-17
+TIM2e+R2          -6200.496   12700.993 - 6.52e-19   12729.828 - 1.08e-18   13518.679 - 5.25e-17
+TIM3e+R2          -6201.061   12702.121 - 3.71e-19   12730.957 - 6.12e-19   13519.808 - 2.99e-17
+TIMe+R2           -6201.402   12702.805 - 2.63e-19   12731.640 - 4.35e-19   13520.491 - 2.12e-17
+TVMe+G4           -6201.895   12703.789 - 1.61e-19   12732.624 - 2.66e-19   13521.475 -  1.3e-17
+TVMe+R2           -6199.068   12700.136 -    1e-18   12729.374 - 1.35e-18   13523.273 - 5.28e-18
+SYM+G4            -6201.822   12705.645 - 6.37e-20   12734.883 - 8.59e-20   13528.782 - 3.36e-19
+SYM+R2            -6198.914   12701.828 - 4.29e-19   12731.472 - 4.73e-19   13530.417 - 1.48e-19
+GTR+F             -6217.899   12741.799 - 8.98e-28   12771.852 - 8.06e-28   13575.838 - 2.03e-29
+F81+F+G4          -6312.874   12923.748 - 2.78e-67   12952.183 -  5.6e-67   13735.983 - 3.41e-64
+F81+F+R2          -6310.692   12921.383 - 9.05e-67   12950.219 - 1.49e-66   13739.070 -  7.3e-65
+JC+G4             -6356.935   13005.870 - 4.08e-85   13033.123 - 1.49e-84   13801.751 - 1.79e-78
+JC+R2             -6354.584   13003.169 - 1.58e-84   13030.813 - 4.72e-84   13804.501 - 4.52e-79
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: HKY+F+G4
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 4.1313
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 4.1313
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3265
+  pi(C) = 0.2267
+  pi(G) = 0.232
+  pi(T) = 0.2148
+
+Rate matrix Q:
+
+  A   -0.9201     0.149      0.63    0.1412
+  C    0.2146   -0.9503    0.1525    0.5832
+  G    0.8868     0.149    -1.177    0.1412
+  T    0.2146    0.6156    0.1525   -0.9828
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.8522
+
+ Category  Relative_rate  Proportion
+  1         0.1066         0.25
+  2         0.4273         0.25
+  3         0.9704         0.25
+  4         2.496          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -6160.0124 (s.e. 184.7097)
+Unconstrained log-likelihood (without tree): -8853.8663
+Number of free parameters (#branches + #model parameters): 150
+Akaike information criterion (AIC) score: 12620.0247
+Corrected Akaike information criterion (AICc) score: 12648.8599
+Bayesian information criterion (BIC) score: 13437.7110
+
+Total tree length (sum of branch lengths): 0.9077
+Sum of internal branch lengths: 0.3895 (42.9143% of tree length)
+
+WARNING: 15 near-zero internal branches (<0.0006) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Alouatta_belzebul' is drawn at root
+
++--Alouatta_belzebul
+|
+|  +--Alouatta_caraya
++--|
+|  +--Alouatta_sara
+|
+|  +----------------------------------------------------------Alouatta_palliata
++**|
+   |                              +**Aotus_azarai
+   |                           +--|
+   |                           |  |  +**Aotus_azarai_boliviensis
+   |                           |  +**|
+   |                           |     +**Aotus_azarai_infulatus
+   |                        +--|
+   |                        |  +--Aotus_trivirgatus
+   |          +-------------|
+   |          |             |        +--Aotus_griseimembra
+   |          |             |     +--|
+   |          |             |     |  +--Aotus_vociferans
+   |          |             |  +--|
+   |          |             |  |  +--Aotus_lemurinus
+   |          |             +--|
+   |          |                +--Aotus_nigriceps
+   |       +--|
+   |       |  |        +-----Callimico_goeldii
+   |       |  |     +--|
+   |       |  |     |  |      +--Callithrix_geoffroyi
+   |       |  |     |  |   +**|
+   |       |  |     |  |   |  +--Cebuella_pygmaea
+   |       |  |     |  +---|
+   |       |  |     |      |  +**Mico_argentatus_argentatus
+   |       |  |     |      +--|
+   |       |  |     |         +--Mico_humeralifer
+   |       |  |  +--|
+   |       |  |  |  |          +**Leontocebus_fuscicollis
+   |       |  |  |  |       +--|
+   |       |  |  |  |       |  |  +--Leontocebus_fuscicollis_weddelli
+   |       |  |  |  |       |  +**|
+   |       |  |  |  |       |     +--Leontocebus_fuscus
+   |       |  |  |  |  +----|
+   |       |  |  |  |  |    |                 +--Saguinus_bicolor
+   |       |  |  |  |  |    |              +**|
+   |       |  |  |  |  |    |              |  +---Saguinus_midas
+   |       |  |  |  |  |    |           +**|
+   |       |  |  |  |  |    |           |  +**Saguinus_sp__SBBXSMA711
+   |       |  |  |  |  |    |        +--|
+   |       |  |  |  |  |    |        |  +--Saguinus_martinsi
+   |       |  |  |  |  |    |     +--|
+   |       |  |  |  |  |    |     |  |        +--Saguinus_geoffroyi
+   |       |  |  |  |  |    |     |  |     +--|
+   |       |  |  |  |  |    |     |  |     |  +--Saguinus_oedipus
+   |       |  |  |  |  |    |     |  |  +--|
+   |       |  |  |  |  |    |     |  |  |  +**Saguinus_midas_midas
+   |       |  |  |  |  |    |     |  +--|
+   |       |  |  |  |  |    |     |     |  +**Saguinus_niger
+   |       |  |  |  |  |    |     |     +**|
+   |       |  |  |  |  |    |     |        +**Saguinus_sp__SMIXSBB
+   |       |  |  |  |  |    |  +--|
+   |       |  |  |  |  |    |  |  +**Saguinus_leucopus
+   |       |  |  |  |  |    +--|
+   |       |  |  |  |  |       |     +--Saguinus_imperator
+   |       |  |  |  |  |       |  +--|
+   |       |  |  |  |  |       |  |  +--Saguinus_inustus
+   |       |  |  |  |  |       +--|
+   |       |  |  |  |  |          |     +**Saguinus_labiatus
+   |       |  |  |  |  |          |  +--|
+   |       |  |  |  |  |          |  |  +**Saguinus_labiatus_rufiventer
+   |       |  |  |  |  |          +--|
+   |       |  |  |  |  |             +--Saguinus_mystax
+   |       |  |  |  +--|
+   |       |  |  |     |      +**Leontopithecus_chrysomelas
+   |       |  |  |     +------|
+   |       |  |  |            +**Leontopithecus_rosalia
+   |       |  +--|
+   |       |     |         +--Cebus_albifrons
+   |       |     |      +--|
+   |       |     |      |  |  +**Cebus_capucinus
+   |       |     |      |  +**|
+   |       |     |      |     +--Cebus_olivaceus
+   |       |     |  +---|
+   |       |     |  |   |  +--Sapajus_nigritus_robustus
+   |       |     |  |   +--|
+   |       |     |  |      +**Sapajus_xanthosternos
+   |       |     +**|
+   |       |        |          +**Saimiri_oerstedii_oerstedii
+   |       |        +----------|
+   |       |                   +**Saimiri_sciureus
+   |    +--|
+   |    |  |        +**Cacajao_calvus
+   |    |  |     +--|
+   |    |  |     |  |  +--Cacajao_melanocephalus
+   |    |  |     |  +--|
+   |    |  |     |     |     +--Chiropotes_chiropotes
+   |    |  |     |     +-----|
+   |    |  |     |           +--Chiropotes_israelita
+   |    |  |  +--|
+   |    |  |  |  |  +--Pithecia_irrorata
+   |    |  |  |  +--|
+   |    |  |  |     +--Pithecia_pithecia
+   |    |  +--|
+   |    |     |                 +**Callicebus_coimbrai
+   |    |     |              +--|
+   |    |     |              |  +--Callicebus_personatus
+   |    |     |           +--|
+   |    |     |           |  +--Callicebus_nigrifrons
+   |    |     |        +--|
+   |    |     |        |  |           +--Plecturocebus_bernhardi
+   |    |     |        |  |        +**|
+   |    |     |        |  |        |  +--Plecturocebus_brunneus
+   |    |     |        |  |     +**|
+   |    |     |        |  |     |  +**Plecturocebus_cupreus
+   |    |     |        |  |  +**|
+   |    |     |        |  |  |  |  +**Plecturocebus_hoffmannsi
+   |    |     |        |  |  |  +--|
+   |    |     |        |  |  |     +--Plecturocebus_moloch
+   |    |     |        |  +--|
+   |    |     |        |     +--Plecturocebus_miltoni
+   |    |     |     +--|
+   |    |     |     |  |     +**Plecturocebus_caligatus
+   |    |     |     |  |  +**|
+   |    |     |     |  |  |  +**Plecturocebus_donacophilus
+   |    |     |     |  +--|
+   |    |     |     |     +--Plecturocebus_cinerascens
+   |    |     +-----|
+   |    |           |     +--Cheracebus_lugens
+   |    |           |  +--|
+   |    |           |  |  +--Cheracebus_purinus
+   |    |           +--|
+   |    |              +----------Xenothrix_mcgregori
+   +----|
+        |     +--Ateles_belzebuth
+        |  +--|
+        |  |  |        +**Ateles_chamek
+        |  |  |     +--|
+        |  |  |     |  +--Ateles_paniscus
+        |  |  |  +**|
+        |  |  |  |  +**Ateles_fusciceps
+        |  |  +**|
+        |  |     +**Ateles_hybridus
+        +--|
+           |     +--Brachyteles_arachnoides
+           |  +--|
+           |  |  +---Brachyteles_hypoxanthus
+           +--|
+              |   +**Lagothrix_cana
+              +---|
+                  +**Lagothrix_lagotricha
+
+Tree in newick format:
+
+(Alouatta_belzebul:0.0086115209,(Alouatta_caraya:0.0027093180,Alouatta_sara:0.0025447298):0.0056391069,(Alouatta_palliata:0.2034514043,((((((Aotus_azarai:0.0000010000,(Aotus_azarai_boliviensis:0.0000010000,Aotus_azarai_infulatus:0.0000010000):0.0000010000):0.0075566390,Aotus_trivirgatus:0.0066846270):0.0008741862,(((Aotus_griseimembra:0.0017879882,Aotus_vociferans:0.0035813903):0.0011963885,Aotus_lemurinus:0.0010071756):0.0023050088,Aotus_nigriceps:0.0027630327):0.0008860281):0.0479622320,(((Callimico_goeldii:0.0209015043,((Callithrix_geoffroyi:0.0051584541,Cebuella_pygmaea:0.0077487310):0.0000010000,(Mico_argentatus_argentatus:0.0000010000,Mico_humeralifer:0.0089212949):0.0025601301):0.0162514186):0.0065959675,(((Leontocebus_fuscicollis:0.0000020182,(Leontocebus_fuscicollis_weddelli:0.0024119660,Leontocebus_fuscus:0.0048192062):0.0000010000):0.0026023221,((((((Saguinus_bicolor:0.0010924272,Saguinus_midas:0.0161819038):0.0000020689,Saguinus_sp__SBBXSMA711:0.0000010000):0.0000022364,Saguinus_martinsi:0.0113770654):0.0012972173,(((Saguinus_geoffroyi:0.0042001911,Saguinus_oedipus:0.0033697299):0.0012947877,Saguinus_midas_midas:0.0000027818):0.0127220979,(Saguinus_niger:0.0000010000,Saguinus_sp__SMIXSBB:0.0000010000):0.0000010000):0.0021039553):0.0012988399,Saguinus_leucopus:0.0000010000):0.0039484886,((Saguinus_imperator:0.0026045359,Saguinus_inustus:0.0024276950):0.0026140381,((Saguinus_labiatus:0.0000024411,Saguinus_labiatus_rufiventer:0.0000010000):0.0029872077,Saguinus_mystax:0.0012720516):0.0029925414):0.0014528634):0.0067333555):0.0188177130,(Leontopithecus_chrysomelas:0.0000010000,Leontopithecus_rosalia:0.0000010000):0.0258649115):0.0067067544):0.0098158033,(((Cebus_albifrons:0.0013228035,(Cebus_capucinus:0.0000010000,Cebus_olivaceus:0.0012631667):0.0000010000):0.0038001666,(Sapajus_nigritus_robustus:0.0040669681,Sapajus_xanthosternos:0.0000010000):0.0052655919):0.0149526337,(Saimiri_oerstedii_oerstedii:0.0000010000,Saimiri_sciureus:0.0000010000):0.0376698300):0.0002631298):0.0040717273):0.0075516644,(((Cacajao_calvus:0.0000010000,(Cacajao_melanocephalus:0.0030555415,(Chiropotes_chiropotes:0.0013737126,Chiropotes_israelita:0.0037171921):0.0231010201):0.0060696268):0.0103487242,(Pithecia_irrorata:0.0012995385,Pithecia_pithecia:0.0025826184):0.0065071699):0.0070519418,(((((Callicebus_coimbrai:0.0000010000,Callicebus_personatus:0.0043309725):0.0035677143,Callicebus_nigrifrons:0.0045898617):0.0076243651,((((Plecturocebus_bernhardi:0.0013242360,Plecturocebus_brunneus:0.0013217671):0.0000010000,Plecturocebus_cupreus:0.0000010000):0.0000010000,(Plecturocebus_hoffmannsi:0.0000010000,Plecturocebus_moloch:0.0013157204):0.0026153051):0.0000010000,Plecturocebus_miltoni:0.0053208267):0.0060632538):0.0063240499,((Plecturocebus_caligatus:0.0000010000,Plecturocebus_donacophilus:0.0000010000):0.0000027092,Plecturocebus_cinerascens:0.0026319969):0.0035030546):0.0018277015,((Cheracebus_lugens:0.0023632960,Cheracebus_purinus:0.0029080185):0.0073355823,Xenothrix_mcgregori:0.0380205133):0.0096293868):0.0220085061):0.0104846723):0.0055533983,((Ateles_belzebuth:0.0012745927,(((Ateles_chamek:0.0000021899,Ateles_paniscus:0.0012736105):0.0089318828,Ateles_fusciceps:0.0000020855):0.0000025813,Ateles_hybridus:0.0000010000):0.0000023007):0.0090024435,((Brachyteles_arachnoides:0.0039868570,Brachyteles_hypoxanthus:0.0148627109):0.0074950315,(Lagothrix_cana:0.0000010000,Lagothrix_lagotricha:0.0000010000):0.0142269954):0.0011495444):0.0092616880):0.0194937655):0.0000027016);
+
+TIME STAMP
+----------
+
+Date and time: Mon Feb 10 16:46:37 2025
+Total CPU time used: 21.5865 seconds (0h:0m:21s)
+Total wall-clock time used: 21.4533 seconds (0h:0m:21s)
+

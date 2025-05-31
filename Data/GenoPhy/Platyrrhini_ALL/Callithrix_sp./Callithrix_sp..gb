@@ -1,0 +1,2208 @@
+LOCUS       OR145965                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90326 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145965
+VERSION     OR145965.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90326"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23713.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggc
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145964                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90319 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145964
+VERSION     OR145964.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90319"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23712.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145963                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90308 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145963
+VERSION     OR145963.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90308"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23711.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145962                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90292 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145962
+VERSION     OR145962.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90292"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23710.1"
+                     /translation="MTSPRKTHPLAKIINESFADLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc atttgccgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145961                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90291 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145961
+VERSION     OR145961.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90291"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23709.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145960                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90290 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145960
+VERSION     OR145960.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90290"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23708.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145959                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90289 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145959
+VERSION     OR145959.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90289"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23707.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145958                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90288 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145958
+VERSION     OR145958.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90288"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23706.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145957                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90258 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145957
+VERSION     OR145957.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90258"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23705.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASTFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMTFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccacattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt cctctttctg aagacttgaa acatcggtac aatcttacta
+      361 cttgcaacta tagctacggc attcataggc tacgtgctac catgaggtca aatgtcattc
+      421 tgaggcgcca cagtaatcac aaacctcctt tcagccatcc cctacattgg gtccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcacct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agacatcctc ggactgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaagcca gaatggtact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggagga gtgctagctt tagcaatatc catcctagta
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatgacatt ccggccaatt
+      961 acccagatca tattctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145956                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90252 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145956
+VERSION     OR145956.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90252"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23704.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145955                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90251 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145955
+VERSION     OR145955.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90251"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23703.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgataa
+//
+LOCUS       OR145954                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90250 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145954
+VERSION     OR145954.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90250"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23702.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASTFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMTFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccacattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt cctctttctg aagacttgaa acatcggtac aatcttacta
+      361 cttgcaacta tagctacggc attcataggc tacgtgctac catgaggtca aatgtcattc
+      421 tgaggcgcca cagtaatcac aaacctcctt tcagccatcc cctacattgg gtccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcacct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agacatcctc ggactgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaagcca gaatggtact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggagga gtgctagctt tagcaatatc catcctagta
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatgacatt ccggccaatt
+      961 acccagatca tattctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145953                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90248 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145953
+VERSION     OR145953.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90248"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23701.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145952                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90247 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145952
+VERSION     OR145952.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90247"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23700.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttga tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccatatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccagacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145951                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90245 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145951
+VERSION     OR145951.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90245"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23699.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASTFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMTFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccacattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt cctctttctg aagacttgaa acatcggtac aatcttacta
+      361 cttgcaacta tagctacggc attcataggc tacgtgctac catgaggtca aatgtcattc
+      421 tgaggcgcca cagtaatcac aaacctcctt tcagccatcc cctacattgg gtccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcacct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agacatcctc ggactaactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaagcca gaatggtact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggagga gtgctagctt tagcaatatc catcctagta
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatgacatt ccggccaatt
+      961 acccagatca tattctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145950                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90244 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145950
+VERSION     OR145950.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90244"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23698.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145949                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90243 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145949
+VERSION     OR145949.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90243"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23697.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145948                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90241 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145948
+VERSION     OR145948.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90241"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23696.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALMENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggccga
+      301 gggttgtact atggatcgtt cctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagccacggc attcataggc tacgtgctac catgaggtca gatatcattc
+      421 tgaggcgcca cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcacct cttgtttctg
+      601 catgagacag gttcaagtaa tccatcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatagaaa acaagctact gaagtgatag
+//
+LOCUS       OR145947                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90240 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145947
+VERSION     OR145947.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90240"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23695.1"
+                     /translation="MTSPRKTHPLAKIINESFADLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc atttgccgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145946                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90238 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145946
+VERSION     OR145946.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90238"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23694.1"
+                     /translation="MTSPRKAHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDINYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaagc ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttga tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacatca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggattatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccagacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145945                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90237 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145945
+VERSION     OR145945.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90237"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23693.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgcgttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145944                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90232 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145944
+VERSION     OR145944.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90232"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23692.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145943                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90229 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145943
+VERSION     OR145943.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90229"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23691.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGWLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctggcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145942                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90228 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145942
+VERSION     OR145942.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90228"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23690.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggtgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgaaacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacgtg aattggaggt
+     1021 caaccagtag aacacccatt tattgccatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145941                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90227 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145941
+VERSION     OR145941.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90227"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23689.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgataa
+//
+LOCUS       OR145940                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90226 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145940
+VERSION     OR145940.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90226"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23688.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttga tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccagacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145939                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90223 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145939
+VERSION     OR145939.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90223"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23687.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNIGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaatattg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145938                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90222 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145938
+VERSION     OR145938.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90222"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23686.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145937                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90220 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145937
+VERSION     OR145937.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90220"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23685.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcacttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggccga
+      301 gggttgtact atggatcgtt cctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagccacggc attcataggc tacgtgctac catgaggtca gatatcattc
+      421 tgaggcgcca cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcacct cttgtttctg
+      601 catgagacag gttcaagtaa tccatcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccacccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145936                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90219 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145936
+VERSION     OR145936.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90219"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23684.1"
+                     /translation="MTSPRKTHPLAKIINESLDDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attagacgac
+       61 ctccccacac catctaacat ctcctcttga tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 gggttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggcgcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcca ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccagacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcca tccccaataa gttaggggga gtgctagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctact gaagtgatag
+//
+LOCUS       OR145935                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90216 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145935
+VERSION     OR145935.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90216"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23683.1"
+                     /translation="MTSPRKTHPLAKIINESFDDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgacgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//
+LOCUS       OR145934                1140 bp    DNA     linear   PRI 02-SEP-2023
+DEFINITION  Callithrix sp. isolate MN90111 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   OR145934
+VERSION     OR145934.1
+KEYWORDS    .
+SOURCE      mitochondrion Callithrix sp
+  ORGANISM  Callithrix sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M., Lopes,G.S., Cardim,S.S.S., Bueno,C., Weksler,M. and
+            Oliveira,J.A.
+  TITLE     Morphological and Genetic Variation Among Callithrix Hybrids in Rio
+            de Janeiro, Brazil
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Cezar,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2023) Departamento de Vertebrados, Museu Nacional
+            UFRJ, Setor de Mastozoologia Quinta da Boa Vista s/n. Sao Cristovao,
+            Rio de Janeiro, Rio de Janeiro 20940040, Brasil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Callithrix sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MN90111"
+                     /db_xref="taxon:9485"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WML23682.1"
+                     /translation="MTSPRKTHPLAKIINESFVDLPTPSNISSWWNFGSLLGTCLIIQI
+                     TTGLFLAMHYTPDTATAFSSVAHITRDVNYGWMIRYLHANGASMFFICLFLHVGRGLYY
+                     GSFLFLKTWNIGTILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDLVQW
+                     IWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHETGSSNPSGITSEPDKVPFHP
+                     YYTTKDILGLTFLLLALTSLTLFTPDLLTDPDNYTLANPLNTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALAMSILVLMIIPMTHMSKQQSMAFRPITQIMFWTLVADLLTLTWIGG
+                     QPVEHPFIAIGQTASIMYFLIIITLIPLSALIENKLLKW"
+ORIGIN
+        1 atgacctctc cccgcaaaac ccacccactg gcaaaaatca tcaatgaatc attcgtcgac
+       61 ctccccacac catctaacat ctcctcttgg tggaattttg gctcgcttct aggcacctgc
+      121 ctaattattc aaatcactac aggcctattc ctagcaatgc actacacacc agacaccgct
+      181 accgccttct cctcagttgc ccacatcacc cgagacgtca actacggctg aataatccga
+      241 tatctacatg ctaacggcgc atccatattc tttatttgcc tgttcctcca cgtcggtcga
+      301 ggcttatatt acggatcgtt tctctttctg aagacttgaa atatcggtac aatcttacta
+      361 cttgcaacca tagctacagc attcataggc tacgtgctac catgaggtca gatgtcattc
+      421 tgaggagcta cagtaatcac aaaccttctt tcagccatcc cctacattgg atccgactta
+      481 gtccaatgga tctgaggcgg attttcagta gacaaagcca ccctcacacg attctttacc
+      541 ttccacttta ttttaccttt catcatcgca gccctagcct ccattcatct cttgtttctg
+      601 catgagacag gttcaagtaa tccgtcagga attacctctg aaccggacaa agtcccattc
+      661 cacccctact atacaactaa agatatcctc ggattgactt tcctactcct agccctaaca
+      721 agcttaaccc tattcacacc cgacctatta actgacccgg ataactatac actagcaaac
+      781 cccctaaaca ccccgcccca cattaaacca gaatgatact tcttattcgc atatgcaatc
+      841 ctgcgatcta tccccaataa gttaggggga gtactagctt tagcaatatc catcctagtg
+      901 ttaataatta ttcccataac acacatatcc aaacaacaaa gcatagcatt ccgaccaatt
+      961 acccaaatca tgttctgaac cctagtagct gacctattaa ctcttacatg aattggaggt
+     1021 caaccagtag aacacccatt tattgctatt ggccaaacag cttccatcat atactttctc
+     1081 atcatcatca ccctaatccc cctctccgct ctcatcgaaa acaagctatt gaagtgatag
+//

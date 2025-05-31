@@ -1,0 +1,432 @@
+LOCUS       KM234604                 808 bp    DNA     linear   PRI 12-MAY-2017
+DEFINITION  Saimiri sp. isolate USNM_2416_Iquitos D-loop, partial sequence;
+            mitochondrial.
+ACCESSION   KM234604
+VERSION     KM234604.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 808)
+  AUTHORS   Lynch Alfaro,J.W., Boubli,J.P., Paim,F.P., Ribas,C.C., Nazareth,M.,
+            Messias,M., Rohe,F., Merces,M.P., Silva,J.D. Jr., Silva,C.R.,
+            Pinho,G.M., Koshkarian,G., Nguyen,M.T., Harada,M.L., Rabelo,R.M.,
+            Queiroz,H.L., Alfaro,M.E. and Farias,I.
+  TITLE     Biogeography of squirrel monkeys (genus Saimiri): south-central
+            Amazon origin and rapid pan-Amazonian diversification of a lowland
+            primate
+  JOURNAL   Mol. Phylogenet. Evol. (2014) In press
+   PUBMED   25305518
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 808)
+  AUTHORS   Lynch Alfaro,J., Boubli,J., Paim,F., Ribas,C., Nazareth,M.,
+            Messias,M., Rohe,F., Merces,M., Silva,J. Jr., Silva,C., Pinho,G.,
+            Koshkarian,G., Nguyen,M., Harada,M., Rabelo,R., Queiroz,H.,
+            Alfaro,M. and Farias,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-2014) Institute for Society and Genetics, UCLA,
+            1321 Rolfe Hall, Los Angeles, CA 90095, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..808
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="USNM_2416_Iquitos"
+                     /specimen_voucher="USNM:MAMM:397809"
+                     /db_xref="taxon:1561164"
+     D-loop          <1..>808
+ORIGIN
+        1 ctgaaattct aatcctaaac tactctctga gtaacaaatt acatcaacct atattattga
+       61 tggactaaca accatgtgtc ttctaagcat acataacact accaccctat gtaattagtg
+      121 cattaatgtt tagccccatg aataatgcac agtactgaga atgcttaatt atacatagta
+      181 cattccacca aaacgtgcat aacttgtccc caacatgctt acaagcaaga actgtaattc
+      241 catataggac cataagacat aacagcttaa ttccccataa aagcacctcc cccatggata
+      301 ttgtacagta atataaatca ttggtcgtac atttgtacat taagtcattg atcggacata
+      361 gcacatctta attctacagt ccttgtaacc atggatatcc ccttccctat ttggtctctt
+      421 aatctaccaa cctccgtgaa accagcaacc cgcccacatc tgcggctctt ctcgctccgg
+      481 gcccatatag acagggcttg gttatactga aactatatct ggcatttggt tcctacctca
+      541 gggccatatc attaagatcg tgcatacgtt cctcttaaat aagacatcac gatggtgtag
+      601 cgctatcacc ctcttaaccg cgtcactgga tgcatgtagt gcctgggtgg ggaaaggggg
+      661 gggagggaaa tcctcagcat tgccgtaggc tccggtagga gtccccctac ccgtcctgtg
+      721 ggacctgtct gtgccttgcc aggccttatg ctatcatcgg atggatattg aatgtcttgg
+      781 tccccaacct acccactaag gtgttatt
+//
+LOCUS       KM234556                 987 bp    DNA     linear   PRI 12-MAY-2017
+DEFINITION  Saimiri sp. isolate USNM_2416_Iquitos cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   KM234556
+VERSION     KM234556.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 987)
+  AUTHORS   Lynch Alfaro,J.W., Boubli,J.P., Paim,F.P., Ribas,C.C., Nazareth,M.,
+            Messias,M., Rohe,F., Merces,M.P., Silva,J.D. Jr., Silva,C.R.,
+            Pinho,G.M., Koshkarian,G., Nguyen,M.T., Harada,M.L., Rabelo,R.M.,
+            Queiroz,H.L., Alfaro,M.E. and Farias,I.
+  TITLE     Biogeography of squirrel monkeys (genus Saimiri): south-central
+            Amazon origin and rapid pan-Amazonian diversification of a lowland
+            primate
+  JOURNAL   Mol. Phylogenet. Evol. (2014) In press
+   PUBMED   25305518
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 987)
+  AUTHORS   Lynch Alfaro,J., Boubli,J., Paim,F., Ribas,C., Nazareth,M.,
+            Messias,M., Rohe,F., Merces,M., Silva,J. Jr., Silva,C., Pinho,G.,
+            Koshkarian,G., Nguyen,M., Harada,M., Rabelo,R., Queiroz,H.,
+            Alfaro,M. and Farias,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2014) Institute for Society and Genetics, UCLA,
+            1321 Rolfe Hall, Los Angeles, CA 90095, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..987
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="USNM_2416_Iquitos"
+                     /specimen_voucher="USNM:MAMM:397809"
+                     /db_xref="taxon:1561164"
+     gene            <1..>987
+                     /gene="cytb"
+     CDS             <1..>987
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AIT59081.1"
+                     /translation="LGACLIIQITTGLFLAMHYTPDTQTAFSSVAHITRDVNHGWTIRY
+                     MHANGASMFFMCLFLHIGRGLYYGSFLSRETWNIGTILLFTTMATAFMGYVLPWGQMSL
+                     WGATVITNLLSAIPYIGSNLVEWIWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLF
+                     LHETGSNNPSGMTSNPDKITFHPYYTIKDILGLILLLLLLMSLTLFMPDLLTDPDNYTL
+                     ANPLSTPPHIKPEWYFLFAYAILRSIPNKLGGVLALVLSILVLMIIPTTHLSNQQSMTF
+                     RPITQIMFWVLTANLLTLTWIGGQPVEYPFIIIGQIASIMYFLIITAL"
+ORIGIN
+        1 ttaggagcct gcctaattat tcaaatcacc acaggcctat tcttagccat acactacacc
+       61 ccagacactc agacagcctt ctcctcagta gcccacatca cccgagacgt aaaccacgga
+      121 tgaacaatcc gctacatgca tgccaacggt gcctccatat tcttcatatg cctcttcctc
+      181 cacattggac gaggcctcta ctacggatcc tttctttctc gagaaacttg aaacatcggt
+      241 acaattctac tcttcacaac aatagccaca gcattcatag gctacgttct cccatgaggc
+      301 caaatatcat tatgaggagc tacggtgatt acaaacctcc tatcagccat tccatatatc
+      361 ggatccaacc tcgtagagtg aatttgaggt ggcttctcag tagacaaagc caccctcaca
+      421 cgatttttta ccttccactt tatcttaccc tttattatcg cagcactagc gactattcat
+      481 ctattgttct tacatgaaac aggttcaaac aacccatcag gaataacgtc taaccctgac
+      541 aaaattacat ttcatccata ctatacaatt aaagatattc taggactaat ccttctactc
+      601 ctacttctaa taagcctaac actatttata ccagaccttt taaccgaccc agacaattat
+      661 acactagcaa accctctcag tacccctccc catatcaaac cagaatgata cttcctattc
+      721 gcatacgcaa tcctacggtc tatccctaat aaactcgggg gcgtactagc ccttgtactc
+      781 tccatcctag tcctcataat cattccaacc acgcacctgt caaaccaaca aagtatgaca
+      841 tttcgaccaa ttacccaaat catattctga gtattaacag ccaacctact tacacttaca
+      901 tgaatcggag gtcaaccagt tgaatatcca tttattatca ttggccaaat tgcatctatc
+      961 atgtattttc ttattatcac tgcccta
+//
+LOCUS       KM234545                1072 bp    DNA     linear   PRI 12-MAY-2017
+DEFINITION  Saimiri sp. isolate USNM_2415_Iquitos cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   KM234545
+VERSION     KM234545.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 1072)
+  AUTHORS   Lynch Alfaro,J.W., Boubli,J.P., Paim,F.P., Ribas,C.C., Nazareth,M.,
+            Messias,M., Rohe,F., Merces,M.P., Silva,J.D. Jr., Silva,C.R.,
+            Pinho,G.M., Koshkarian,G., Nguyen,M.T., Harada,M.L., Rabelo,R.M.,
+            Queiroz,H.L., Alfaro,M.E. and Farias,I.
+  TITLE     Biogeography of squirrel monkeys (genus Saimiri): south-central
+            Amazon origin and rapid pan-Amazonian diversification of a lowland
+            primate
+  JOURNAL   Mol. Phylogenet. Evol. (2014) In press
+   PUBMED   25305518
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1072)
+  AUTHORS   Lynch Alfaro,J.W., Boubli,J., Paim,F., Ribas,C., Messias,M.,
+            Rohe,F., Silva,J. Jr., Silva,C., Pinho,G., Koshkarian,G., Nguyen,M.,
+            Harada,M., Rabelo,R., Queiroz,H., Alfaro,M. and Farias,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2014) Institute for Society and Genetics, UCLA,
+            1321 Rolfe Hall, Los Angeles, CA 90095, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1072
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="USNM_2415_Iquitos"
+                     /specimen_voucher="USNM:MAMM:397843"
+                     /db_xref="taxon:1561164"
+     gene            <1..>1072
+                     /gene="cytb"
+     CDS             <1..>1072
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AIT59070.1"
+                     /translation="PLTKMINNSFIDLPTPSNISFWWNLGSLLGACLIIQITTGLFLAM
+                     HYTPDTQTAFSSVAHITRDVNHGWTIRYMHANGASMFFMCLFLHIGRGLYYGSFLSRET
+                     WNIGTILLLTTMATAFMGYVLPWGQMSLWGATVITNLLSVIPYIGSNLVEWVWGGFSVD
+                     KATLTRFFTFHFVLPFIIAALATIHLLFLHETGSNNPSGMTSNPDKITFHPYYTIKDIL
+                     GLILLLLLLMSLTLFMPDLLTDPDNYTLANPLSTPPHIKPEWYFLFAYAILRSIPNKLG
+                     GVLALVLSILVLMIIPTTHLSNQQSMTFRPITQIMFWVLTANLLTLTWIGGQPVEYPFI
+                     IIGQIASIMYFLIITAL"
+ORIGIN
+        1 ccctctaaca aaaatgatta ataactcatt tatcgacctt cctacaccat ccaacatttc
+       61 tttctgatgg aacttaggct ccctcttagg agcctgccta attattcaaa tcaccacagg
+      121 cctattctta gccatacact acaccccaga cactcagaca gccttctcct cagtagccca
+      181 catcacccga gacgtaaacc acggatgaac aatccgctac atgcatgcca acggtgcctc
+      241 catattcttc atatgcctct tcctccacat tggacgaggc ctctactacg gatcctttct
+      301 ttctcgagaa acttgaaaca tcggtacaat tctactcctc acaacaatag ccacagcatt
+      361 cataggctac gttctcccat gaggccaaat atcattatga ggagctacgg tgattacaaa
+      421 cctcctatca gtcattccat atatcggatc caacctcgta gagtgagttt gaggtggctt
+      481 ctcggtagac aaagccaccc tcacacgatt ttttaccttc cactttgtct taccctttat
+      541 catcgcagca ctagcgacta ttcatctatt gttcctacat gaaacaggtt caaacaaccc
+      601 atcaggaata acgtctaacc ctgacaaaat tacatttcat ccatactata caattaaaga
+      661 tattctagga ctaatccttc tactcctact tctaataagc ctaacactat ttataccaga
+      721 ccttttaacc gacccagaca attatacact agcaaaccct ctcagtaccc ctccccatat
+      781 taaaccagaa tgatacttcc tattcgcata cgcaatccta cggtctatcc ctaataaact
+      841 cgggggcgta ctagcccttg tactctccat cctagtcctt ataatcattc caaccacgca
+      901 cctgtcaaac caacaaagta tgacatttcg accaattacc caaatcatat tctgagtatt
+      961 aacagccaac ctacttacac ttacatgaat cggaggtcaa ccagttgaat atccatttat
+     1021 tatcatcggc caaattgcat ctatcatgta ttttcttatt atcactgccc ta
+//
+LOCUS       KR528414                1081 bp    DNA     linear   PRI 19-DEC-2015
+DEFINITION  Saimiri sp. isolate Z01 cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   KR528414
+VERSION     KR528414.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 1081)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     An expanded search for simian foamy viruses (SFV) in Brazilian New
+            World primates identifies novel SFV lineages and host age-related
+            infections
+  JOURNAL   Retrovirology 12 (1), 94 (2015)
+   PUBMED   26576961
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1081)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2015) Departamento de Genetica, Universidade
+            Federal do Rio de Janeiro, Rua Professor Rodolpho Paulo Rocco, s/No.
+            Predio do Centro de Ciencias da Saude (CCS), Bloco A, Sala A2-120.
+            Bairro Ilha do Fundao, Rio de Janeiro, Rio de Janeiro 21.941-617,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..1081
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Z01"
+                     /db_xref="taxon:1561164"
+                     /geo_loc_name="Brazil"
+     gene            <1..1072
+                     /gene="cytb"
+     CDS             <1..1072
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ALS54781.1"
+                     /translation="PSNISFWWNLGSLLGACLIIQITTGLFLAMHYTSNTQTAFSSVAH
+                     ITRDVNHGWTIRYMHANGASMFFMCLFLHIGXGLYYGSFLSRETWNIGTILLLTTMATA
+                     FMGYVLPWGQMSLWGATVITNLLSAIPYVGSNLVEXVWGGFSVDKATLTRFFTFHFVLP
+                     FIIAALATIHLLFLHETGSNNPSGMTSNPDKITFHPYYTIKDILGLILLLLLLMGLTLF
+                     MPDLLTDPDNYTLANPLSTPPHIKPEWYFLFAYAILRSIPNKLGGVLALVLSILVLMII
+                     PTTHLSNQQSMTFRPITQIMFWVLTANLLTLTWVGGQPVEYPFTIIGQIASIMYFLIIT
+                     ALIPLSALIENKLLKW"
+ORIGIN
+        1 accatccaac atttctttct gatggaactt aggctccctc ttaggagcct gcctaattat
+       61 tcaaatcacc acaggcctat tcttagctat acactacacc tcaaacaccc agacagcctt
+      121 ctcctcagta gcccacatca cccgagacgt aaaccacgga tgaacaatcc gctacatgca
+      181 tgccaacggt gcctccatat tcttcatatg cctcttcctt cacattggac raggcctcta
+      241 ctacggatcc tttctttccc gagaaacttg aaacatcggt acaattctac tcctcacaac
+      301 aatagccaca gcattcatag gctacgttct cccatgaggc caaatatcat tatgaggggc
+      361 tacggtgatt acaaacctcc tatcagccat tccatatgtc ggatccaacc tcgtagaakg
+      421 agtttgaggc ggcttctcag tagacaaagc caccctcaca cgatttttta ccttccactt
+      481 tgtcttaccc tttattatcg cagcactagc cactattcat ctgttattct tacatgaaac
+      541 aggctcaaac aacccgtcag gaataacgtc taaccctgac aaaattacat ttcacccata
+      601 ctatacaatt aaagacattc taggactaat cctcctactc ctacttctaa taggcctaac
+      661 actatttata ccagaccttt taaccgaccc agacaattac acactagcaa accctctcag
+      721 tacccctccc catattaaac cagaatgata cttcctattc gcatacgcaa tcctgcgatc
+      781 tatccctaat aaactcgggg gcgtactagc ccttgtactc tccatcctag tccttataat
+      841 cattccaacc acacacctgt caaaccaaca aagcatgaca tttcgaccaa ttacccaaat
+      901 catattytga gtattaacag ccaacctact tacacttaca tgagtcggag gccaaccagt
+      961 tgaataccca tttactatca ttggtcaaat tgcatctatc atatattttc ttattatcac
+     1021 tgccctaatt cccctctcag ccctaatcga aaacaaacta ctcaaatggt aaagtccttg
+     1081 t
+//
+LOCUS       KR902437                1258 bp    DNA     linear   PRI 04-NOV-2015
+DEFINITION  Saimiri sp. clone Ssp_510073 cytochrome b (cytB) gene, complete cds;
+            mitochondrial.
+ACCESSION   KR902437
+VERSION     KR902437.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 1258)
+  AUTHORS   Ghersi,B.M., Jia,H., Aiewsakun,P., Katzourakis,A., Mendoza,P.,
+            Bausch,D.G., Kasper,M.R., Montgomery,J.M. and Switzer,W.M.
+  TITLE     Wide distribution and ancient evolutionary history of simian foamy
+            viruses in New World primates
+  JOURNAL   Retrovirology 12 (1), 89 (2015)
+   PUBMED   26514626
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1258)
+  AUTHORS   Ghersi,B.M., Jia,H., Aiewsakun,P., Katzourakis,A., Mendoza,P.,
+            Busch,D.G., Kasper,M.R., Montgomery,J.M. and Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2015) Division of HIV/AIDS Prevention, Centers for
+            Disease Control and Prevention, 1600 Clifton Rd, MS G45, Atlanta, GA
+            30333, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1258
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1561164"
+                     /clone="Ssp_510073"
+                     /tissue_type="blood"
+     gene            23..1162
+                     /gene="cytB"
+     CDS             23..1162
+                     /gene="cytB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AKS25052.1"
+                     /translation="MTSPRKTHPLTKIINNSFIDLPTPSNIYIWWNLGSLLGACLIIQI
+                     VTGLFLAMHYTPDTQTAFSSVAHITRDVNHGWMIRYMHTNGASMFFMCLFLHIGRGLYY
+                     GSFLSRETWNIGTILLLTTMATAFMGYVLPWGQMSLWGATVITNLLSAIPYVGSSLVEW
+                     VWGGFSVDKATLARFFTFHFVLPFTIAALATIHLLFLHETGSNNPSGVTSNPDKIMFHP
+                     YYTIKDILGLTLLLLLLMSLTLFMPDLLTDPDNYTLANPLSTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALVLSILVLMAIPTTHLSNQQSMTFRPITQIMFWVLTANLLTLTWIGG
+                     QPVEYPFTIIGQIASIMYFLIITALIPLSALIENKLLKW"
+ORIGIN
+        1 tacttcaact ataagaatca taatgacctc accccgcaaa acacaccctt taacaaaaat
+       61 cattaataac tcctttatcg accttcctac accatccaac atctatatct gatggaactt
+      121 aggctccctc ttaggagcct gcctaattat tcaaatcgtc acaggcctat tcttagccat
+      181 acattacacc ccagacaccc agacagcctt ctcctcagta gcccacatca cccgagacgt
+      241 aaaccacgga tggataatcc gctacatgca taccaacggt gcctccatat tcttcatatg
+      301 cctcttcctc cacattggac gaggcctcta ctacggatcc tttctttctc gagaaacttg
+      361 aaacatcggt acaattctac tcctcacaac aatagccaca gcattcatgg gctacgttct
+      421 cccatgaggc caaatatcat tatgaggggc tacagtgatc acaaacctcc tatcagccat
+      481 tccatacgtc ggatccagcc tcgtagaatg agtttgaggc ggcttctcag tagacaaagc
+      541 caccctcgca cgatttttta ccttccactt tgtcttaccc tttaccatcg cagcactagc
+      601 gactattcat ctattgttct tacatgaaac aggctcaaac aacccgtcag gagtaacgtc
+      661 taaccctgac aaaattatat ttcatccata ctatacaatt aaagatattc taggactaac
+      721 ccttctactc ctacttttaa taagcctaac actatttata ccagaccttt taaccgaccc
+      781 agataattac acactagcaa accccctcag cacccctccc catattaaac cagaatgata
+      841 cttcctattc gcatacgcaa tcctgcgatc tatccctaat aagctcgggg gcgtactagc
+      901 ccttgtactc tccatcctag tccttatagc cattccaacc acacacctgt caaaccaaca
+      961 aagcatgaca tttcgaccaa ttacccaaat catattctga gtattaacag ctaacctact
+     1021 tacacttaca tgaatcgggg gccaaccagt tgaataccca tttactatca ttggtcaaat
+     1081 tgcatccatc atatattttc ttattatcac tgccctaatt cccctctcag ccctaatcga
+     1141 aaacaaacta ctcaaatggt aaagtccttg tagtataacc tattaccctg gtcttgtaaa
+     1201 ccagaaaagg agacacaccc gctccccagg acatcagaga gagaacacct agttctgc
+//
+LOCUS       KR902436                1258 bp    DNA     linear   PRI 04-NOV-2015
+DEFINITION  Saimiri sp. clone Ssp_510072_2 cytochrome b (cytB) gene, complete
+            cds; mitochondrial.
+ACCESSION   KR902436
+VERSION     KR902436.1
+KEYWORDS    .
+SOURCE      mitochondrion Saimiri sp
+  ORGANISM  Saimiri sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Saimiriinae; Saimiri.
+REFERENCE   1  (bases 1 to 1258)
+  AUTHORS   Ghersi,B.M., Jia,H., Aiewsakun,P., Katzourakis,A., Mendoza,P.,
+            Bausch,D.G., Kasper,M.R., Montgomery,J.M. and Switzer,W.M.
+  TITLE     Wide distribution and ancient evolutionary history of simian foamy
+            viruses in New World primates
+  JOURNAL   Retrovirology 12 (1), 89 (2015)
+   PUBMED   26514626
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1258)
+  AUTHORS   Ghersi,B.M., Jia,H., Aiewsakun,P., Katzourakis,A., Mendoza,P.,
+            Busch,D.G., Kasper,M.R., Montgomery,J.M. and Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2015) Division of HIV/AIDS Prevention, Centers for
+            Disease Control and Prevention, 1600 Clifton Rd, MS G45, Atlanta, GA
+            30333, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1258
+                     /organism="Saimiri sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1561164"
+                     /clone="Ssp_510072_2"
+                     /tissue_type="blood"
+     gene            23..1162
+                     /gene="cytB"
+     CDS             23..1162
+                     /gene="cytB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AKS25051.1"
+                     /translation="MTSPRKTHPLTKTINNSFIDLPTPSNISFWWNLGSLLGACLIIQI
+                     VTGLFLAMHYTPDTQTAFSSVAHITRDVNHGWMIRYMHTNGASMFFMCLFLHIGRGLYY
+                     GSFLSRETWNIGTILLLTTMATAFMGYVLPWGQMSLWGATVITNLLSAIPYVGSSLVEW
+                     VWGGFSVDKATLARFFTFHFVLPFTIAALATIHLLFLHETGSNNPSGVTSNPDKIMFHP
+                     YYTIKDILGLTLLLLLLMSLTLFMPDLLTDPDNYTLANPLSTPPHIKPEWYFLFAYAIL
+                     RSIPNKLGGVLALVLSILVLMAIPTTHLSNQQSMTFRPITQIMFWVLTANLLTLTWIGG
+                     QPVEYPFTIIGQIASIMYFLIITALIPLSALIENKLLKW"
+ORIGIN
+        1 tacttcaact ataagaatca taatgacctc accccgcaaa acacaccctt taacaaaaac
+       61 cattaataac tcctttatcg accttcctac accatccaac atctctttct gatggaactt
+      121 aggctccctc ttaggagcct gcctaattat tcaaatcgtc acaggcctat tcttagccat
+      181 acattacacc ccagacaccc agacagcctt ctcctcagta gcccacatca cccgagacgt
+      241 aaaccacgga tggataatcc gctacatgca taccaacggt gcctccatat tcttcatatg
+      301 cctcttcctc cacattggac gaggcctcta ctacggatcc tttctttctc gagaaacttg
+      361 aaacatcggt acaattctac tcctcacaac aatagccaca gcattcatgg gctacgttct
+      421 cccatgaggc caaatatcat tatgaggggc tacagtgatc acaaacctcc tatcagccat
+      481 tccatacgtc ggatccagcc tcgtagaatg agtttgaggc ggcttctcag tagacaaagc
+      541 caccctcgca cgatttttta ccttccactt tgtcttaccc tttaccatcg cagcactagc
+      601 gactattcat ctattgttct tacatgaaac aggctcaaac aacccgtcag gagtaacgtc
+      661 taaccctgac aaaattatat ttcatccata ctatacaatt aaagatattc taggactaac
+      721 ccttctactc ctacttttaa taagcctaac actatttata ccagaccttt taaccgaccc
+      781 agataattac acactagcaa accccctcag cacccctccc catattaaac cagaatgata
+      841 cttcctattc gcatacgcaa tcctgcgatc tatccctaat aagctcgggg gcgtactagc
+      901 ccttgtactc tccatcctag tccttatagc cattccaacc acacacctgt caaaccaaca
+      961 aagcatgaca tttcgaccaa ttacccaaat catattctga gtattaacag ctaacctact
+     1021 tacacttaca tgaatcgggg gccaaccagt tgaataccca tttactatca ttggtcaaat
+     1081 tgcatccatc atatattttc ttattatcac tgccctaatt cccctctcag ccctaatcga
+     1141 aaacaaacta ctcaaatggt aaagtccttg tagtataacc tattaccctg gtcttgtaaa
+     1201 ccagaaaagg agacacaccc gctccccagg acatcagaga gagaacacct agttctgc
+//

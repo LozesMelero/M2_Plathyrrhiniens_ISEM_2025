@@ -1,0 +1,16 @@
+# BLASTN 2.12.0+
+# Query: SIM1 from HM758314
+# Database: ./Mico_database/Mico_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+SIM1	Mico_leucippe_RCA55	83.333	30	5	0	286	315	6219	6190	0.35	32.8
+SIM1	Mico_leucippe_RCA55	90.476	21	2	0	291	311	279329	279309	1.2	30.1
+SIM1	Mico_leucippe_RCA55	94.444	18	1	0	358	375	1609	1626	4.2	29.2
+SIM1	Mico_munduruku_RCA23	90.476	21	2	0	291	311	295612	295592	1.2	30.1
+SIM1	Mico_munduruku_RCA23	94.444	18	1	0	358	375	1914	1931	4.2	29.2
+SIM1	Mico_rondoni_UFRO-MAM000556	90.476	21	2	0	291	311	118932	118912	1.2	30.1
+SIM1	Mico_leucippe_RCA38	90.476	21	2	0	291	311	303321	303301	1.2	30.1
+SIM1	Mico_leucippe_RCA38	94.444	18	1	0	358	375	1934	1951	4.2	29.2
+SIM1	Mico_intermedius_FES26	94.444	18	1	0	358	375	1253	1270	4.2	29.2
+SIM1	Mico_munduruku_RCA37	100.000	15	0	0	323	337	165036	165022	4.2	28.3
+# BLAST processed 1 queries

@@ -1,0 +1,218 @@
+Genus	Species	Subspecies
+Cebuella	pygmaea	
+Cebuella	niveiventris	
+Callibella	humilis	
+Mico	argentatus	
+Mico	leucippe	
+Mico	emiliae	
+Mico	munduruku	
+Mico	schneideri	
+Mico	humeralifer	
+Mico	chrysoleucos	
+Mico	mauesi	
+Mico	saterei	
+Mico	acariensis	
+Mico	nigriceps	
+Mico	marcai	
+Mico	intermedius	
+Mico	melanurus	
+Mico	rondoni	
+Callimico	goeldii	
+Callithrix	jacchus	
+Callithrix	penicillata	
+Callithrix	kuhlii	
+Callithrix	geoffroyi	
+Callithrix	flaviceps	
+Callithrix	aurita	
+Leontocebus	nigricollis	nigricollis
+Leontocebus	nigricollis	graellsi
+Leontocebus	nigricollis	hernandezi
+Leontocebus	fuscus	
+Leontocebus	tripartitus	
+Leontocebus	lagonotus	
+Leontocebus	leucogenys	
+Leontocebus	illigeri	
+Leontocebus	nigrifrons	
+Leontocebus	fuscicollis	
+Leontocebus	cruzlimai	
+Leontocebus	avilapiresi	
+Leontocebus	mura	
+Leontocebus	primitivus	
+Leontocebus	weddelli	
+Leontocebus	melanoleucus	
+Tamarinus	mystax	
+Tamarinus	pileatus	pileatus
+Tamarinus	pileatus	pluto
+Tamarinus	kulina	
+Tamarinus	labiatus	labiatus
+Tamarinus	labiatus	rufiventer
+Tamarinus	thomasi	
+Tamarinus	imperator	
+Tamarinus	subgrisescens	
+Tamarinus	inustus	
+Saguinus	midas	
+Saguinus	niger	
+Saguinus	ursula	
+Saguinus	bicolor	
+Saguinus	martinsi	martinsi
+Saguinus	martinsi	ochraceus
+Oedipomidas	leucopus	
+Oedipomidas	oedipus	
+Oedipomidas	geoffroyi	
+Leontopithecus	rosalia	
+Leontopithecus	chrysomelas	
+Leontopithecus	chrysopygus	
+Leontopithecus	caissara	
+Saimiri	oerstedii	oerstedii
+Saimiri	oerstedii	citrinellus
+Saimiri	cassiquiarensis	
+Saimiri	albigena	
+Saimiri	macrodon	
+Saimiri	ustus	
+Saimiri	sciureus	
+Saimiri	collinsi	
+Saimiri	boliviensis	boliviensis
+Saimiri	boliviensis	peruviensis
+Saimiri	vanzolinii	
+Sapajus	nigritus	
+Sapajus	cucullatus	
+Sapajus	cay	
+Sapajus	robustus	
+Sapajus	libidinosus	
+Sapajus	xanthosternos	
+Sapajus	flavius	
+Sapajus	apella	apella
+Sapajus	apella	margaritae
+Sapajus	macrocephalus	
+Cebus	yuracus	
+Cebus	cuscinus	
+Cebus	unicolor	
+Cebus	albifrons	
+Cebus	olivaceus	
+Cebus	castaneus	
+Cebus	kaapori	
+Cebus	leucocephalus	
+Cebus	versicolor	
+Cebus	cesarae	
+Cebus	malitiosus	
+Cebus	trinitatis	
+Cebus	aequatorialis	
+Cebus	capucinus	capucinus
+Cebus	capucinus	curtus
+Cebus	imitator	
+Aotus	zonalis	
+Aotus	lemurinus	
+Aotus	griseimembra	
+Aotus	brumbacki	
+Aotus	trivirgatus	
+Aotus	vociferans	
+Aotus	jorgehernandezi	
+Aotus	miconax	
+Aotus	nancymai	
+Aotus	nigriceps	
+Aotus	azarae	azarae
+Aotus	azarae	boliviensis
+Aotus	azarae	infulatus
+Plecturocebus	modestus	
+Plecturocebus	olallae	
+Plecturocebus	donacophilus	
+Plecturocebus	pallescens	
+Plecturocebus	ornatus	
+Plecturocebus	caquetensis	
+Plecturocebus	oenanthe	
+Plecturocebus	cupreus	
+Plecturocebus	discolor	
+Plecturocebus	caligatus	
+Plecturocebus	dubius	
+Plecturocebus	stephennashi	
+Plecturocebus	cinerascens	
+Plecturocebus	miltoni	
+Plecturocebus	hoffmannsi	
+Plecturocebus	baptista	
+Plecturocebus	moloch	
+Plecturocebus	vieirai	
+Plecturocebus	grovesi	
+Plecturocebus	brunneus	
+Plecturocebus	bernhardi	
+Plecturocebus	toppini	
+Plecturocebus	urubambensis	
+Plecturocebus	aureipalatii	
+Cheracebus	medemi	
+Cheracebus	torquatus	
+Cheracebus	lugens	
+Cheracebus	lucifer	
+Cheracebus	regulus	
+Cheracebus	aquinoi	
+Callicebus	nigrifrons	
+Callicebus	personatus	
+Callicebus	melanochir	
+Callicebus	coimbrai	
+Callicebus	barbarabrownae	
+Pithecia	pithecia	
+Pithecia	chrysocephala	
+Pithecia	hirsuta	
+Pithecia	milleri	
+Pithecia	monachus	
+Pithecia	inusta	
+Pithecia	cazuzai	
+Pithecia	aequatorialis	
+Pithecia	napensis	
+Pithecia	isabela	
+Pithecia	albicans	
+Pithecia	irrorata	
+Pithecia	vanzolinii	
+Pithecia	mittermeieri	
+Pithecia	pissinattii	
+Chiropotes	albinasus	
+Chiropotes	satanas	
+Chiropotes	chiropotes	
+Chiropotes	utahicki	
+Chiropotes	sagulatus	
+Cacajao	calvus	
+Cacajao	novaesi	
+Cacajao	rubicundus	
+Cacajao	ucayalii	
+Cacajao	amuna	
+Cacajao	melanocephalus	
+Cacajao	hosomi	
+Cacajao	ayresi	
+Alouatta	seniculus	seniculus
+Alouatta	seniculus	insulanus
+Alouatta	juara	
+Alouatta	puruensis	
+Alouatta	arctoidea	
+Alouatta	macconnelli	
+Alouatta	sara	
+Alouatta	nigerrima	
+Alouatta	belzebul	
+Alouatta	discolor	
+Alouatta	ululata	
+Alouatta	guariba	
+Alouatta	caraya	
+Alouatta	palliata	palliata
+Alouatta	palliata	trabeata
+Alouatta	palliata	coibensis
+Alouatta	palliata	aequatorialis
+Alouatta	palliata	mexicana
+Alouatta	pigra	
+Ateles	geoffroyi	geoffroyi
+Ateles	geoffroyi	azuerensis
+Ateles	geoffroyi	frontatus
+Ateles	geoffroyi	grisescens
+Ateles	geoffroyi	ornatus
+Ateles	geoffroyi	vellerosus
+Ateles	rufiventris	
+Ateles	fusciceps	
+Ateles	chamek	
+Ateles	paniscus	
+Ateles	marginatus	
+Ateles	belzebuth	
+Ateles	hybridus	
+Lagothrix	lagothricha	lagothricha
+Lagothrix	lagothricha	lugens
+Lagothrix	lagothricha	cana
+Lagothrix	lagothricha	poeppigii
+Lagothrix	lagothricha	tschudii
+Lagothrix	flavicauda	
+Brachyteles	arachnoides	
+Brachyteles	hypoxanthus	

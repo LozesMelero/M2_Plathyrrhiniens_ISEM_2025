@@ -1,0 +1,130 @@
+Scheme Name       : step_2
+Scheme lnL        : -201801.85668945312
+Scheme BIC        : 408139.654176
+Number of params  : 482
+Number of sites   : 12218
+Number of subsets : 13
+
+Subset | Best Model | # sites    | subset id                        | Partition names                                                                                     
+1      | GTR+I+G    | 1539       | 0a1438e4e45bb24b486a25e9dabd01d6 | COI                                                                                                 
+2      | GTR+I+G    | 1458       | b4f53ea458da42a321732c4cb635df08 | COII, COIII                                                                                         
+3      | GTR+I+G    | 1136       | 363a43c91f2476d6a0b661d005456d3a | CYTB                                                                                                
+4      | GTR+I+G    | 1051       | 5189fad29c5021e89d98eb05878d2fa3 | NADH2                                                                                               
+5      | GTR+G      | 892        | 2cb0f1c3e54bf06f3820b7ea6e7fe891 | ABCA1                                                                                               
+6      | SYM+G      | 393        | a0c76d29902f17edada83975b3de5ecc | ADORA3                                                                                              
+7      | GTR+G      | 1617       | 76db17a0a9585f0855faefd7c96b19f8 | ERC2, ZFX                                                                                           
+8      | K80+G      | 529        | b580bfc433a27873d18ca16427e6a1da | FES                                                                                                 
+9      | GTR+G      | 563        | 32f5add1996a81bc0d1f06014496538b | FOXP1                                                                                               
+10     | HKY+G      | 649        | 47bdae140b819ec945587f2c46eef3d4 | MAPKAP1                                                                                             
+11     | K80+I+G    | 1077       | ae3bbd76694c514d76aa9cc505c74b2a | RAG1                                                                                                
+12     | K80+G      | 679        | c0e1cfffda7350cb491f04c1b7e6b051 | RPGRIP1                                                                                             
+13     | K80+G      | 635        | 990608bc38c15ef51f9c4c2b1ccbc9a3 | SIM1                                                                                                
+
+
+Scheme Description in PartitionFinder format
+Scheme_step_2 = (COI) (COII, COIII) (CYTB) (NADH2) (ABCA1) (ADORA3) (ERC2, ZFX) (FES) (FOXP1) (MAPKAP1) (RAG1) (RPGRIP1) (SIM1);
+
+Nexus formatted character sets
+begin sets;
+	charset Subset1 = 1-1539;
+	charset Subset2 = 1540-2213 2214-2997;
+	charset Subset3 = 2998-4133;
+	charset Subset4 = 4134-5184;
+	charset Subset5 = 5185-6076;
+	charset Subset6 = 6077-6469;
+	charset Subset7 = 6470-7237 11370-12218;
+	charset Subset8 = 7238-7766;
+	charset Subset9 = 7767-8329;
+	charset Subset10 = 8330-8978;
+	charset Subset11 = 8979-10055;
+	charset Subset12 = 10056-10734;
+	charset Subset13 = 10735-11369;
+	charpartition PartitionFinder = Group1:Subset1, Group2:Subset2, Group3:Subset3, Group4:Subset4, Group5:Subset5, Group6:Subset6, Group7:Subset7, Group8:Subset8, Group9:Subset9, Group10:Subset10, Group11:Subset11, Group12:Subset12, Group13:Subset13;
+end;
+
+
+Nexus formatted character sets for IQtree
+Warning: the models written in the charpartition are just the best model found in this analysis. Not all models are available in IQtree, so you may need to set up specific model lists for your analysis
+
+#nexus
+begin sets;
+	charset Subset1 = 1-1539;
+	charset Subset2 = 1540-2213 2214-2997;
+	charset Subset3 = 2998-4133;
+	charset Subset4 = 4134-5184;
+	charset Subset5 = 5185-6076;
+	charset Subset6 = 6077-6469;
+	charset Subset7 = 6470-7237 11370-12218;
+	charset Subset8 = 7238-7766;
+	charset Subset9 = 7767-8329;
+	charset Subset10 = 8330-8978;
+	charset Subset11 = 8979-10055;
+	charset Subset12 = 10056-10734;
+	charset Subset13 = 10735-11369;
+	charpartition PartitionFinder = GTR+I+G:Subset1, GTR+I+G:Subset2, GTR+I+G:Subset3, GTR+I+G:Subset4, GTR+G:Subset5, SYM+G:Subset6, GTR+G:Subset7, K80+G:Subset8, GTR+G:Subset9, HKY+G:Subset10, K80+I+G:Subset11, K80+G:Subset12, K80+G:Subset13;
+end;
+
+
+RaxML-style partition definitions
+Warning: RAxML allows for only a single model of rate heterogeneity in partitioned analyses. I.e. all partitions must be assigned one of three types of model: No heterogeneity (e.g. GTR); +G (e.g. GTR+G); or +I+G (e.g. GTR+I+G). If the best models for your datasetcontain different types of model for different subsets you will need to decide on the best rate heterogeneity model before you run RAxML. If you prefer to do things more rigorously, you can run separate PartitionFinder analyses for each type of rate heterogenetity Then choose the scheme with the lowest AIC/AICc/BIC score. Note that these re-runs will be quick!
+
+DNA, Subset1 = 1-1539
+DNA, Subset2 = 1540-2213, 2214-2997
+DNA, Subset3 = 2998-4133
+DNA, Subset4 = 4134-5184
+DNA, Subset5 = 5185-6076
+DNA, Subset6 = 6077-6469
+DNA, Subset7 = 6470-7237, 11370-12218
+DNA, Subset8 = 7238-7766
+DNA, Subset9 = 7767-8329
+DNA, Subset10 = 8330-8978
+DNA, Subset11 = 8979-10055
+DNA, Subset12 = 10056-10734
+DNA, Subset13 = 10735-11369
+
+
+MrBayes block for partition definitions
+Warning: MrBayes only allows a relatively small collection of models. If any model in your analysis is not one that is included in MrBayes (e.g. by setting nst = 1, 2, or 6 for DNA sequences; or is not in the available list of protein models for MrBayes)then this MrBayes block will just set that model to nst = 6 for DNA, or 'wag' for Protein. Similarly, the only additional parameters that this MrBayes block will include are +I and +G. Other  parameters, such as +F and +X, are ignored. If you want to use this MrBayes block for your analysis, please make sure to check it carefully before you use it we've done our best to make it accurate, but there may be errors that remain!
+
+begin mrbayes;
+
+	charset Subset1 = 1-1539;
+	charset Subset2 = 1540-2213 2214-2997;
+	charset Subset3 = 2998-4133;
+	charset Subset4 = 4134-5184;
+	charset Subset5 = 5185-6076;
+	charset Subset6 = 6077-6469;
+	charset Subset7 = 6470-7237 11370-12218;
+	charset Subset8 = 7238-7766;
+	charset Subset9 = 7767-8329;
+	charset Subset10 = 8330-8978;
+	charset Subset11 = 8979-10055;
+	charset Subset12 = 10056-10734;
+	charset Subset13 = 10735-11369;
+
+	partition PartitionFinder = 13:Subset1, Subset2, Subset3, Subset4, Subset5, Subset6, Subset7, Subset8, Subset9, Subset10, Subset11, Subset12, Subset13;
+	set partition=PartitionFinder;
+
+	lset applyto=(1) nst=6 rates=invgamma;
+	lset applyto=(2) nst=6 rates=invgamma;
+	lset applyto=(3) nst=6 rates=invgamma;
+	lset applyto=(4) nst=6 rates=invgamma;
+	lset applyto=(5) nst=6 rates=gamma;
+	lset applyto=(6) nst=6 rates=gamma;
+prset applyto=(6) statefreqpr=fixed(equal);
+	lset applyto=(7) nst=6 rates=gamma;
+	lset applyto=(8) nst=2 rates=gamma;
+prset applyto=(8) statefreqpr=fixed(equal);
+	lset applyto=(9) nst=6 rates=gamma;
+	lset applyto=(10) nst=2 rates=gamma;
+	lset applyto=(11) nst=2 rates=invgamma;
+prset applyto=(11) statefreqpr=fixed(equal);
+	lset applyto=(12) nst=2 rates=gamma;
+prset applyto=(12) statefreqpr=fixed(equal);
+	lset applyto=(13) nst=2 rates=gamma;
+prset applyto=(13) statefreqpr=fixed(equal);
+
+	prset applyto=(all) ratepr=variable;
+	unlink statefreq=(all) revmat=(all) shape=(all) pinvar=(all) tratio=(all);
+
+end;

@@ -1,0 +1,720 @@
+IQ-TREE 2.1.4-beta COVID-edition built Jun 24 2021
+
+Input file name: nD2.phy
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 769499
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 136 sequences with 1050 nucleotide sites
+Number of constant sites: 262 (= 24.9524% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 262 (= 24.9524% of all sites)
+Number of parsimony informative sites: 747
+Number of distinct site patterns: 795
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TN+F+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TN+F+I+G4        -34956.941   70465.882 - 5.66e-07   70663.688 +    0.122   71833.889 +    0.685
+TIM+F+I+G4       -34955.002   70464.004 - 1.45e-06   70663.501 +    0.134   71836.967 +    0.147
+TIM2+F+I+G4      -34955.870   70465.739 - 6.07e-07   70665.237 +   0.0562   71838.702 +   0.0617
+HKY+F+I+G4       -34963.486   70476.972 - 2.21e-09   70673.096 -  0.00111   71840.022 -   0.0319
+GTR+F+I+G4       -34949.733   70457.465 -  3.8e-05   70660.375 +     0.64   71840.342 -   0.0272
+TIM3+F+I+G4      -34956.820   70467.639 - 2.35e-07   70667.137 -   0.0218   71840.603 -   0.0239
+K3Pu+F+I+G4      -34961.303   70474.606 - 7.21e-09   70672.412 -  0.00156   71842.613 -  0.00873
+TPM2+F+I+G4      -34961.854   70475.708 - 4.16e-09   70673.514 - 0.000897   71843.715 -  0.00503
+TPM2u+F+I+G4     -34961.854   70475.708 - 4.16e-09   70673.514 - 0.000897   71843.715 -  0.00503
+TVM+F+I+G4       -34955.683   70467.365 - 2.69e-07   70668.564 -   0.0107   71845.285 -   0.0023
+TPM3u+F+I+G4     -34963.398   70478.796 - 8.88e-10   70676.602 - 0.000191   71846.803 -  0.00108
+TPM3+F+I+G4      -34963.398   70478.796 - 8.88e-10   70676.602 - 0.000191   71846.803 -  0.00108
+GTR+F+R9         -34929.379   70444.757 -   0.0219   70672.646 -  0.00138   71897.025 - 1.34e-14
+GTR+F+R10        -34923.578   70437.156 +    0.978   70668.774 -   0.0096   71899.336 - 4.21e-15
+GTR+F+R8         -34942.599   70467.199 - 2.93e-07   70691.399 - 1.17e-07   71909.553 - 2.54e-17
+GTR+F+R7         -34956.877   70491.754 - 1.36e-12   70712.307 - 3.38e-12   71924.196 - 1.68e-20
+GTR+F+R6         -34979.838   70533.675 - 1.08e-21   70750.620 - 1.62e-20   71956.204 - 1.89e-27
+GTR+F+G4         -35024.098   70604.197 - 5.22e-37   70805.395 - 2.07e-32   71982.116 - 4.45e-33
+GTR+F+R5         -35013.978   70597.957 - 1.18e-35   70811.334 - 1.06e-33   72010.572 - 2.95e-39
+GTR+F+R4         -35089.087   70744.174 -  2.1e-67   70954.023 -  1.1e-64   72146.876 - 7.43e-69
+GTR+F+R3         -35234.422   71030.844 - 1.18e-129   71237.204 - 3.54e-126   72423.634 - 5.95e-129
+SYM+I+G4         -35482.509   71517.018 - 3.17e-235   71714.824 - 6.84e-230   72885.025 - 3.84e-229
+TIM2e+I+G4       -35497.686   71543.371 - 6.01e-241   71737.823 - 6.93e-235   72901.465 - 1.03e-232
+GTR+F+R2         -35691.331   71940.662 -        0   72143.571 - 5.43e-323   73323.538 - 4.94e-324
+TIMe+I+G4        -35771.016   72090.032 -        0   72284.483 -        0   73448.125 -        0
+TNe+I+G4         -35813.845   72173.690 -        0   72366.478 -        0   73526.826 -        0
+TIM3e+I+G4       -35813.298   72174.596 -        0   72369.047 -        0   73532.689 -        0
+TVMe+I+G4        -35997.923   72545.846 -        0   72741.970 -        0   73908.896 -        0
+K3P+I+G4         -36343.511   73233.022 -        0   73425.811 -        0   74586.159 -        0
+K2P+I+G4         -36389.560   73323.121 -        0   73514.256 -        0   74671.301 -        0
+GTR+F+I          -36585.243   73726.486 -        0   73927.684 -        0   75104.406 -        0
+GTR+F            -38871.587   78297.175 -        0   78496.672 -        0   79670.138 -        0
+F81+F+I+G4       -39387.776   79323.551 -        0   79518.003 -        0   80681.645 -        0
+JC+I+G4          -39760.883   80063.767 -        0   80253.258 -        0   81406.991 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TN+F+I+G4
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 14.5363
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 12.3073
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3527
+  pi(C) = 0.2946
+  pi(G) = 0.0798
+  pi(T) = 0.2729
+
+Rate matrix Q:
+
+  A   -0.5254    0.0896    0.3528     0.083
+  C    0.1073    -1.153   0.02427     1.021
+  G     1.559    0.0896    -1.732     0.083
+  T    0.1073     1.103   0.02427    -1.234
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.2172
+Gamma shape alpha: 0.9878
+
+ Category  Relative_rate  Proportion
+  0         0              0.2172
+  1         0.1718         0.1957
+  2         0.6043         0.1957
+  3         1.275          0.1957
+  4         3.059          0.1957
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -34952.8819 (s.e. 844.9077)
+Unconstrained log-likelihood (without tree): -6311.6047
+Number of free parameters (#branches + #model parameters): 276
+Akaike information criterion (AIC) score: 70457.7637
+Corrected Akaike information criterion (AICc) score: 70655.5697
+Bayesian information criterion (BIC) score: 71825.7703
+
+Total tree length (sum of branch lengths): 12.7791
+Sum of internal branch lengths: 6.1636 (48.2316% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0010) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Alouatta_belzebul' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Alouatta_belzebul
+|
+|              +--Alouatta_caraya
+|           +--| (73)
+|           |  |  +--Alouatta_macconnelli
+|           |  +--| (100)
+|           |     +--Alouatta_nigerrima
+|        +--| (67)
+|        |  |  +**Alouatta_juara
+|        |  +--| (100)
+|        |     +--Alouatta_seniculus
+|     +--| (98)
+|     |  +--Alouatta_puruensis
+|  +--| (63)
+|  |  |  +--Alouatta_palliata
+|  |  +--| (97)
+|  |     |                    +--Aotus_azarae
+|  |     |                 +--| (96)
+|  |     |                 |  |  +**Aotus_trivirgatus
+|  |     |                 |  +--| (100)
+|  |     |                 |     +**Aotus_vociferans
+|  |     |              +--| (100)
+|  |     |              |  |  +--Aotus_lemurinus
+|  |     |              |  +--| (90)
+|  |     |              |     +--Aotus_nancymaae
+|  |     |           +--| (99)
+|  |     |           |  |        +--Cebus_albifrons
+|  |     |           |  |     +--| (100)
+|  |     |           |  |     |  |        +**Cebus_castaneus
+|  |     |           |  |     |  |     +--| (100)
+|  |     |           |  |     |  |     |  +--Cebus_olivaceus
+|  |     |           |  |     |  |  +--| (100)
+|  |     |           |  |     |  |  |  +--Cebus_kaapori
+|  |     |           |  |     |  +--| (100)
+|  |     |           |  |     |     |  +--Cebus_imitator
+|  |     |           |  |     |     +--| (71)
+|  |     |           |  |     |        +--Cebus_unicolor
+|  |     |           |  |  +--| (100)
+|  |     |           |  |  |  |           +--Sapajus_apella
+|  |     |           |  |  |  |        +--| (93)
+|  |     |           |  |  |  |        |  |  +--Sapajus_macrocephalus
+|  |     |           |  |  |  |        |  +**| (37)
+|  |     |           |  |  |  |        |     |  +**Sapajus_cay
+|  |     |           |  |  |  |        |     +**| (37)
+|  |     |           |  |  |  |        |        |  +--Sapajus_libidinosus
+|  |     |           |  |  |  |        |        +--| (99)
+|  |     |           |  |  |  |        |           +**Sapajus_robustus
+|  |     |           |  |  |  |     +--| (100)
+|  |     |           |  |  |  |     |  +--Sapajus_flavius
+|  |     |           |  |  |  |  +--| (100)
+|  |     |           |  |  |  |  |  +--Sapajus_nigritus
+|  |     |           |  |  |  +--| (100)
+|  |     |           |  |  |     +--Sapajus_xanthosternos
+|  |     |           |  +--| (98)
+|  |     |           |     |     +--Saimiri_boliviensis
+|  |     |           |     +-----| (100)
+|  |     |           |           |           +--Saimiri_cassiquiarensis
+|  |     |           |           |        +--| (98)
+|  |     |           |           |        |  +--Saimiri_macrodon
+|  |     |           |           |     +--| (98)
+|  |     |           |           |     |  +--Saimiri_ustus
+|  |     |           |           |  +--| (60)
+|  |     |           |           |  |  +--Saimiri_sciureus
+|  |     |           |           +--| (56)
+|  |     |           |              +--Saimiri_oerstedii
+|  |     |        +--| (97)
+|  |     |        |  |        +--Callimico_goeldii
+|  |     |        |  |     +--| (59)
+|  |     |        |  |     |  |     +--Leontopithecus_chrysopygus
+|  |     |        |  |     |  +-----| (100)
+|  |     |        |  |     |        +--Leontopithecus_rosalia
+|  |     |        |  |  +--| (98)
+|  |     |        |  |  |  |     +--Callithrix_aurita
+|  |     |        |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |  |     +--Callithrix_geoffroyi
+|  |     |        |  |  |  |  |  |  +--| (67)
+|  |     |        |  |  |  |  |  |  |  |  +--Callithrix_jacchus
+|  |     |        |  |  |  |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |  |  |     +--Callithrix_penicillata
+|  |     |        |  |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |     +--Callithrix_kuhlii
+|  |     |        |  |  |  +--| (100)
+|  |     |        |  |  |     |     +--Cebuella_niveiventris
+|  |     |        |  |  |     |  +--| (100)
+|  |     |        |  |  |     |  |  +--Cebuella_pygmaea
+|  |     |        |  |  |     +--| (98)
+|  |     |        |  |  |        |     +--Mico_argentatus
+|  |     |        |  |  |        |  +--| (100)
+|  |     |        |  |  |        |  |  +--Mico_humeralifer
+|  |     |        |  |  |        +--| (94)
+|  |     |        |  |  |           +--Callibella_humilis
+|  |     |        |  +--| (100)
+|  |     |        |     |         +--Leontocebus_fuscicollis
+|  |     |        |     |      +--| (100)
+|  |     |        |     |      |  +--Leontocebus_nigricollis
+|  |     |        |     |  +---| (100)
+|  |     |        |     |  |   +--Leontocebus_weddelli
+|  |     |        |     +--| (100)
+|  |     |        |        |        +--Saguinus_bicolor
+|  |     |        |        |     +--| (100)
+|  |     |        |        |     |  +--Saguinus_midas
+|  |     |        |        |  +--| (100)
+|  |     |        |        |  |  |  +--Oedipomidas_geoffroyi
+|  |     |        |        |  |  +--| (100)
+|  |     |        |        |  |     +--Oedipomidas_oedipus
+|  |     |        |        +--| (92)
+|  |     |        |           |  +--Tamarinus_inustus
+|  |     |        |           +--| (100)
+|  |     |        |              |  +--Tamarinus_labiatus
+|  |     |        |              +--| (100)
+|  |     |        |                 +--Tamarinus_mystax
+|  |     |     +--| (97)
+|  |     |     |  |                      +---Allenopithecus_nigroviridis
+|  |     |     |  |                   +--| (100)
+|  |     |     |  |                   |  |     +--Allochrocebus_lhoesti
+|  |     |     |  |                   |  |  +--| (42)
+|  |     |     |  |                   |  |  |  +---Erythrocebus_patas
+|  |     |     |  |                   |  +--| (97)
+|  |     |     |  |                   |     |  +--Cercopithecus
+|  |     |     |  |                   |     +--| (45)
+|  |     |     |  |                   |        +--Chlorocebus_aethiops
+|  |     |     |  |                +--| (100)
+|  |     |     |  |                |  |        +--Cercocebus_chrysogaster
+|  |     |     |  |                |  |     +--| (100)
+|  |     |     |  |                |  |     |  +--Mandrillus_leucophaeus
+|  |     |     |  |                |  |  +--| (100)
+|  |     |     |  |                |  |  |  +--Macaca_mulatta
+|  |     |     |  |                |  +--| (98)
+|  |     |     |  |                |     |     +--Lophocebus_aterrimus
+|  |     |     |  |                |     |  +--| (100)
+|  |     |     |  |                |     |  |  +--Papio_anubis
+|  |     |     |  |                |     +--| (100)
+|  |     |     |  |                |        +--Theropithecus_gelada
+|  |     |     |  |             +--| (100)
+|  |     |     |  |             |  |     +---Colobus_guereza
+|  |     |     |  |             |  |  +--| (100)
+|  |     |     |  |             |  |  |  +---Piliocolobus_badius
+|  |     |     |  |             |  +--| (100)
+|  |     |     |  |             |     |           +--Nasalis_larvatus
+|  |     |     |  |             |     |        +--| (100)
+|  |     |     |  |             |     |        |  +--Simias_concolor
+|  |     |     |  |             |     |     +--| (97)
+|  |     |     |  |             |     |     |  +--Pygathrix_nemaeus
+|  |     |     |  |             |     |  +--| (98)
+|  |     |     |  |             |     |  |  +--Rhinopithecus_brelichi
+|  |     |     |  |             |     +--| (100)
+|  |     |     |  |             |        |     +---Presbytis
+|  |     |     |  |             |        |  +--| (99)
+|  |     |     |  |             |        |  |  +---Trachypithecus
+|  |     |     |  |             |        +--| (96)
+|  |     |     |  |             |           +--Semnopithecus_entellus
+|  |     |     |  |          +--| (98)
+|  |     |     |  |          |  |        +--Gorilla_gorilla
+|  |     |     |  |          |  |     +--| (100)
+|  |     |     |  |          |  |     |  |  +--Homo_sapiens
+|  |     |     |  |          |  |     |  +--| (100)
+|  |     |     |  |          |  |     |     +--Pan_troglodytes
+|  |     |     |  |          |  |  +--| (99)
+|  |     |     |  |          |  |  |  +---Pongo_pygmaeus
+|  |     |     |  |          |  +--| (100)
+|  |     |     |  |          |     |     +--Hoolock_hoolock
+|  |     |     |  |          |     |  +--| (88)
+|  |     |     |  |          |     |  |  |  +--Hylobates_lar
+|  |     |     |  |          |     |  |  +--| (83)
+|  |     |     |  |          |     |  |     +--Symphalangus_syndactylus
+|  |     |     |  |          |     +--| (100)
+|  |     |     |  |          |        +--Nomascus
+|  |     |     |  +----------| (100)
+|  |     |     |             |                              +----Carlito_syrichta
+|  |     |     |             |                           +--| (100)
+|  |     |     |             |                           |  +--Cephalopachus_bancanus
+|  |     |     |             |            +--------------| (100)
+|  |     |     |             |            |              +-------Tarsius
+|  |     |     |             +------------| (100)
+|  |     |     |                          |        +------------------Daubentonia_madagascariensis
+|  |     |     |                          |     +--| (55)
+|  |     |     |                          |     |  |        +----------Loris_tardigradus
+|  |     |     |                          |     |  +--------| (100)
+|  |     |     |                          |     |           +---------Otolemur
+|  |     |     |                          +-----| (99)
+|  |     |     |                                |        +----Eulemur
+|  |     |     |                                |     +--| (100)
+|  |     |     |                                |     |  +----Varecia_variegata
+|  |     |     |                                +-----| (100)
+|  |     |     |                                      |     +-------Lepilemur
+|  |     |     |                                      |  +--| (93)
+|  |     |     |                                      |  |  +----------Microcebus_murinus
+|  |     |     |                                      +--| (73)
+|  |     |     |                                         |     +--Procolobus_verus
+|  |     |     |                                         +-----| (100)
+|  |     |     |                                               +--Propithecus_tattersalli
+|  |     |  +--| (100)
+|  |     |  |  |                 +**Cacajao_ayresi
+|  |     |  |  |              +--| (100)
+|  |     |  |  |              |  +**Cacajao_hosomi
+|  |     |  |  |           +--| (100)
+|  |     |  |  |           |  +--Cacajao_melanocephalus
+|  |     |  |  |        +--| (100)
+|  |     |  |  |        |  |  +--Cacajao_calvus
+|  |     |  |  |        |  +--| (100)
+|  |     |  |  |        |     |     +**Cacajao_novaesi
+|  |     |  |  |        |     |  +--| (100)
+|  |     |  |  |        |     |  |  +**Cacajao_rubicundus
+|  |     |  |  |        |     +--| (100)
+|  |     |  |  |        |        +--Cacajao_ucayalii
+|  |     |  |  |     +--| (100)
+|  |     |  |  |     |  |  +--Chiropotes_albinasus
+|  |     |  |  |     |  +--| (100)
+|  |     |  |  |     |     |  +--Chiropotes_chiropotes
+|  |     |  |  |     |     +--| (100)
+|  |     |  |  |     |        +--Chiropotes_sagulatus
+|  |     |  |  |  +--| (100)
+|  |     |  |  |  |  |     +--Pithecia_albicans
+|  |     |  |  |  |  |  +--| (98)
+|  |     |  |  |  |  |  |  |     +--Pithecia_hirsuta
+|  |     |  |  |  |  |  |  |  +--| (100)
+|  |     |  |  |  |  |  |  |  |  +--Pithecia_vanzolinii
+|  |     |  |  |  |  |  |  +--| (100)
+|  |     |  |  |  |  |  |     |  +**Pithecia_mittermeieri
+|  |     |  |  |  |  |  |     +--| (100)
+|  |     |  |  |  |  |  |        +**Pithecia_pissinattii
+|  |     |  |  |  |  +--| (100)
+|  |     |  |  |  |     +--Pithecia_chrysocephala
+|  |     |  |  +--| (100)
+|  |     |  |     |        +--Cheracebus_lucifer
+|  |     |  |     |     +--| (98)
+|  |     |  |     |     |  |  +--Cheracebus_regulus
+|  |     |  |     |     |  +--| (100)
+|  |     |  |     |     |     +--Cheracebus_torquatus
+|  |     |  |     |  +--| (100)
+|  |     |  |     |  |  |  +--Cheracebus_lugens
+|  |     |  |     |  |  +--| (100)
+|  |     |  |     |  |     +--Xenothrix_mcgregori
+|  |     |  |     +--| (100)
+|  |     |  |        |              +--Plecturocebus_bernhardi
+|  |     |  |        |           +--| (99)
+|  |     |  |        |           |  |  +--Plecturocebus_grovesi
+|  |     |  |        |           |  +--| (95)
+|  |     |  |        |           |     +--Plecturocebus_moloch
+|  |     |  |        |        +--| (97)
+|  |     |  |        |        |  |  +--Plecturocebus_cinerascens
+|  |     |  |        |        |  +--| (100)
+|  |     |  |        |        |     +--Plecturocebus_miltoni
+|  |     |  |        |     +--| (96)
+|  |     |  |        |     |  |     +--Plecturocebus_brunneus
+|  |     |  |        |     |  |  +--| (61)
+|  |     |  |        |     |  |  |  |  +**Plecturocebus_caligatus
+|  |     |  |        |     |  |  |  +--| (100)
+|  |     |  |        |     |  |  |     +**Plecturocebus_dubius
+|  |     |  |        |     |  +--| (100)
+|  |     |  |        |     |     +--Plecturocebus_cupreus
+|  |     |  |        |  +--| (100)
+|  |     |  |        |  |  +--Plecturocebus_hoffmannsi
+|  |     |  |        +--| (100)
+|  |     |  |           +--Plecturocebus_donacophilus
+|  |     +--| (100)
+|  |        |        +--Ateles_belzebuth
+|  |        |     +--| (99)
+|  |        |     |  |  +**Ateles_chamek
+|  |        |     |  +--| (100)
+|  |        |     |     +**Ateles_marginatus
+|  |        |  +--| (100)
+|  |        |  |  |  +--Ateles_geoffroyi
+|  |        |  |  +--| (99)
+|  |        |  |     +--Ateles_paniscus
+|  |        +--| (100)
+|  |           +--Lagothrix_lagotricha
++--| (100)
+|  +--Alouatta_guariba
+|
++--Alouatta_discolor
+
+Tree in newick format:
+
+(Alouatta_belzebul:0.0046044041,(((((Alouatta_caraya:0.0286521284,(Alouatta_macconnelli:0.0029110973,Alouatta_nigerrima:0.0045539023)100:0.0274769244)73:0.0040115509,(Alouatta_juara:0.0007529138,Alouatta_seniculus:0.0029389513)100:0.0245669007)67:0.0012012877,Alouatta_puruensis:0.0226133957)98:0.0131725481,(Alouatta_palliata:0.0438094566,(((((((Aotus_azarae:0.0414560761,(Aotus_trivirgatus:0.0000010000,Aotus_vociferans:0.0009236402)100:0.0284890680)96:0.0056961091,(Aotus_lemurinus:0.0409193010,Aotus_nancymaae:0.0449411924)90:0.0041634981)100:0.0817397825,(((Cebus_albifrons:0.0174447112,(((Cebus_castaneus:0.0008652282,Cebus_olivaceus:0.0027538593)100:0.0065879379,Cebus_kaapori:0.0093604862)100:0.0094742884,(Cebus_imitator:0.0204321637,Cebus_unicolor:0.0169391869)71:0.0027780698)100:0.0145237596)100:0.0440554714,((((Sapajus_apella:0.0037436874,(Sapajus_macrocephalus:0.0018602533,(Sapajus_cay:0.0009278200,(Sapajus_libidinosus:0.0018638414,Sapajus_robustus:0.0009297756)99:0.0028017841)37:0.0000010000)37:0.0000010000)93:0.0018155028,Sapajus_flavius:0.0009807358)100:0.0209844015,Sapajus_nigritus:0.0211137621)100:0.0037636440,Sapajus_xanthosternos:0.0182643681)100:0.0303243553)100:0.1112488652,(Saimiri_boliviensis:0.0143844423,((((Saimiri_cassiquiarensis:0.0085503186,Saimiri_macrodon:0.0046638877)98:0.0079437998,Saimiri_ustus:0.0135372875)98:0.0080724513,Saimiri_sciureus:0.0121890826)60:0.0027102869,Saimiri_oerstedii:0.0172876378)56:0.0056980070)100:0.1997147266)98:0.0162835362)99:0.0206454184,(((Callimico_goeldii:0.1107981454,(Leontopithecus_chrysopygus:0.0209980984,Leontopithecus_rosalia:0.0134583363)100:0.1909686856)59:0.0204150296,((Callithrix_aurita:0.0400677886,((Callithrix_geoffroyi:0.0087896442,(Callithrix_jacchus:0.0037580466,Callithrix_penicillata:0.0019078280)100:0.0035948788)67:0.0011512577,Callithrix_kuhlii:0.0050467942)100:0.0262614812)100:0.0266023733,((Cebuella_niveiventris:0.0277989788,Cebuella_pygmaea:0.0322936431)100:0.0223481927,((Mico_argentatus:0.0103882409,Mico_humeralifer:0.0120616368)100:0.0273125653,Callibella_humilis:0.0273937091)94:0.0118808477)98:0.0104463078)100:0.0563590149)98:0.0176651108,(((Leontocebus_fuscicollis:0.0106392599,Leontocebus_nigricollis:0.0157178060)100:0.0188832476,Leontocebus_weddelli:0.0273734953)100:0.1146887965,(((Saguinus_bicolor:0.0557614547,Saguinus_midas:0.0345567595)100:0.0511229641,(Oedipomidas_geoffroyi:0.0150645143,Oedipomidas_oedipus:0.0121449904)100:0.0764856936)100:0.0301031541,(Tamarinus_inustus:0.0310094998,(Tamarinus_labiatus:0.0241825956,Tamarinus_mystax:0.0186207442)100:0.0146746680)100:0.0645562513)92:0.0125170036)100:0.0565743113)100:0.0476690822)97:0.0104091782,(((((Allenopithecus_nigroviridis:0.1347980788,((Allochrocebus_lhoesti:0.0844994439,Erythrocebus_patas:0.1426199071)42:0.0105536707,(Cercopithecus:0.0829274081,Chlorocebus_aethiops:0.0837005321)45:0.0179461255)97:0.0287134137)100:0.0200100881,(((Cercocebus_chrysogaster:0.0366507568,Mandrillus_leucophaeus:0.0232772821)100:0.0902431475,Macaca_mulatta:0.1043524153)100:0.0220643446,((Lophocebus_aterrimus:0.0853454465,Papio_anubis:0.0619385401)100:0.0108340522,Theropithecus_gelada:0.0517303773)100:0.0514874809)98:0.0212030450)100:0.0839710178,((Colobus_guereza:0.1299764643,Piliocolobus_badius:0.1273958524)100:0.0659044591,((((Nasalis_larvatus:0.0400154922,Simias_concolor:0.0259052919)100:0.0555432672,Pygathrix_nemaeus:0.1082779763)97:0.0085915236,Rhinopithecus_brelichi:0.1062079701)98:0.0183127065,((Presbytis:0.1261443420,Trachypithecus:0.1275661866)99:0.0262253119,Semnopithecus_entellus:0.0911430898)96:0.0182982349)100:0.0399855054)100:0.0630721094)100:0.1135509299,(((Gorilla_gorilla:0.0865523760,(Homo_sapiens:0.0623848732,Pan_troglodytes:0.0463846074)100:0.0128677938)100:0.0685778247,Pongo_pygmaeus:0.1285098124)99:0.0290628838,((Hoolock_hoolock:0.0456899066,(Hylobates_lar:0.0757217404,Symphalangus_syndactylus:0.0424917987)83:0.0088010647)88:0.0087317661,Nomascus:0.0794245583)100:0.0884300723)100:0.0632248653)98:0.0972146801,(((Carlito_syrichta:0.1587257140,Cephalopachus_bancanus:0.1036494838)100:0.0779869093,Tarsius:0.2482878264)100:0.4540431190,((Daubentonia_madagascariensis:0.5700528549,(Loris_tardigradus:0.3298074794,Otolemur:0.2927788871)100:0.2655329185)55:0.0531202073,((Eulemur:0.1612014323,Varecia_variegata:0.1505247053)100:0.0958441597,((Lepilemur:0.2394464692,Microcebus_murinus:0.3272044143)93:0.0508782785,(Procolobus_verus:0.0122896659,Propithecus_tattersalli:0.0013295036)100:0.1890047582)73:0.0420790081)100:0.1793338279)99:0.1864555227)100:0.3915713859)100:0.3326208800)97:0.0116859982,((((((Cacajao_ayresi:0.0009129830,Cacajao_hosomi:0.0000010000)100:0.0095830087,Cacajao_melanocephalus:0.0073706573)100:0.0250546621,(Cacajao_calvus:0.0141520945,((Cacajao_novaesi:0.0009130830,Cacajao_rubicundus:0.0009125362)100:0.0018800148,Cacajao_ucayalii:0.0036524768)100:0.0029754962)100:0.0232739211)100:0.0346029385,(Chiropotes_albinasus:0.0422345887,(Chiropotes_chiropotes:0.0067148138,Chiropotes_sagulatus:0.0024717813)100:0.0294475879)100:0.0649612706)100:0.0415562939,((Pithecia_albicans:0.0107555770,((Pithecia_hirsuta:0.0039472742,Pithecia_vanzolinii:0.0029992894)100:0.0046866181,(Pithecia_mittermeieri:0.0000010000,Pithecia_pissinattii:0.0009310747)100:0.0076367381)100:0.0109899455)98:0.0095508661,Pithecia_chrysocephala:0.0229045559)100:0.0543494152)100:0.0601536732,(((Cheracebus_lucifer:0.0213802674,(Cheracebus_regulus:0.0141246060,Cheracebus_torquatus:0.0131220030)100:0.0133060737)98:0.0048237199,(Cheracebus_lugens:0.0033925118,Xenothrix_mcgregori:0.0183075634)100:0.0278031047)100:0.0947994030,(((((Plecturocebus_bernhardi:0.0242847709,(Plecturocebus_grovesi:0.0118163668,Plecturocebus_moloch:0.0095452711)95:0.0023916181)99:0.0101744787,(Plecturocebus_cinerascens:0.0118158024,Plecturocebus_miltoni:0.0058387517)100:0.0217797393)97:0.0023682047,((Plecturocebus_brunneus:0.0165702592,(Plecturocebus_caligatus:0.0008905272,Plecturocebus_dubius:0.0000010000)100:0.0079345805)61:0.0028258889,Plecturocebus_cupreus:0.0352975115)100:0.0104352155)96:0.0141732488,Plecturocebus_hoffmannsi:0.0300845108)100:0.0489223008,Plecturocebus_donacophilus:0.0619661674)100:0.0555485053)100:0.0898718269)100:0.0303725071)100:0.0273559997,(((Ateles_belzebuth:0.0103338156,(Ateles_chamek:0.0000010000,Ateles_marginatus:0.0009184086)100:0.0087382059)99:0.0035172331,(Ateles_geoffroyi:0.0308801763,Ateles_paniscus:0.0313602004)99:0.0117101871)100:0.1033605211,Lagothrix_lagotricha:0.1012342828)100:0.0469821501)100:0.0634410432)97:0.0185988565)63:0.0086205750,Alouatta_guariba:0.0337616508)100:0.0291743651,Alouatta_discolor:0.0214073835);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -34952.924178
+Robinson-Foulds distance between ML tree and consensus tree: 4
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Alouatta_belzebul
+|
+|              +--Alouatta_caraya
+|           +--| (73)
+|           |  |  +--Alouatta_macconnelli
+|           |  +--| (100)
+|           |     +--Alouatta_nigerrima
+|        +--| (67)
+|        |  |  +--Alouatta_juara
+|        |  +--| (100)
+|        |     +--Alouatta_seniculus
+|     +--| (98)
+|     |  +--Alouatta_puruensis
+|  +--| (63)
+|  |  |  +--Alouatta_palliata
+|  |  +--| (97)
+|  |     |                    +--Aotus_azarae
+|  |     |                 +--| (96)
+|  |     |                 |  |  +--Aotus_trivirgatus
+|  |     |                 |  +--| (100)
+|  |     |                 |     +--Aotus_vociferans
+|  |     |              +--| (100)
+|  |     |              |  |  +--Aotus_lemurinus
+|  |     |              |  +--| (90)
+|  |     |              |     +--Aotus_nancymaae
+|  |     |           +--| (99)
+|  |     |           |  |        +--Cebus_albifrons
+|  |     |           |  |     +--| (100)
+|  |     |           |  |     |  |        +--Cebus_castaneus
+|  |     |           |  |     |  |     +--| (100)
+|  |     |           |  |     |  |     |  +--Cebus_olivaceus
+|  |     |           |  |     |  |  +--| (100)
+|  |     |           |  |     |  |  |  +--Cebus_kaapori
+|  |     |           |  |     |  +--| (100)
+|  |     |           |  |     |     |  +--Cebus_imitator
+|  |     |           |  |     |     +--| (71)
+|  |     |           |  |     |        +--Cebus_unicolor
+|  |     |           |  |  +--| (100)
+|  |     |           |  |  |  |           +--Sapajus_apella
+|  |     |           |  |  |  |        +--| (93)
+|  |     |           |  |  |  |        |  |  +--Sapajus_macrocephalus
+|  |     |           |  |  |  |        |  +--| (37)
+|  |     |           |  |  |  |        |     |  +--Sapajus_cay
+|  |     |           |  |  |  |        |     +--| (37)
+|  |     |           |  |  |  |        |        |  +--Sapajus_libidinosus
+|  |     |           |  |  |  |        |        +--| (99)
+|  |     |           |  |  |  |        |           +--Sapajus_robustus
+|  |     |           |  |  |  |     +--| (100)
+|  |     |           |  |  |  |     |  +--Sapajus_flavius
+|  |     |           |  |  |  |  +--| (100)
+|  |     |           |  |  |  |  |  +--Sapajus_nigritus
+|  |     |           |  |  |  +--| (100)
+|  |     |           |  |  |     +--Sapajus_xanthosternos
+|  |     |           |  +--| (98)
+|  |     |           |     |     +--Saimiri_boliviensis
+|  |     |           |     +-----| (100)
+|  |     |           |           |           +--Saimiri_cassiquiarensis
+|  |     |           |           |        +--| (98)
+|  |     |           |           |        |  +--Saimiri_macrodon
+|  |     |           |           |     +--| (98)
+|  |     |           |           |     |  +--Saimiri_ustus
+|  |     |           |           |  +--| (60)
+|  |     |           |           |  |  +--Saimiri_sciureus
+|  |     |           |           +--| (56)
+|  |     |           |              +--Saimiri_oerstedii
+|  |     |        +--| (97)
+|  |     |        |  |        +--Callimico_goeldii
+|  |     |        |  |     +--| (59)
+|  |     |        |  |     |  |     +--Leontopithecus_chrysopygus
+|  |     |        |  |     |  +-----| (100)
+|  |     |        |  |     |        +--Leontopithecus_rosalia
+|  |     |        |  |  +--| (98)
+|  |     |        |  |  |  |     +--Callithrix_aurita
+|  |     |        |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |  |     +--Callithrix_geoffroyi
+|  |     |        |  |  |  |  |  |  +--| (67)
+|  |     |        |  |  |  |  |  |  |  |  +--Callithrix_jacchus
+|  |     |        |  |  |  |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |  |  |     +--Callithrix_penicillata
+|  |     |        |  |  |  |  |  +--| (100)
+|  |     |        |  |  |  |  |     +--Callithrix_kuhlii
+|  |     |        |  |  |  +--| (100)
+|  |     |        |  |  |     |     +--Cebuella_niveiventris
+|  |     |        |  |  |     |  +--| (100)
+|  |     |        |  |  |     |  |  +--Cebuella_pygmaea
+|  |     |        |  |  |     +--| (98)
+|  |     |        |  |  |        |     +--Mico_argentatus
+|  |     |        |  |  |        |  +--| (100)
+|  |     |        |  |  |        |  |  +--Mico_humeralifer
+|  |     |        |  |  |        +--| (94)
+|  |     |        |  |  |           +--Callibella_humilis
+|  |     |        |  +--| (100)
+|  |     |        |     |         +--Leontocebus_fuscicollis
+|  |     |        |     |      +--| (100)
+|  |     |        |     |      |  +--Leontocebus_nigricollis
+|  |     |        |     |  +---| (100)
+|  |     |        |     |  |   +--Leontocebus_weddelli
+|  |     |        |     +--| (100)
+|  |     |        |        |        +--Saguinus_bicolor
+|  |     |        |        |     +--| (100)
+|  |     |        |        |     |  +--Saguinus_midas
+|  |     |        |        |  +--| (100)
+|  |     |        |        |  |  |  +--Oedipomidas_geoffroyi
+|  |     |        |        |  |  +--| (100)
+|  |     |        |        |  |     +--Oedipomidas_oedipus
+|  |     |        |        +--| (92)
+|  |     |        |           |  +--Tamarinus_inustus
+|  |     |        |           +--| (100)
+|  |     |        |              |  +--Tamarinus_labiatus
+|  |     |        |              +--| (100)
+|  |     |        |                 +--Tamarinus_mystax
+|  |     |     +--| (97)
+|  |     |     |  |                      +---Allenopithecus_nigroviridis
+|  |     |     |  |                   +--| (100)
+|  |     |     |  |                   |  |        +--Allochrocebus_lhoesti
+|  |     |     |  |                   |  |     +--| (56)
+|  |     |     |  |                   |  |     |  +--Cercopithecus
+|  |     |     |  |                   |  |  +--| (53)
+|  |     |     |  |                   |  |  |  +--Chlorocebus_aethiops
+|  |     |     |  |                   |  +--| (97)
+|  |     |     |  |                   |     +----Erythrocebus_patas
+|  |     |     |  |                +--| (100)
+|  |     |     |  |                |  |        +--Cercocebus_chrysogaster
+|  |     |     |  |                |  |     +--| (100)
+|  |     |     |  |                |  |     |  +--Mandrillus_leucophaeus
+|  |     |     |  |                |  |  +--| (100)
+|  |     |     |  |                |  |  |  +--Macaca_mulatta
+|  |     |     |  |                |  +--| (98)
+|  |     |     |  |                |     |     +--Lophocebus_aterrimus
+|  |     |     |  |                |     |  +--| (100)
+|  |     |     |  |                |     |  |  +--Papio_anubis
+|  |     |     |  |                |     +--| (100)
+|  |     |     |  |                |        +--Theropithecus_gelada
+|  |     |     |  |             +--| (100)
+|  |     |     |  |             |  |     +---Colobus_guereza
+|  |     |     |  |             |  |  +--| (100)
+|  |     |     |  |             |  |  |  +---Piliocolobus_badius
+|  |     |     |  |             |  +--| (100)
+|  |     |     |  |             |     |           +--Nasalis_larvatus
+|  |     |     |  |             |     |        +--| (100)
+|  |     |     |  |             |     |        |  +--Simias_concolor
+|  |     |     |  |             |     |     +--| (97)
+|  |     |     |  |             |     |     |  +--Pygathrix_nemaeus
+|  |     |     |  |             |     |  +--| (98)
+|  |     |     |  |             |     |  |  +--Rhinopithecus_brelichi
+|  |     |     |  |             |     +--| (100)
+|  |     |     |  |             |        |     +---Presbytis
+|  |     |     |  |             |        |  +--| (99)
+|  |     |     |  |             |        |  |  +---Trachypithecus
+|  |     |     |  |             |        +--| (96)
+|  |     |     |  |             |           +--Semnopithecus_entellus
+|  |     |     |  |          +--| (98)
+|  |     |     |  |          |  |        +--Gorilla_gorilla
+|  |     |     |  |          |  |     +--| (100)
+|  |     |     |  |          |  |     |  |  +--Homo_sapiens
+|  |     |     |  |          |  |     |  +--| (100)
+|  |     |     |  |          |  |     |     +--Pan_troglodytes
+|  |     |     |  |          |  |  +--| (99)
+|  |     |     |  |          |  |  |  +---Pongo_pygmaeus
+|  |     |     |  |          |  +--| (100)
+|  |     |     |  |          |     |     +--Hoolock_hoolock
+|  |     |     |  |          |     |  +--| (88)
+|  |     |     |  |          |     |  |  |  +--Hylobates_lar
+|  |     |     |  |          |     |  |  +--| (83)
+|  |     |     |  |          |     |  |     +--Symphalangus_syndactylus
+|  |     |     |  |          |     +--| (100)
+|  |     |     |  |          |        +--Nomascus
+|  |     |     |  +----------| (100)
+|  |     |     |             |                              +----Carlito_syrichta
+|  |     |     |             |                           +--| (100)
+|  |     |     |             |                           |  +--Cephalopachus_bancanus
+|  |     |     |             |            +--------------| (100)
+|  |     |     |             |            |              +-------Tarsius
+|  |     |     |             +------------| (100)
+|  |     |     |                          |        +------------------Daubentonia_madagascariensis
+|  |     |     |                          |     +--| (55)
+|  |     |     |                          |     |  |        +----------Loris_tardigradus
+|  |     |     |                          |     |  +--------| (100)
+|  |     |     |                          |     |           +---------Otolemur
+|  |     |     |                          +-----| (99)
+|  |     |     |                                |        +----Eulemur
+|  |     |     |                                |     +--| (100)
+|  |     |     |                                |     |  +----Varecia_variegata
+|  |     |     |                                +-----| (100)
+|  |     |     |                                      |     +-------Lepilemur
+|  |     |     |                                      |  +--| (93)
+|  |     |     |                                      |  |  +----------Microcebus_murinus
+|  |     |     |                                      +--| (73)
+|  |     |     |                                         |     +--Procolobus_verus
+|  |     |     |                                         +-----| (100)
+|  |     |     |                                               +--Propithecus_tattersalli
+|  |     |  +--| (100)
+|  |     |  |  |                 +--Cacajao_ayresi
+|  |     |  |  |              +--| (100)
+|  |     |  |  |              |  +--Cacajao_hosomi
+|  |     |  |  |           +--| (100)
+|  |     |  |  |           |  +--Cacajao_melanocephalus
+|  |     |  |  |        +--| (100)
+|  |     |  |  |        |  |  +--Cacajao_calvus
+|  |     |  |  |        |  +--| (100)
+|  |     |  |  |        |     |     +--Cacajao_novaesi
+|  |     |  |  |        |     |  +--| (100)
+|  |     |  |  |        |     |  |  +--Cacajao_rubicundus
+|  |     |  |  |        |     +--| (100)
+|  |     |  |  |        |        +--Cacajao_ucayalii
+|  |     |  |  |     +--| (100)
+|  |     |  |  |     |  |  +--Chiropotes_albinasus
+|  |     |  |  |     |  +--| (100)
+|  |     |  |  |     |     |  +--Chiropotes_chiropotes
+|  |     |  |  |     |     +--| (100)
+|  |     |  |  |     |        +--Chiropotes_sagulatus
+|  |     |  |  |  +--| (100)
+|  |     |  |  |  |  |     +--Pithecia_albicans
+|  |     |  |  |  |  |  +--| (98)
+|  |     |  |  |  |  |  |  |     +--Pithecia_hirsuta
+|  |     |  |  |  |  |  |  |  +--| (100)
+|  |     |  |  |  |  |  |  |  |  +--Pithecia_vanzolinii
+|  |     |  |  |  |  |  |  +--| (100)
+|  |     |  |  |  |  |  |     |  +--Pithecia_mittermeieri
+|  |     |  |  |  |  |  |     +--| (100)
+|  |     |  |  |  |  |  |        +--Pithecia_pissinattii
+|  |     |  |  |  |  +--| (100)
+|  |     |  |  |  |     +--Pithecia_chrysocephala
+|  |     |  |  +--| (100)
+|  |     |  |     |        +--Cheracebus_lucifer
+|  |     |  |     |     +--| (98)
+|  |     |  |     |     |  |  +--Cheracebus_regulus
+|  |     |  |     |     |  +--| (100)
+|  |     |  |     |     |     +--Cheracebus_torquatus
+|  |     |  |     |  +--| (100)
+|  |     |  |     |  |  |  +--Cheracebus_lugens
+|  |     |  |     |  |  +--| (100)
+|  |     |  |     |  |     +--Xenothrix_mcgregori
+|  |     |  |     +--| (100)
+|  |     |  |        |              +--Plecturocebus_bernhardi
+|  |     |  |        |           +--| (99)
+|  |     |  |        |           |  |  +--Plecturocebus_grovesi
+|  |     |  |        |           |  +--| (95)
+|  |     |  |        |           |     +--Plecturocebus_moloch
+|  |     |  |        |        +--| (97)
+|  |     |  |        |        |  |  +--Plecturocebus_cinerascens
+|  |     |  |        |        |  +--| (100)
+|  |     |  |        |        |     +--Plecturocebus_miltoni
+|  |     |  |        |     +--| (96)
+|  |     |  |        |     |  |     +--Plecturocebus_brunneus
+|  |     |  |        |     |  |  +--| (61)
+|  |     |  |        |     |  |  |  |  +--Plecturocebus_caligatus
+|  |     |  |        |     |  |  |  +--| (100)
+|  |     |  |        |     |  |  |     +--Plecturocebus_dubius
+|  |     |  |        |     |  +--| (100)
+|  |     |  |        |     |     +--Plecturocebus_cupreus
+|  |     |  |        |  +--| (100)
+|  |     |  |        |  |  +--Plecturocebus_hoffmannsi
+|  |     |  |        +--| (100)
+|  |     |  |           +--Plecturocebus_donacophilus
+|  |     +--| (100)
+|  |        |        +--Ateles_belzebuth
+|  |        |     +--| (99)
+|  |        |     |  |  +--Ateles_chamek
+|  |        |     |  +--| (100)
+|  |        |     |     +--Ateles_marginatus
+|  |        |  +--| (100)
+|  |        |  |  |  +--Ateles_geoffroyi
+|  |        |  |  +--| (99)
+|  |        |  |     +--Ateles_paniscus
+|  |        +--| (100)
+|  |           +--Lagothrix_lagotricha
++--| (100)
+|  +--Alouatta_guariba
+|
++--Alouatta_discolor
+
+
+Consensus tree in newick format: 
+
+(Alouatta_belzebul:0.0045973707,(((((Alouatta_caraya:0.0286353634,(Alouatta_macconnelli:0.0029107709,Alouatta_nigerrima:0.0045454567)100:0.0274586543)73:0.0039856844,(Alouatta_juara:0.0007524992,Alouatta_seniculus:0.0029357889)100:0.0245439464)67:0.0012007523,Alouatta_puruensis:0.0225899752)98:0.0131560862,(Alouatta_palliata:0.0437552725,(((((((Aotus_azarae:0.0414035764,(Aotus_trivirgatus:0.0000028607,Aotus_vociferans:0.0009218590)100:0.0284417822)96:0.0057115563,(Aotus_lemurinus:0.0408785491,Aotus_nancymaae:0.0448743606)90:0.0041520581)100:0.0816098260,(((Cebus_albifrons:0.0174266700,(((Cebus_castaneus:0.0008640453,Cebus_olivaceus:0.0027514398)100:0.0065801885,Cebus_kaapori:0.0093507185)100:0.0094658771,(Cebus_imitator:0.0204085330,Cebus_unicolor:0.0169217059)71:0.0027729703)100:0.0145060558)100:0.0439486731,((((Sapajus_apella:0.0037401506,(Sapajus_macrocephalus:0.0018576915,(Sapajus_cay:0.0009271128,(Sapajus_libidinosus:0.0018612785,Sapajus_robustus:0.0009290724)99:0.0027996742)37:0.0000028607)37:0.0000028607)93:0.0018128209,Sapajus_flavius:0.0009804286)100:0.0209618560,Sapajus_nigritus:0.0210889406)100:0.0037578458,Sapajus_xanthosternos:0.0182422766)100:0.0303393723)100:0.1110078236,(Saimiri_boliviensis:0.0143383155,((((Saimiri_cassiquiarensis:0.0085440964,Saimiri_macrodon:0.0046599265)98:0.0079349195,Saimiri_ustus:0.0135280247)98:0.0080674803,Saimiri_sciureus:0.0121787461)60:0.0027083926,Saimiri_oerstedii:0.0172734951)56:0.0057138777)100:0.1993863508)98:0.0162684366)99:0.0206137590,(((Callimico_goeldii:0.1105277278,(Leontopithecus_chrysopygus:0.0209681281,Leontopithecus_rosalia:0.0134485562)100:0.1905723629)59:0.0204674000,((Callithrix_aurita:0.0400773277,((Callithrix_geoffroyi:0.0087922776,(Callithrix_jacchus:0.0037560195,Callithrix_penicillata:0.0019071102)100:0.0035871090)67:0.0011503750,Callithrix_kuhlii:0.0050388619)100:0.0262244166)100:0.0265182561,((Cebuella_niveiventris:0.0278219444,Cebuella_pygmaea:0.0322231672)100:0.0223175956,((Mico_argentatus:0.0103802195,Mico_humeralifer:0.0120504711)100:0.0272852298,Callibella_humilis:0.0273645372)94:0.0118602960)98:0.0104979700)100:0.0562798816)98:0.0176401023,(((Leontocebus_fuscicollis:0.0106276444,Leontocebus_nigricollis:0.0156995474)100:0.0188549034,Leontocebus_weddelli:0.0273453044)100:0.1144821639,(((Saguinus_bicolor:0.0556638544,Saguinus_midas:0.0345542073)100:0.0510250247,(Oedipomidas_geoffroyi:0.0150011393,Oedipomidas_oedipus:0.0121741875)100:0.0764048684)100:0.0300875390,(Tamarinus_inustus:0.0309455672,(Tamarinus_labiatus:0.0241472288,Tamarinus_mystax:0.0185920012)100:0.0146670066)100:0.0643743418)92:0.0125552509)100:0.0564515697)100:0.0475779656)97:0.0104015656,(((((Allenopithecus_nigroviridis:0.1344530568,(((Allochrocebus_lhoesti:0.0829385831,Cercopithecus:0.0786434950)56:0.0206014524,Chlorocebus_aethiops:0.0903121687)53:0.0022955596,Erythrocebus_patas:0.1472259239)97:0.0297435082)100:0.0204993526,(((Cercocebus_chrysogaster:0.0363712710,Mandrillus_leucophaeus:0.0234914455)100:0.0896382185,Macaca_mulatta:0.1044103886)100:0.0223532519,((Lophocebus_aterrimus:0.0850361169,Papio_anubis:0.0619939253)100:0.0103428783,Theropithecus_gelada:0.0521699211)100:0.0511030568)98:0.0210768018)100:0.0851150455,((Colobus_guereza:0.1300284311,Piliocolobus_badius:0.1271367875)100:0.0658700655,((((Nasalis_larvatus:0.0399450153,Simias_concolor:0.0259108304)100:0.0555497459,Pygathrix_nemaeus:0.1081102252)97:0.0086317067,Rhinopithecus_brelichi:0.1058979426)98:0.0182278054,((Presbytis:0.1258249615,Trachypithecus:0.1272073159)99:0.0265984817,Semnopithecus_entellus:0.0910649667)96:0.0183022367)100:0.0398747016)100:0.0629767137)100:0.1132631682,(((Gorilla_gorilla:0.0866340685,(Homo_sapiens:0.0622680060,Pan_troglodytes:0.0463515500)100:0.0128185227)100:0.0684921895,Pongo_pygmaeus:0.1283950101)99:0.0290997796,((Hoolock_hoolock:0.0456682213,(Hylobates_lar:0.0757475975,Symphalangus_syndactylus:0.0424161088)83:0.0087488883)88:0.0086685102,Nomascus:0.0794647947)100:0.0883857915)100:0.0633892615)98:0.0967207566,(((Carlito_syrichta:0.1584240538,Cephalopachus_bancanus:0.1037605363)100:0.0779469399,Tarsius:0.2474576125)100:0.4540545579,((Daubentonia_madagascariensis:0.5681143524,(Loris_tardigradus:0.3291994836,Otolemur:0.2922469047)100:0.2657617692)55:0.0530168829,((Eulemur:0.1609822770,Varecia_variegata:0.1503836989)100:0.0957804530,((Lepilemur:0.2388722383,Microcebus_murinus:0.3266096895)93:0.0506490546,(Procolobus_verus:0.0119716829,Propithecus_tattersalli:0.0016547636)100:0.1887520784)73:0.0418546103)100:0.1788817577)99:0.1860807646)100:0.3910577365)100:0.3326800662)97:0.0116543222,((((((Cacajao_ayresi:0.0009123698,Cacajao_hosomi:0.0000028607)100:0.0095660154,Cacajao_melanocephalus:0.0073712279)100:0.0250325024,(Cacajao_calvus:0.0141348574,((Cacajao_novaesi:0.0009124753,Cacajao_rubicundus:0.0009119284)100:0.0018784823,Cacajao_ucayalii:0.0036495796)100:0.0029766546)100:0.0232556811)100:0.0345681202,(Chiropotes_albinasus:0.0422261970,(Chiropotes_chiropotes:0.0067080409,Chiropotes_sagulatus:0.0024706726)100:0.0293709125)100:0.0648975879)100:0.0415407859,((Pithecia_albicans:0.0107425287,((Pithecia_hirsuta:0.0039427957,Pithecia_vanzolinii:0.0029971624)100:0.0046812409,(Pithecia_mittermeieri:0.0000028607,Pithecia_pissinattii:0.0009303820)100:0.0076298020)100:0.0109802134)98:0.0095372494,Pithecia_chrysocephala:0.0228810269)100:0.0542522674)100:0.0600481221,(((Cheracebus_lucifer:0.0213697653,(Cheracebus_regulus:0.0141177115,Cheracebus_torquatus:0.0131114467)100:0.0132682342)98:0.0048196600,(Cheracebus_lugens:0.0034097328,Xenothrix_mcgregori:0.0182691180)100:0.0277628788)100:0.0947330373,(((((Plecturocebus_bernhardi:0.0242504585,(Plecturocebus_grovesi:0.0118028203,Plecturocebus_moloch:0.0095365133)95:0.0023946233)99:0.0101616559,(Plecturocebus_cinerascens:0.0118030589,Plecturocebus_miltoni:0.0058328929)100:0.0217499170)97:0.0023676000,((Plecturocebus_brunneus:0.0165501811,(Plecturocebus_caligatus:0.0008897851,Plecturocebus_dubius:0.0000028607)100:0.0079309163)61:0.0028122368,Plecturocebus_cupreus:0.0352631100)100:0.0104331726)96:0.0141638480,Plecturocebus_hoffmannsi:0.0300442019)100:0.0489144690,Plecturocebus_donacophilus:0.0617990226)100:0.0554155771)100:0.0897980791)100:0.0303281183)100:0.0273279172,(((Ateles_belzebuth:0.0103249569,(Ateles_chamek:0.0000028607,Ateles_marginatus:0.0009176544)100:0.0087288685)99:0.0034435817,(Ateles_geoffroyi:0.0308602952,Ateles_paniscus:0.0313319394)99:0.0117534131)100:0.1032863593,Lagothrix_lagotricha:0.1010939899)100:0.0469369988)100:0.0633144881)97:0.0185845563)63:0.0086149236,Alouatta_guariba:0.0337310637)100:0.0291365542,Alouatta_discolor:0.0213873760);
+
+TIME STAMP
+----------
+
+Date and time: Fri Mar 14 14:02:13 2025
+Total CPU time used: 88.870377 seconds (0h:1m:28s)
+Total wall-clock time used: 90.13333702 seconds (0h:1m:30s)
+

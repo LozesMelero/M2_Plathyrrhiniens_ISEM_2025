@@ -1,0 +1,251 @@
+LOCUS       AF377897                 696 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Ateles sp. clone At-EDTA COII gene, complete cds; mitochondrial gene
+            for mitochondrial product.
+ACCESSION   AF377897
+VERSION     AF377897.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles sp. (spider monkey)
+  ORGANISM  Ateles sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S., Hasson,E. and Mudry,M.D.
+  TITLE     Description of the cytochrome c oxidase subunit II gene in some
+            genera of New World monkeys (primates, Platyrrhini)
+  JOURNAL   Genetica 114 (3), 253-267 (2002)
+   PUBMED   12206364
+REFERENCE   2  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S., Hasson,E. and Mudry,M.D.
+  TITLE     COII as a useful tool for phylogenetic studies in some genera of New
+            World monkeys (Primates, Platyrrhini)
+  JOURNAL   Zool. Scr. 32 (5), 397-406 (2003)
+REFERENCE   3  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAY-2001) Ciencias Biologicas, Universidad de Buenos
+            Aires, Ciudad Universitaria Pabellon: 2 4to. piso lab 96, Buenos
+            Aires C1428EHA, Argentina
+FEATURES             Location/Qualifiers
+     source          1..696
+                     /organism="Ateles sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9511"
+                     /clone="At-EDTA"
+     gene            1..696
+                     /gene="COII"
+     CDS             1..696
+                     /gene="COII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AAM46135.1"
+                     /translation="MAHPAQLGLQNATSPIMEELIAFHDHTLMIIFLISSLVLYIISMM
+                     LTTKLTHTSTMNAQEIEMIWTILPAIILIMIALPSLRILYMTDEFNKPYLTLKAIGHQW
+                     YWSYEYSDYVDLAFDSYIMPTYFLEPGEFRLLEVDNRTTLPMEADIRMLISSQDVLHSW
+                     AVPSLGVKADAIPGRLNQAMLASMRPGLFYGQCSEICGSNHSFMPIVLEFIYFQDFEVW
+                     ASYLYIVSL"
+ORIGIN
+        1 atggcccacc cagctcaact aggcttacaa aatgctacat cacccatcat agaagaactt
+       61 atcgctttcc acgaccacac tcttataatt attttcctaa ttagctcgct agtattatat
+      121 attatctcca taatacttac tacaaaacta acccatacca gtaccataaa tgcccaagaa
+      181 atcgaaataa tctgaactat tctacctgca attatcctta tcataatcgc cctcccatcc
+      241 ctacgtattt tatatataac agacgaattt aataagccct acctaaccct caaagcaatc
+      301 ggccaccaat gatactgaag ctacgagtac tcagactatg tggacttagc ctttgactct
+      361 tatattatac ctacatactt tcttgaacct ggtgaattcc gacttcttga agtagataac
+      421 cgaacaaccc taccaataga agcagacatc cgcatattaa tctcatcaca agacgtctta
+      481 cactcatgag ctgtcccatc tctaggtgtt aaagcagatg caattccagg acgcctaaac
+      541 caagccatac tagcctctat acgtccaggc ctgttttacg gacagtgttc agaaatctgc
+      601 gggtcaaatc acagctttat acctattgtc ctagaattca tctacttcca agatttcgaa
+      661 gtatgagcct catacttata tattgtatca ctgtaa
+//
+LOCUS       AF377896                 696 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Ateles sp. clone AtQ-LP cytochrome c oxidase subunit II gene,
+            complete cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF377896
+VERSION     AF377896.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles sp. (spider monkey)
+  ORGANISM  Ateles sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S., Hasson,E. and Mudry,M.D.
+  TITLE     Description of the cytochrome c oxidase subunit II gene in some
+            genera of New World monkeys (primates, Platyrrhini)
+  JOURNAL   Genetica 114 (3), 253-267 (2002)
+   PUBMED   12206364
+REFERENCE   2  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S., Hasson,E. and Mudry,M.D.
+  TITLE     COII as a useful tool for phylogenetic studies in some genera of New
+            World monkeys (Primates, Platyrrhini)
+  JOURNAL   Zool. Scr. 32 (5), 397-406 (2003)
+REFERENCE   3  (bases 1 to 696)
+  AUTHORS   Ascunce,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAY-2001) Ciencias Biologicas, Universidad de Buenos
+            Aires, Ciudad Universitaria Pabellon: 2 4to. piso lab 96, Buenos
+            Aires C1428EHA, Argentina
+FEATURES             Location/Qualifiers
+     source          1..696
+                     /organism="Ateles sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9511"
+                     /clone="AtQ-LP"
+     gene            1..696
+                     /gene="COII"
+     CDS             1..696
+                     /gene="COII"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AAM46134.1"
+                     /translation="MAHPAQLGLQNATSPIMEELIAFHDHALMIIFLISSLVLYIISMM
+                     LTTKLTHTSTMNAQEIEMIWTILPAIILIMIALPSLRILYMTDEFNKPYLTLKAIGHQW
+                     YWSYEYSDYVDLAFDSYIMPTYFLEPGEFRLLEVDNRTTLPMEADIRMLISSQDVLHSW
+                     AVPSLGVKADAIPGRLNQAMLASMRPGLFYGQCSEICGSNHSFMPIVLEFIYFQDFEVW
+                     ASYLYIVSL"
+ORIGIN
+        1 atggcccacc cagctcaact aggattacaa aatgctacat cacccatcat agaagaactt
+       61 atcgctttcc atgaccatgc tcttataatt attttcctaa ttagctcact agtattatat
+      121 attatctcca taatacttac tacaaaacta acccatacca gtaccataaa tgcccaagaa
+      181 atcgaaataa tctgaactat tctacctgca attatcctta tcataatcgc cctcccatcc
+      241 ctacgtattt tatatataac agacgaattt aacaagccct acctaaccct caaagcaatc
+      301 ggccaccaat gatactgaag ctacgaatac tcagactatg tggacttagc ctttgactct
+      361 tatattatac ctacatactt tcttgaacct ggcgaattcc gacttcttga agtagataac
+      421 cgaacaaccc taccaataga agcagacatc cgcatattaa tctcatcaca agacgtctta
+      481 cactcatgag ctgtcccatc tctaggtgtt aaagcagatg caattccagg acgcctaaac
+      541 caagccatac tagcctctat acgtccaggc ctgttttacg gacagtgttc agaaatctgc
+      601 gggtcaaatc acagctttat acctattgtc ctagaattca tctacttcca agatttcgaa
+      661 gtatgagcct catacttata tattgtatca ctgtaa
+//
+LOCUS       AY065904                 800 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Ateles sp. isolate S062 cytochrome b (cytb) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY065904
+VERSION     AY065904.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles sp. (spider monkey)
+  ORGANISM  Ateles sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 800)
+  AUTHORS   Cortes-Ortiz,L., Bermingham,E., Rico,C., Rodriguez-Luna,E.,
+            Ruiz-Garcia,M. and Sampaio,I.
+  TITLE     Molecular systematics and biogeography of the Neotropical monkey
+            genus, Alouatta
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 800)
+  AUTHORS   Cortes-Ortiz,L., Bermingham,E., Rico,C., Rodriguez-Luna,E.,
+            Ruiz-Garcia,M. and Sampaio,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2001) Naos Laboratories, Smithsonian Tropical
+            Research Institute, Apdo. 2072, Balboa, Rep. Panama
+FEATURES             Location/Qualifiers
+     source          1..800
+                     /organism="Ateles sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S062"
+                     /db_xref="taxon:9511"
+     gene            1..>800
+                     /gene="cytb"
+     CDS             1..>800
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAL58026.1"
+                     /translation="MTALRKTHPLAKIINNSFIDLPTPSNISAWWNFGSLLGICLIIQI
+                     TTGLFLAMHYTPDTSTAFSSVAHITRDVNYGWMVRYLHANGASMFFICLFLHIGRGLYY
+                     GSFLSLKTWNVGVILLLTTMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSNIVQW
+                     VWGGFSVDKATLTRFFTFHFILPFIIAALATIHLLFLHDTGSSNPSGMASDPDKIMFHP
+                     YYTTKDILGFILLLLCLMSLTLFSPDLLTDPDNYTLANPLNTPP"
+ORIGIN
+        1 atgaccgccc tccgcaaaac acacccacta gcaaaaatta ttaataattc attcattgac
+       61 ttacccacac catctaacat ctctgcctga tgaaattttg gctcacttct tggcatctgc
+      121 ttaattattc aaatcaccac aggcctattc ctagccatac actatacacc agatacttca
+      181 accgctttct cctcagtcgc tcatattacc cgagacgtaa actacggttg aatagtccgc
+      241 tacctacacg caaatggtgc ctccatattc tttatctgcc tctttctgca tatcggccga
+      301 ggcttatatt acggatcctt cctctctcta aagacctgaa atgttggtgt tatcctactg
+      361 cttacaacca tagccacagc attcataggt tatgtcctcc catgaggcca aatatcattc
+      421 tgaggggcca cagtaattac aaacctccta tcagccatcc cctacattgg atccaatatc
+      481 gtacaatgag tttgaggtgg cttttcagta gataaagcta cccttacacg attctttacc
+      541 tttcacttta ttctaccctt tattattgca gctctagcaa ctattcatct cttgtttctg
+      601 catgacacag gatcaagtaa cccgtcagga atagcatcag accctgacaa aattatattc
+      661 cacccctact acacaactaa agacatccta ggctttattc ttcttctcct atgcttaata
+      721 agcttaactt tattttcacc cgaccttctt actgatccag acaattatac attagccaac
+      781 cctctcaaca ccccacccca
+//
+LOCUS       AY065874                 842 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Ateles sp. isolate S062 ATP synthase 8 and ATP synthase 6 genes,
+            complete cds; mitochondrial genes for mitochondrial products.
+ACCESSION   AY065874
+VERSION     AY065874.1
+KEYWORDS    .
+SOURCE      mitochondrion Ateles sp. (spider monkey)
+  ORGANISM  Ateles sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Atelidae; Atelinae; Ateles.
+REFERENCE   1  (bases 1 to 842)
+  AUTHORS   Cortes-Ortiz,L., Bermingham,E., Rico,C., Rodriguez-Luna,E.,
+            Ruiz-Garcia,M. and Sampaio,I.
+  TITLE     Molecular systematics and biogeography of the Neotropical monkey
+            genus, Alouatta
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 842)
+  AUTHORS   Cortes-Ortiz,L., Bermingham,E., Rico,C., Rodriguez-Luna,E.,
+            Ruiz-Garcia,M. and Sampaio,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2001) Naos Laboratories, Smithsonian Tropical
+            Research Institute, Apdo. 2072, Balboa, Panama, Rep. Panama
+FEATURES             Location/Qualifiers
+     source          1..842
+                     /organism="Ateles sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S062"
+                     /db_xref="taxon:9511"
+     CDS             1..201
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase 8"
+                     /protein_id="AAL50176.1"
+                     /translation="MPQLDLSPWPVVILSMVMTLFYIIQLKMLNFTFYITPLSKLTKMQ
+                     KHKTTWELKWTKIYLPPSMCQ"
+     CDS             162..842
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase 6"
+                     /protein_id="AAL50177.1"
+                     /translation="MNQNLFASFNVPMILGIPLITLIIMFPAMLITPPNKLTSNRLSSL
+                     QQLLIQLLLKQMMMVHSIKGRTWSLLLSTLITFIALINLLGLTPYAFTPTTQLSMNMGM
+                     AIPLWMATVLMGLRSKTKESLAHFLPQGTPAPLIPMLVIIETISLFIQPIALAVRLTAN
+                     ITAGHLLMHLLGDTALTLSSIYLSSSVITVIVIILLITLELGVALIQAYVFTLLVSLYL
+                     HNNS"
+ORIGIN
+        1 atgcctcaac tagatttatc accatgacca gtggtgattc tatcaatagt cataaccctg
+       61 ttctatatta ttcaattaaa aatactgaat tttactttct atattacccc actatcaaaa
+      121 ttaacaaaaa tacaaaaaca taaaacaact tgagaattaa aatgaaccaa aatctatttg
+      181 cctccttcaa tgtgccaata atcttaggaa tccccctgat cacattaatt atcatattcc
+      241 ccgctatatt gattacaccc cccaataaac taaccagcaa tcgactctcc tcccttcaac
+      301 aactactaat tcaactccta ctaaaacaaa taataatagt gcatagcatt aaaggacgga
+      361 cctgatccct cctactttca accctaatta ctttcattgc cctaatcaat cttctcggac
+      421 ttacacccta tgcattcaca ccaactaccc agctgtcaat aaatataggc atagcaattc
+      481 ccctatgaat agccaccgta ctaataggac ttcgatctaa aacaaaagaa tctctagctc
+      541 atttcttacc tcaaggaaca cccgctccac ttatccccat actagttatc attgaaacaa
+      601 tcagcctttt catccaacca atcgcactag ccgtacgatt aacagccaac attacagcag
+      661 gccatctatt aatacaccta ctaggagaca ccgcattaac cctctcgtct atctatttat
+      721 cttcctccgt aatcacagtt atcgttatca ttttactaat tactctagaa ttaggtgtcg
+      781 ccctaattca agcctacgtc tttacactcc tagtaagcct atatctacac aataattcat
+      841 aa
+//

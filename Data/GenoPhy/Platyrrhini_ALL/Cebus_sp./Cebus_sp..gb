@@ -1,0 +1,41 @@
+LOCUS       KJ737388                 515 bp    DNA     linear   PRI 23-APR-2016
+DEFINITION  Cebus sp. haplotype 697 D-loop, partial sequence; mitochondrial.
+ACCESSION   KJ737388
+VERSION     KJ737388.1
+KEYWORDS    .
+SOURCE      mitochondrion Cebus sp
+  ORGANISM  Cebus sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Cebidae; Cebinae; Cebus.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Hassel,D.L., Mudry,M.D., Arguelles,C.F. and Nieves,M.
+  TITLE     Haplotipic diversity in Cebus nigritus and Cebus libidinosus
+            specimens from their southernmost geographic distribution
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 515)
+  AUTHORS   Hassel,D.L., Mudry,M.D., Arguelles,C.F. and Nieves,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2014) Grupo de Investigacion en Biologia
+            Evolutiva, Facultad de Ciencias Exactas y Naturales, Universidad de
+            Buenos Aires, Intendente Guiraldes 2160, Ciudad Autonoma de Buenos
+            Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Cebus sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9517"
+                     /haplotype="697"
+     D-loop          <1..>515
+ORIGIN
+        1 aattagtgca ttattgttta tccccatgaa taatacatag tactatacat gcttaactat
+       61 acatagcaca tagagccaag acgtgcatat tataccagcg aacatgctta caagcaggaa
+      121 ctgtgatttc acattggact atagcgcatt aaacccgcac ctcacatact aaacgcgctc
+      181 accacgaata ttatctagta catagaatca ttgatagtac atttgcacat taggtgattg
+      241 gtcggacata gcgcatccta tttcttcagt ccttctaacc atggatatcc ccccgtgtat
+      301 ttggtctctt aatctaccaa cctccgtgaa accaccaacc cgcccacatc tgcggctctt
+      361 ctcgctccgg gcccatatag acagggcttg gttatactga aactatacct ggcatttggt
+      421 tcctacctca gggccatctc accaagatcg tgtccacgtt cctcttaaat aagacatcac
+      481 gatggtgtgg cgctatcacc ctcttaaccg cgtca
+//

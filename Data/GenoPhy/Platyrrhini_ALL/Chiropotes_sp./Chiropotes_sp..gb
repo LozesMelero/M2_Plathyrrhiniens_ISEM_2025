@@ -1,0 +1,64 @@
+LOCUS       KR528426                 627 bp    DNA     linear   PRI 19-DEC-2015
+DEFINITION  Chiropotes sp. isolate Z64 cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   KR528426
+VERSION     KR528426.1
+KEYWORDS    .
+SOURCE      mitochondrion Chiropotes sp
+  ORGANISM  Chiropotes sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Platyrrhini; Pitheciidae; Pitheciinae; Chiropotes.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     An expanded search for simian foamy viruses (SFV) in Brazilian New
+            World primates identifies novel SFV lineages and host age-related
+            infections
+  JOURNAL   Retrovirology 12 (1), 94 (2015)
+   PUBMED   26576961
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Muniz,C.P., Jia,H., Shankar,A., Troncoso,L.L., Augusto,A.M.,
+            Farias,E., Pissinatti,A., Fedullo,L.P., Santos,A.F., Soares,M.A. and
+            Switzer,W.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-2015) Departamento de Genetica, Universidade
+            Federal do Rio de Janeiro, Rua Professor Rodolpho Paulo Rocco, s/No.
+            Predio do Centro de Ciencias da Saude (CCS), Bloco A, Sala A2-120.
+            Bairro Ilha do Fundao, Rio de Janeiro, Rio de Janeiro 21.941-617,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Chiropotes sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Z64"
+                     /db_xref="taxon:1758238"
+                     /geo_loc_name="Brazil"
+     gene            <1..>627
+                     /gene="cytb"
+     CDS             <1..>627
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ALS54793.1"
+                     /translation="ITQIITGLFLAMHYTSDSSTAFSSVAHITRDVNYGWMVRYLHANG
+                     ASLFFMCLFLHIGRGLYYGSFLFLNTWNIGIILLLTTMATAFMGYVLPWGQMSFWGATV
+                     ITNLLSAIPYIGPDLVQWIWGGFSVDKATLTRFFTFHFILPFIIAALASIHLLFLHDTG
+                     SNNPSGLTSDPDKVSFHPYYTIKDILGLIFLLLLLMSLTLFMPDLL"
+ORIGIN
+        1 attacccaaa tcatcacagg cctattccta gctatacact acacatcaga ctcctccact
+       61 gctttttcct cagtcgccca catcacccga gatgtaaatt acggctgaat agtccgctac
+      121 ctccatgcta atggcgcttc cctattcttc atatgcctat ttcttcacat tgggcgaggc
+      181 ctatactacg gatcctttct cttcctaaat acatgaaaca ttggcatcat cttattactc
+      241 acaactatag ctacggcatt tataggttat gtactcccat gaggccaaat atctttctga
+      301 ggggccacag taattacaaa tctcctatca gctatcccat acatcggacc ggatctagtt
+      361 caatgaatct gaggcggctt ctccgttgat aaagccactc taacccgatt cttcaccttc
+      421 cactttattt taccttttat cattgcagcc ttagcatcta ttcacctcct gtttctgcat
+      481 gacacaggtt caaataaccc atcaggactg acatccgacc cagacaaagt atcatttcac
+      541 ccatactata caattaaaga tatcttaggc ttaatcttcc tacttcttct tctaataagc
+      601 ctaaccctat ttatacccga ccttcta
+//

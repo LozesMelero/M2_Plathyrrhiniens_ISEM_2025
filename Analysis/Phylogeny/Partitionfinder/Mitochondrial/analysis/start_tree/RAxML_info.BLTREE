@@ -1,0 +1,169 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3303 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 22.31%
+
+RAxML Model Optimization up to an accuracy of 1.000000 log likelihood units
+
+Using 5 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 1.0000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 804
+Name: Subset1
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 1
+Alignment Patterns: 447
+Name: Subset2
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 2
+Alignment Patterns: 454
+Name: Subset3
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 3
+Alignment Patterns: 798
+Name: Subset4
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 4
+Alignment Patterns: 800
+Name: Subset5
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/newvol/lbuffan/partitionfinder/programs/raxml_pthreads.linux -f e -s ./analysis/start_tree/filtered_source.phy -t ./analysis/start_tree/RAxML_fastTree.fastTREE -m GTRGAMMA -O -n BLTREE -p 123456789 -q ./analysis/start_tree/partitions.txt -w /newvol/lbuffan/Platyrrhini/Partitionfinder/Mitochondrial/analysis/start_tree -e 1 -T 20 --silent --no-seq-check 
+
+
+
+Model parameters (binary file format) written to: /newvol/lbuffan/Platyrrhini/Partitionfinder/Mitochondrial/analysis/start_tree/RAxML_binaryModelParameters.BLTREE
+
+
+Overall Time for Tree Evaluation 9.868167
+Final GAMMA  likelihood: -158950.454985
+
+Number of free parameters for AIC-TEST(BR-LEN): 428
+Number of free parameters for AIC-TEST(NO-BR-LEN): 45
+
+
+Model Parameters of Partition 0, Name: Subset1, Type of Data: DNA
+alpha: 0.274609
+Tree-Length: 12.914979
+rate A <-> C: 1.902128
+rate A <-> G: 19.142731
+rate A <-> T: 1.728510
+rate C <-> G: 0.690065
+rate C <-> T: 23.491874
+rate G <-> T: 1.000000
+
+freq pi(A): 0.275909
+freq pi(C): 0.255019
+freq pi(G): 0.159611
+freq pi(T): 0.309462
+
+Model Parameters of Partition 1, Name: Subset2, Type of Data: DNA
+alpha: 0.334739
+Tree-Length: 12.914979
+rate A <-> C: 1.351650
+rate A <-> G: 15.369384
+rate A <-> T: 1.329633
+rate C <-> G: 0.612346
+rate C <-> T: 19.301280
+rate G <-> T: 1.000000
+
+freq pi(A): 0.316487
+freq pi(C): 0.266889
+freq pi(G): 0.136867
+freq pi(T): 0.279756
+
+Model Parameters of Partition 2, Name: Subset3, Type of Data: DNA
+alpha: 0.342265
+Tree-Length: 12.914979
+rate A <-> C: 1.879295
+rate A <-> G: 16.239373
+rate A <-> T: 2.102296
+rate C <-> G: 0.327670
+rate C <-> T: 23.259983
+rate G <-> T: 1.000000
+
+freq pi(A): 0.279908
+freq pi(C): 0.288127
+freq pi(G): 0.147100
+freq pi(T): 0.284865
+
+Model Parameters of Partition 3, Name: Subset4, Type of Data: DNA
+alpha: 0.369358
+Tree-Length: 12.914979
+rate A <-> C: 1.337528
+rate A <-> G: 13.182760
+rate A <-> T: 1.130967
+rate C <-> G: 0.544015
+rate C <-> T: 14.441501
+rate G <-> T: 1.000000
+
+freq pi(A): 0.291918
+freq pi(C): 0.303004
+freq pi(G): 0.120902
+freq pi(T): 0.284176
+
+Model Parameters of Partition 4, Name: Subset5, Type of Data: DNA
+alpha: 0.457075
+Tree-Length: 12.914979
+rate A <-> C: 0.738639
+rate A <-> G: 8.066341
+rate A <-> T: 0.689255
+rate C <-> G: 0.327231
+rate C <-> T: 7.260236
+rate G <-> T: 1.000000
+
+freq pi(A): 0.352413
+freq pi(C): 0.294710
+freq pi(G): 0.079780
+freq pi(T): 0.273096
+
+Final tree written to:                 /newvol/lbuffan/Platyrrhini/Partitionfinder/Mitochondrial/analysis/start_tree/RAxML_result.BLTREE
+Execution Log File written to:         /newvol/lbuffan/Platyrrhini/Partitionfinder/Mitochondrial/analysis/start_tree/RAxML_log.BLTREE
